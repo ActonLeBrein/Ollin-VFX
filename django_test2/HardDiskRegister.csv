@@ -1,0 +1,24 @@
+HardDiskRegisterID,ProjectID,StatusID,SerialNumber,HardDiskNumber,HardDiskName,FromAddress,ContentOnArrival,ArrivalDate,ContentOnExit,ExitDate,Notes
+4,78,2,2CAC13SS,1736,MAXTOR,"300 Rose Avenue, Venice, CA 90291","EC SequencePower Cables IncludedEncrypted",2010-02-22,,,"Contact Person - Marcus X2929"
+5,78,2,2CAC0FBL,1713,"MAXTOR - 320GB",,,2010-02-26,,,"POWER CABLES & FW600"
+6,110,1,13081002111969QR,0,"LACIE 1T","PORFIRIO DIAZ 39 COL. NOCHEBUENA MEXICO D.F. 03720",,2010-08-25,"DPX seq. Shots",2010-08-18,"Finals and latest DPX versions for every shot carried by Jonah to L.A."
+7,110,1,4119684CSM,0,LACIE,"4142 Lankershim BlvdSuite 1NOrth Hollywood CA, USA","Material en general para shots",2010-07-14,,,
+8,110,0,WJA0201448,0,IOMEGA,,,2010-08-18,,,"PROPIEDAD DE OLLIN VFXCOMPRADO POR CHARLIE"
+9,0,0,,0,,,,,,,
+10,0,0,,0,,,,,,,
+11,0,0,,0,,,,,,,
+12,151,1,U5BA140101,31817400,Iomega_HDD,ggarcia,,2011-10-28,dor_020,,"Scans & References"
+13,0,0,,0,,,,,,,
+14,3,1,12345-5268-132154,123456,"El disco IOMEGA","Canoga Park 123","DPX del proyecto machin",2011-10-20,"Delivery DPX",2011-10-28,"Muy Bonito"
+15,0,0,,0,,,,,,,
+16,3,1,2134564123,3,LaCie,,"plates de tron",2012-02-15,asdasd,2012-01-18,
+17,151,2,,2,HD#2,,,2012-01-17,"GDT_r7_floormat01GDT_r8_box01blu_040blu_060blu_070blu_080blu_090",2012-01-19,
+18,174,2,1322910240552QR,0,TAXI_01,"Labo Films","Pruebas ca;onanzos",2012-04-13,,,Rugged
+19,174,2,1322910240552QR,0,TAXI_01,"Labo Films","Prueba ca;onazos",2012-04-09,,2012-04-11,
+20,174,2,1322910240618QR,2,Taxi_02,,,2012-04-16,,,
+23,0,0,,0,,,,,,,
+24,3,1,123123,4,"el disco recibido","Address #123",COA,2014-06-26,COER,2014-06-27,"Las pinchis notas"
+25,0,0,,0,,,,,,,
+26,0,0,,0,,,,,,,
+27,0,0,,0,,,,,,,
+31,0,0,,0,,,,,,,

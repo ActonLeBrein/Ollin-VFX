@@ -1,0 +1,9 @@
+UserType,TypeName
+1,Administrator
+2,Capturer
+3,Client
+4,Artist
+5,Executive
+6,Visitor
+7,Supervisor
+8,Bot

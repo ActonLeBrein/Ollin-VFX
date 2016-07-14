@@ -1,0 +1,22 @@
+  <dir name = "nick">
+ 	<dir name="expected">
+ 		<dir name="missing">
+ 			<dir name="tampoco"></dir>
+ 		</dir>
+ 	</dir>
+ 	<dir name="common">
+ 		<dir name="asset"></dir>
+ 		<dir name="incoming"></dir>
+ 	</dir>
+ 	<dir>
+ 		<dir name="scans">
+ 			<dir name="sonofscans">
+ 				<dir name="returnofthesonofscans">
+ 					<dir>
+ 						<dir name="ass"></dir>
+ 					</dir>
+ 				</dir>
+ 			</dir>
+ 		</dir>
+ 	</dir>
+ </dir>

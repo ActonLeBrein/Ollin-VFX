@@ -1,0 +1,1001 @@
+CustomShotFieldID,ProjectID,FieldName,DefaultValue
+1,3,FirstCustomField,"first default value"
+2,3,SecondCustomField,"second default value"
+3,2,"Clock Reference",
+4,2,"redelivery notes",
+5,2,"YellowStripe Text",NULL
+6,3,"YellowStripe Text",prueba
+7,13,"Revision Bid",
+8,3,"Revision Bid",Test
+9,17,Revision,
+11,15,"main layer",
+12,13,"External Version",0
+13,17,"External Version",0
+14,18,"External Version",0
+16,13,"Default Lut",sRGB+FullFrame
+17,17,"Default Lut",sRGBLin+FullFrame
+18,18,"Default Lut",sRGBLin+FullFrame
+19,13,Format,"1920 1080 HD"
+20,17,Format,"1920 1080 HD"
+21,18,Format,"1920 1080 HD"
+22,13,FPS,24
+23,17,FPS,24
+24,18,FPS,24
+25,46,Revision,
+26,46,"External Version",
+27,46,"Default Lut",sRGB
+28,46,Format,"1920 1080 HD"
+29,46,FPS,30
+30,34,Revision,
+31,34,"External Version",0
+32,34,"Defaul Lut",
+33,34,Format,"2048 1556 1 2K"
+34,34,FPS,24
+35,34,"Delivery Name",NULL
+36,56,"External Version",0
+37,56,FPS,24
+38,56,Format,"2048 1556 2K"
+39,55,"Default Lut",sRGB+FullFrame
+40,55,Format,"1920 1080 1 HD"
+41,55,FPS,24
+42,55,"External Version",0
+43,55,Revision,
+44,20,"Revision Bid",
+45,20,"External Version",
+46,20,"Default Lut",sRGB+FullFrame
+47,20,Format,"1920 1080 HD"
+49,20,FPS,24
+50,19,FPS,24
+51,19,"Revision Bid",
+52,19,"Default Lut",sRGB+FullFrame
+53,19,Format,"1920 1080 HD"
+54,19,"External Version",
+55,53,Revision,
+56,53,"External Version",
+57,53,"Default Lut",sRGBLin+FullFrame
+58,53,Format,"1920 1080 HD"
+59,53,FPS,24
+60,53,Extension,TIFF
+61,57,Format,"2048 1156 2k"
+62,57,"External Version",
+63,57,FPS,24
+64,57,"Default LUT",sRGB+FullFrame
+65,57,Extension,dpx
+66,82,Format,
+67,82,FPS,24
+68,82,"Default LUT",
+69,82,Extension,exr
+70,82,"External Version",NULL
+71,47,Format,"1920 1080 HD"
+72,47,"External Version",NULL
+73,47,FPS,24
+74,47,"Default LUT",SRGBLin+FullFrame
+75,47,Extension,TIFF
+76,57,"Final Name",
+77,93,Format,"720 486 SD"
+78,93,"External Version",
+79,93,"Deafult LUT",
+80,93,Extension,
+81,93,FPS,30
+82,99,"Total Cuts",
+83,94,"External Version",
+84,94,FPS,
+85,94,Format,
+86,94,"Default LUT",sRGB+FullFrame43
+87,94,Extension,tga
+88,105,"YellowStripe Text",
+89,106,"YellowStripe Text",
+90,107,"YellowStripe Text",
+92,61,Format,"1920 1080 HD"
+93,61,"External Version",
+94,61,FPS,24
+95,61,"Default LUT",SRGBLin+FullFrame
+96,61,Extension,TIFF
+97,100,"Default LUT",sRGB+FullFrame43
+98,100,"External Version",
+99,78,Format,"1920 1080 HD"
+100,78,"External Version",0
+101,78,FPS,24
+102,78,"Default LUT",TronMonitor_lut
+103,78,Extension,exr
+104,78,"Actor Name",
+105,78,"Calmed Front",
+106,78,"Transition Front",
+107,78,"Cheer Front",
+108,78,"Calmed Diagonal",
+109,78,"Transition Diagonal",
+110,78,"Cheer Diagonal",
+111,78,Sex,
+112,78,Stripes,
+113,78,Light,
+114,108,"Default LUT",sRGB+FullFrame
+115,108,"External Version",
+116,109,"External Version",
+117,113,"Default LUT",ILM_artisan
+118,113,Extension,exr
+119,113,Format,"2048 1556 1 2k"
+120,113,FPS,24
+121,112,"External Version",
+122,112,FPS,
+123,112,Format,
+124,112,"Default LUT",sRGB+FullFrame43
+125,112,Extension,tga
+126,126,"External Version",
+127,126,FPS,
+128,126,Format,
+129,126,"Default LUT",sRGB+FullFrame43
+130,126,Extension,tga
+131,113,"External Version",
+132,103,"External Version",
+133,103,FPS,24
+134,103,Format,"720 486 1 NTSC"
+135,103,"Default LUT",sRGB+FullFrame43
+136,103,Extension,tga
+137,78,"Scan Name Right",
+138,78,"Scan Name Left",
+139,78,input-output,
+140,78,Director,"Joseph Kosinski"
+141,78,comment,"No comment."
+142,113,comment,"No comment."
+143,78,Stereo,1
+144,78,Fixed,
+145,78,Orient,
+146,78,"Delivery Name",comp
+147,78,"Int I/O",
+148,78,"Int Conv",
+149,78,"Int Lens",
+150,3,Stereo,0
+151,110,"External Version",
+152,128,Director,"David Fincher"
+153,128,Format,"1920 1080 HD"
+154,128,FPS,24
+155,128,"External Version",0
+156,128,"Default LUT",TSON_lut
+157,128,"Delivery Name",layout
+158,128,start_frame,1
+159,78,HeadHandles,
+160,78,TailHandles,
+161,137,Stereo,1
+162,137,Format,"1920 1080 HD"
+163,137,"External Version",0
+164,137,FPS,24
+165,137,Extension,exr
+166,137,Director,--
+167,137,Comment,"No comment"
+168,137,"Delivery Name",
+169,137,HeadHandles,
+170,137,TailHandles,
+171,3,"External Version",0
+172,130,Stereo,0
+173,130,Format,"1920 818 1 RedTailsFormat"
+174,130,"External Version",0
+175,130,FPS,24
+176,130,Extension,exr
+177,130,Director,"Anthony Hemingway"
+178,130,Comment,"No comment"
+179,130,"Delivery Name",comp
+180,130,start_frame,1
+181,130,Layers,
+182,130,HeadHandles,7
+183,130,TailHandles,7
+184,130,"Incoming Format","1920 1080 HD"
+185,130,"Default LUT",REDT_LUT
+186,130,"Tech Comment",
+187,138,"VFX Breakdown",
+188,138,Stereo,1
+189,138,Format,"2240 960 POC4Format"
+190,138,"External Version",0
+191,138,FPS,24
+192,138,Extension,exr
+193,138,Director,"Rob Marshall"
+194,138,Comment,"No comment"
+195,138,"Delivery Name",layout
+196,138,start_frame,1
+197,138,Layers,
+198,138,HeadHandles,
+199,138,TailHandles,
+200,138,"Incoming Format","2240 960 2K"
+201,138,"Default LUT",rec709
+202,138,"Tech Comment",
+203,130,"Agenda Comment",
+204,3,start_frame,46
+205,3,"Delivery Name Lighting",light
+206,3,"External Version Lighting",57
+207,130,"Delivery Name JefeCorp",JEFE
+208,130,"External Version JefeCorp",42
+209,130,"Delivery Name Anim",anim
+210,130,"External Version Anim",0
+211,130,"External Version TD",0
+213,130,"Delivery Name TD",td
+214,3,"Delivery Name",Layout
+215,148,Stereo,0
+216,148,"External Version",0
+217,148,FPS,24
+218,148,"Delivery Name",layout
+219,148,Extension,dpx
+220,148,start_frame,1
+222,3,"Int Lens",CANONPSMIL
+223,148,"Int Lens",
+224,3,"Delivery Name layout",layout
+225,3,"External Version layout",1
+226,147,Amount_Shots,1
+227,149,Stereo,0
+228,149,Format,"2048 1156"
+229,149,"Extarnal version",0
+230,149,FPS,24
+231,149,Extension,dpx
+232,149,Director,
+233,149,Comment,"No comment"
+234,149,"Delivery Name",comp
+235,149,start_frame,
+236,149,Layers,1
+237,149,HeadHandles,
+238,149,TailHandles,
+239,149,"Incoming Format","2048 1156"
+240,149,"Default LUT",
+241,149,"Tech Comment",
+242,149,"Agenda Comment",
+243,149,"Delivery Name JefeCorp",JEFE
+244,149,"External version JefeCorp",0
+245,149,"Delivery Name  Anim",anim
+246,149,"External version  Anim",0
+247,149,"External version  TD",0
+248,149,"Delivery Name TD",td
+249,146,Stereo,0
+250,146,Format,"1920 1080"
+251,146,"External version",0
+252,146,FPS,24
+253,146,Extension,dpx
+254,146,Director,
+255,146,Comment,"No comment"
+256,146,"Delivery Name",comp
+257,146,"start frame",0001
+258,146,Layers,1
+259,146,HeadHandles,0
+260,146,TailHandles,0
+261,146,"Incoming Format","1920 1080"
+262,146,"Default LUT",
+263,146,"Tech Comment",
+264,146,"Agenda Comment",
+265,146,"Delivery Name JefeCorp",JEFE
+266,146,"External Version JefeCorp",
+267,146,"Delivery Name Anim",anim
+268,146,"External version Anim",0
+269,146,"External Version TD",0
+270,146,"Delivery Name TD",td
+271,149,"Delivery Name comp",comp
+272,149,"External Version comp",0
+273,152,Format,"1920 1080 HD"
+274,152,"Incoming Format",
+275,152,Layers,1
+276,152,Extension,exr
+277,152,FPS,24
+278,152,start_frame,0
+279,152,"External Version",0
+280,152,"Delivery Name",comp
+281,152,"Delivery Name comp",comp
+282,152,"External Version comp",0
+283,152,"Delivery Name anim",anim
+284,152,"External Version anim",0
+285,152,"Delivery Name layout",layout
+286,152,"External Version layout",0
+287,152,"Delivery Name td",td
+288,152,"External Version td",0
+289,152,Stereo,0
+290,152,"Tech Comment",
+291,152,"Default LUT",
+292,152,HeadHandles,
+293,152,TailHandles,
+294,151,Stereo,0
+299,3,csf2,2
+301,151,Format,"4352 2176 1 4K"
+303,151,"External Version Comp",0
+304,151,FPS,24
+305,151,Extension,dpx
+306,151,Director,"David Fincher"
+307,151,"Tech Comment",
+308,151,"Delivery Name Comp",comp
+309,151,start_frame,1
+310,151,Layers,1
+311,151,HeadHandles,8
+312,151,TailHandles,8
+313,151,"Incoming Format","4352 2176 1 4K"
+314,151,"Default LUT",
+315,151,"Delivery Name JefeCorp",JEFE
+316,151,"External Version JefeCorp",0
+317,151,"Delivery Name Anim",anim
+318,151,"External Version Anim",0
+319,151,"External version TD",0
+320,151,"Delivery Name TD",td
+321,151,"External version layout",0
+322,151,"Delivery Name layout",layout
+323,151,"Int Lens",
+324,151,"Shutter Speed",
+325,151,"Shutter Angle",
+326,153,Format,"1920 1080 HD"
+327,153,"Incoming Format",
+328,153,Layers,1
+329,153,Extension,exr
+330,153,FPS,24
+331,153,start_frame,0
+332,153,"External Version",0
+333,153,"Delivery Name",comp
+334,153,"Delivery Name comp",comp
+335,153,"External Version comp",0
+336,153,"Delivery Name anim",anim
+337,153,"External Version anim",0
+338,153,"Delivery Name layout",layout
+339,153,"External Version layout",0
+340,153,"Delivery Name td",td
+341,153,"External Version td",0
+342,153,Stereo,0
+343,153,"Tech Comment",
+344,153,"Default LUT",
+345,153,HeadHandles,
+346,153,TailHandles,
+347,154,Format,"1920 1080 HD"
+348,154,"Incoming Format",
+349,154,Layers,1
+350,154,Extension,exr
+351,154,FPS,24
+352,154,start_frame,0
+353,154,"External Version",0
+354,154,"Delivery Name",comp
+355,154,"Delivery Name comp",comp
+356,154,"External Version comp",0
+357,154,"Delivery Name anim",anim
+358,154,"External Version anim",0
+359,154,"Delivery Name layout",layout
+360,154,"External Version layout",0
+361,154,"Delivery Name td",td
+362,154,"External Version td",0
+363,154,Stereo,0
+364,154,"Tech Comment",
+365,154,"Default LUT",
+366,154,HeadHandles,
+367,154,TailHandles,
+368,151,cc,1
+369,151,InTimecode,00:00:00:01
+370,155,Format,"1920 1080 HD"
+371,155,"Incoming Format",
+372,155,Layers,1
+373,155,Extension,exr
+374,155,fps,24
+375,155,start_frame,0
+376,155,"External Version",0
+377,155,"Delivery Name",comp
+378,155,"Delivery Name comp",comp
+379,155,"External Version comp",0
+380,155,"Delivery Name anim",anim
+381,155,"External Version anim",0
+382,155,"Delivery Name layout",layout
+383,155,"External Version layout",0
+384,155,"Delivery Name td",td
+385,155,"External Version td",0
+386,155,Stereo,0
+387,155,"Tech Comment",
+388,155,"Default LUT",rec709
+389,155,HeadHandles,
+390,155,TailHandles,
+391,156,Format,"1920 1080 HD"
+392,156,"Incoming Format",
+393,156,Layers,1
+394,156,Extension,exr
+395,156,FPS,24
+396,156,start_frame,0
+397,156,"External Version",0
+398,156,"Delivery Name",comp
+399,156,"Delivery Name comp",comp
+400,156,"External Version comp",0
+401,156,"Delivery Name anim",anim
+402,156,"External Version anim",0
+403,156,"Delivery Name layout",layout
+404,156,"External Version layout",0
+405,156,"Delivery Name td",td
+406,156,"External Version td",0
+407,156,Stereo,0
+408,156,"Tech Comment",
+409,156,"Default LUT",
+410,156,HeadHandles,
+411,156,TailHandles,
+412,157,Format,"1920 1080 HD"
+413,157,"Incoming Format",
+414,157,Layers,1
+415,157,Extension,exr
+416,157,FPS,24
+417,157,start_frame,0
+418,157,"External Version",0
+419,157,"Delivery Name",comp
+420,157,"Delivery Name comp",comp
+421,157,"External Version comp",0
+422,157,"Delivery Name anim",anim
+423,157,"External Version anim",0
+424,157,"Delivery Name layout",layout
+425,157,"External Version layout",0
+426,157,"Delivery Name td",td
+427,157,"External Version td",0
+428,157,Stereo,0
+429,157,"Tech Comment",
+430,157,"Default LUT",
+431,157,HeadHandles,
+432,157,TailHandles,
+433,158,Format,"1920 1080 HD"
+434,158,"Incoming Format",
+435,158,Layers,1
+436,158,Extension,exr
+437,158,FPS,24
+438,158,start_frame,0
+439,158,"External Version",0
+440,158,"Delivery Name",comp
+441,158,"Delivery Name comp",comp
+442,158,"External Version comp",0
+443,158,"Delivery Name anim",anim
+444,158,"External Version anim",0
+445,158,"Delivery Name layout",layout
+446,158,"External Version layout",0
+447,158,"Delivery Name td",td
+448,158,"External Version td",0
+449,158,Stereo,0
+450,158,"Tech Comment",
+451,158,"Default LUT",
+452,158,HeadHandles,
+453,158,TailHandles,
+454,151,"Delivery Name",comp
+455,151,"External version",0
+458,159,Format,"1920 1080 HD"
+459,159,"Incoming Format",
+460,159,Layers,1
+461,159,Extension,exr
+462,159,FPS,24
+463,159,start_frame,0
+464,159,"External Version",0
+465,159,"Delivery Name",comp
+466,159,"Delivery Name comp",comp
+467,159,"External Version comp",0
+468,159,"Delivery Name anim",anim
+469,159,"External Version anim",0
+470,159,"Delivery Name layout",layout
+471,159,"External Version layout",0
+472,159,"Delivery Name td",td
+473,159,"External Version td",0
+474,159,Stereo,0
+475,159,"Tech Comment",
+476,159,"Default LUT",
+477,159,HeadHandles,
+478,159,TailHandles,
+479,145,Stereo,0
+480,145,Format,"2048 1152"
+482,145,fps,24
+483,145,Extension,exr
+484,145,Director,
+485,145,"Delivery Name",
+486,145,start_frame,1001
+487,145,Layers,
+488,145,HeadHandles,8
+489,145,TailHandles,8
+490,145,"Incoming Format","2048 1152"
+491,145,"Default LUT",ROCK_lut
+492,145,"Tech Comment",
+493,145,"Delivery Name JefeCorp",JEFE
+494,145,"External Version JefeCorp",
+495,145,"Delivery Name Anim",anim
+496,145,"External Version Anim",0
+497,145,"External version TD",0
+498,145,"Delivery Name TD",td
+499,145,"External version layout",0
+500,145,"Delivery Name layout",layout
+501,145,"Delivery Name comp",comp
+502,145,"External Version comp",0
+503,160,Format,"1920 1080 HD"
+504,160,"Incoming Format",
+505,160,Layers,1
+506,160,Extension,exr
+507,160,FPS,24
+508,160,start_frame,0
+509,160,"External Version",0
+510,160,"Delivery Name",comp
+511,160,"Delivery Name comp",comp
+512,160,"External Version comp",0
+513,160,"Delivery Name anim",anim
+514,160,"External Version anim",0
+515,160,"Delivery Name layout",layout
+516,160,"External Version layout",0
+517,160,"Delivery Name td",td
+518,160,"External Version td",0
+519,160,Stereo,0
+520,160,"Tech Comment",
+521,160,"Default LUT",
+522,160,HeadHandles,
+523,160,TailHandles,
+524,161,Format,"1920 1080 HD"
+525,161,"Incoming Format",
+526,161,Layers,1
+527,161,Extension,exr
+528,161,FPS,24
+529,161,start_frame,0
+530,161,"External Version",0
+531,161,"Delivery Name",comp
+532,161,"Delivery Name comp",comp
+533,161,"External Version comp",0
+534,161,"Delivery Name anim",anim
+535,161,"External Version anim",0
+536,161,"Delivery Name layout",layout
+537,161,"External Version layout",0
+538,161,"Delivery Name td",td
+539,161,"External Version td",0
+540,161,Stereo,0
+541,161,"Tech Comment",
+542,161,"Default LUT",
+543,161,HeadHandles,
+544,161,TailHandles,
+545,162,Format,"1920 1080 HD"
+546,162,"Incoming Format",
+547,162,Layers,1
+548,162,Extension,exr
+549,162,FPS,24
+550,162,start_frame,0
+551,162,"External Version",0
+552,162,"Delivery Name",comp
+553,162,"Delivery Name comp",comp
+554,162,"External Version comp",0
+555,162,"Delivery Name anim",anim
+556,162,"External Version anim",0
+557,162,"Delivery Name layout",layout
+558,162,"External Version layout",0
+559,162,"Delivery Name td",td
+560,162,"External Version td",0
+561,162,Stereo,0
+562,162,"Tech Comment",
+563,162,"Default LUT",
+564,162,HeadHandles,
+565,162,TailHandles,
+566,130,"Delivery Name Comp",comp
+567,130,"External Version Comp",
+568,148,"Delivery Name Comp",comp
+569,148,"External Version Comp",0
+570,163,Format,"1920 1080 HD"
+571,163,"Incoming Format",
+572,163,Layers,1
+573,163,Extension,exr
+574,163,FPS,24
+575,163,start_frame,0
+576,163,"External Version",0
+577,163,"Delivery Name",comp
+578,163,"Delivery Name comp",comp
+579,163,"External Version comp",0
+580,163,"Delivery Name anim",anim
+581,163,"External Version anim",0
+582,163,"Delivery Name layout",layout
+583,163,"External Version layout",0
+584,163,"Delivery Name td",td
+585,163,"External Version td",0
+586,163,Stereo,0
+587,163,"Tech Comment",
+588,163,"Default LUT",
+589,163,HeadHandles,
+590,163,TailHandles,
+591,164,Format,"1920 1080 HD"
+592,164,"Incoming Format",
+593,164,Layers,1
+594,164,Extension,exr
+595,164,FPS,24
+596,164,start_frame,0
+597,164,"External Version",0
+598,164,"Delivery Name",comp
+599,164,"Delivery Name comp",comp
+600,164,"External Version comp",0
+601,164,"Delivery Name anim",anim
+602,164,"External Version anim",0
+603,164,"Delivery Name layout",layout
+604,164,"External Version layout",0
+605,164,"Delivery Name td",td
+606,164,"External Version td",0
+607,164,Stereo,0
+608,164,"Tech Comment",
+609,164,"Default LUT",
+610,164,HeadHandles,
+611,164,TailHandles,
+612,165,Format,"1920 1080 HD"
+613,165,"Incoming Format",
+614,165,Layers,1
+615,165,Extension,exr
+616,165,FPS,24
+617,165,start_frame,1
+618,165,"External Version",0
+619,165,"Delivery Name",comp
+620,165,"Delivery Name comp",comp
+621,165,"External Version comp",0
+622,165,"Delivery Name anim",anim
+623,165,"External Version anim",0
+624,165,"Delivery Name layout",layout
+625,165,"External Version layout",0
+626,165,"Delivery Name td",td
+627,165,"External Version td",0
+628,165,Stereo,0
+629,165,"Tech Comment",
+630,165,"Default LUT",
+631,165,HeadHandles,
+632,165,TailHandles,
+633,166,Format,"1920 1080 HD"
+634,166,"Incoming Format",
+635,166,Layers,1
+636,166,Extension,exr
+637,166,FPS,24
+638,166,start_frame,1
+639,166,"External Version",0
+640,166,"Delivery Name",comp
+641,166,"Delivery Name comp",comp
+642,166,"External Version comp",0
+643,166,"Delivery Name anim",anim
+644,166,"External Version anim",0
+645,166,"Delivery Name layout",layout
+646,166,"External Version layout",0
+647,166,"Delivery Name td",td
+648,166,"External Version td",0
+649,166,Stereo,0
+650,166,"Tech Comment",
+651,166,"Default LUT",
+652,166,HeadHandles,
+653,166,TailHandles,
+654,167,Format,"1920 1080 HD"
+655,167,"Incoming Format",
+656,167,Layers,1
+657,167,Extension,exr
+658,167,FPS,24
+659,167,start_frame,1
+660,167,"External Version",0
+661,167,"Delivery Name",comp
+662,167,"Delivery Name comp",comp
+663,167,"External Version comp",0
+664,167,"Delivery Name anim",anim
+665,167,"External Version anim",0
+666,167,"Delivery Name layout",layout
+667,167,"External Version layout",0
+668,167,"Delivery Name td",td
+669,167,"External Version td",0
+670,167,Stereo,0
+671,167,"Tech Comment",
+672,167,"Default LUT",
+673,167,HeadHandles,
+674,167,TailHandles,
+675,168,Format,"1920 1080 HD"
+676,168,"Incoming Format",
+677,168,Layers,1
+678,168,Extension,exr
+679,168,FPS,24
+680,168,start_frame,1
+681,168,"External Version",0
+682,168,"Delivery Name",comp
+683,168,"Delivery Name comp",comp
+684,168,"External Version comp",0
+685,168,"Delivery Name anim",anim
+686,168,"External Version anim",0
+687,168,"Delivery Name layout",layout
+688,168,"External Version layout",0
+689,168,"Delivery Name td",td
+690,168,"External Version td",0
+691,168,Stereo,0
+692,168,"Tech Comment",
+693,168,"Default LUT",
+694,168,HeadHandles,
+695,168,TailHandles,
+696,145,"Delivery Name comp_avcc",comp_avcc
+697,145,"External Version comp_avcc",0
+698,155,"Fstop (apertura de lente)",
+699,155,Shooter,
+700,155,InTimecode,00:00:00:01
+701,169,Format,"1920 1080 HD"
+702,169,"Incoming Format",
+703,169,Layers,1
+704,169,Extension,exr
+705,169,FPS,24
+706,169,start_frame,1
+707,169,"External Version",0
+708,169,"Delivery Name",comp
+709,169,"Delivery Name comp",comp
+710,169,"External Version comp",0
+711,169,"Delivery Name anim",anim
+712,169,"External Version anim",0
+713,169,"Delivery Name layout",layout
+714,169,"External Version layout",0
+715,169,"Delivery Name td",td
+716,169,"External Version td",0
+717,169,Stereo,0
+718,169,"Tech Comment",
+719,169,"Default LUT",
+720,169,HeadHandles,
+721,169,TailHandles,
+722,170,Format,"1920 1080 HD"
+723,170,"Incoming Format",
+724,170,Layers,1
+725,170,Extension,exr
+726,170,FPS,24
+727,170,start_frame,1
+728,170,"External Version",0
+729,170,"Delivery Name",comp
+730,170,"Delivery Name comp",comp
+731,170,"External Version comp",0
+732,170,"Delivery Name anim",anim
+733,170,"External Version anim",0
+734,170,"Delivery Name layout",layout
+735,170,"External Version layout",0
+736,170,"Delivery Name td",td
+737,170,"External Version td",0
+738,170,Stereo,0
+739,170,"Tech Comment",
+740,170,"Default LUT",
+741,170,HeadHandles,
+742,170,TailHandles,
+743,171,Format,"1920 1080 HD"
+744,171,"Incoming Format",
+745,171,Layers,1
+746,171,Extension,exr
+747,171,FPS,24
+748,171,start_frame,1
+749,171,"External Version",0
+750,171,"Delivery Name",comp
+751,171,"Delivery Name comp",comp
+752,171,"External Version comp",0
+753,171,"Delivery Name anim",anim
+754,171,"External Version anim",0
+755,171,"Delivery Name layout",layout
+756,171,"External Version layout",0
+757,171,"Delivery Name td",td
+758,171,"External Version td",0
+759,171,Stereo,0
+760,171,"Tech Comment",
+761,171,"Default LUT",
+762,171,HeadHandles,
+763,171,TailHandles,
+764,172,Format,"1920 1080 HD"
+765,172,"Incoming Format",
+766,172,Layers,1
+767,172,Extension,exr
+768,172,FPS,24
+769,172,start_frame,1
+770,172,"External Version",0
+771,172,"Delivery Name",comp
+772,172,"Delivery Name comp",comp
+773,172,"External Version comp",0
+774,172,"Delivery Name anim",anim
+775,172,"External Version anim",0
+776,172,"Delivery Name layout",layout
+777,172,"External Version layout",0
+778,172,"Delivery Name td",td
+779,172,"External Version td",0
+780,172,Stereo,0
+781,172,"Tech Comment",
+782,172,"Default LUT",
+783,172,HeadHandles,
+784,172,TailHandles,
+785,173,Format,"1920 1080 HD"
+786,173,"Incoming Format",
+787,173,Layers,1
+788,173,Extension,exr
+789,173,FPS,24
+790,173,start_frame,1
+791,173,"External Version",0
+792,173,"Delivery Name",comp
+793,173,"Delivery Name comp",comp
+794,173,"External Version comp",0
+795,173,"Delivery Name anim",anim
+796,173,"External Version anim",0
+797,173,"Delivery Name layout",layout
+798,173,"External Version layout",0
+799,173,"Delivery Name td",td
+800,173,"External Version td",0
+801,173,Stereo,0
+802,173,"Tech Comment",
+803,173,"Default LUT",
+804,173,HeadHandles,
+805,173,TailHandles,
+806,174,Format,"2880 1620 1 2K"
+807,174,"Incoming Format",DPX
+808,174,Layers,1
+809,174,Extension,dpx
+810,174,FPS,24
+811,174,start_frame,1001
+812,174,"External Version",0
+813,174,"Delivery Name",comp
+814,174,"Delivery Name comp",comp
+815,174,"External Version comp",0
+816,174,"Delivery Name anim",anim
+817,174,"External Version anim",0
+818,174,"Delivery Name layout",layout
+819,174,"External Version layout",0
+820,174,"Delivery Name td",td
+821,174,"External Version td",0
+822,174,Stereo,0
+823,174,"Tech Comment",
+824,174,"Default LUT",MAYO_lut
+825,174,HeadHandles,8
+826,174,TailHandles,8
+827,175,Format,"1920 1080 HD"
+828,175,"Incoming Format",
+829,175,Layers,1
+830,175,Extension,exr
+831,175,FPS,24
+832,175,start_frame,1
+833,175,"External Version",0
+834,175,"Delivery Name",comp
+835,175,"Delivery Name comp",comp
+836,175,"External Version comp",0
+837,175,"Delivery Name anim",anim
+838,175,"External Version anim",0
+839,175,"Delivery Name layout",layout
+840,175,"External Version layout",0
+841,175,"Delivery Name td",td
+842,175,"External Version td",0
+843,175,Stereo,0
+844,175,"Tech Comment",
+845,175,"Default LUT",
+846,175,HeadHandles,
+847,175,TailHandles,
+848,176,Format,"1920 1080 HD"
+849,176,"Incoming Format",
+850,176,Layers,1
+851,176,Extension,exr
+852,176,FPS,24
+853,176,start_frame,1
+854,176,"External Version",0
+855,176,"Delivery Name",comp
+856,176,"Delivery Name comp",comp
+857,176,"External Version comp",0
+858,176,"Delivery Name anim",anim
+859,176,"External Version anim",0
+860,176,"Delivery Name layout",layout
+861,176,"External Version layout",0
+862,176,"Delivery Name td",td
+863,176,"External Version td",0
+864,176,Stereo,0
+865,176,"Tech Comment",
+866,176,"Default LUT",sRGB
+867,176,HeadHandles,
+868,176,TailHandles,
+869,177,Format,"1920 1080 HD"
+870,177,"Incoming Format",
+871,177,Layers,1
+872,177,Extension,exr
+873,177,FPS,24
+874,177,start_frame,1
+875,177,"External Version",0
+876,177,"Delivery Name",comp
+877,177,"Delivery Name comp",comp
+878,177,"External Version comp",0
+879,177,"Delivery Name anim",anim
+880,177,"External Version anim",0
+881,177,"Delivery Name layout",layout
+882,177,"External Version layout",0
+883,177,"Delivery Name td",td
+884,177,"External Version td",0
+885,177,Stereo,0
+886,177,"Tech Comment",
+887,177,"Default LUT",
+888,177,HeadHandles,
+889,177,TailHandles,
+890,178,Format,"1920 1080 HD"
+891,178,"Incoming Format",
+892,178,Layers,1
+893,178,Extension,exr
+894,178,FPS,24
+895,178,start_frame,1
+896,178,"External Version",0
+897,178,"Delivery Name",comp
+898,178,"Delivery Name comp",comp
+899,178,"External Version comp",0
+900,178,"Delivery Name anim",anim
+901,178,"External Version anim",0
+902,178,"Delivery Name layout",layout
+903,178,"External Version layout",0
+904,178,"Delivery Name td",td
+905,178,"External Version td",0
+906,178,Stereo,0
+907,178,"Tech Comment",
+908,178,"Default LUT",
+909,178,HeadHandles,
+910,178,TailHandles,
+911,179,Format,"2048 1080 AE2K"
+912,179,"Incoming Format",exr
+913,179,Layers,1
+914,179,Extension,exr
+915,179,FPS,24
+916,179,start_frame,1001
+917,179,"External Version",0
+918,179,"Delivery Name",comp
+919,179,"Delivery Name comp",comp
+920,179,"External Version comp",0
+921,179,"Delivery Name anim",anim
+922,179,"External Version anim",0
+923,179,"Delivery Name layout",layout
+924,179,"External Version layout",0
+925,179,"Delivery Name td",td
+926,179,"External Version td",0
+927,179,Stereo,0
+928,179,"Tech Comment",
+929,179,"Default LUT",
+930,179,HeadHandles,8
+931,179,TailHandles,8
+932,180,Format,"1920 1080 HD"
+933,180,"Incoming Format",
+934,180,Layers,1
+935,180,Extension,exr
+936,180,FPS,24
+937,180,start_frame,1
+938,180,"External Version",0
+939,180,"Delivery Name",comp
+940,180,"Delivery Name comp",comp
+941,180,"External Version comp",0
+942,180,"Delivery Name anim",anim
+943,180,"External Version anim",0
+944,180,"Delivery Name layout",layout
+945,180,"External Version layout",0
+946,180,"Delivery Name td",td
+947,180,"External Version td",0
+948,180,Stereo,0
+949,180,"Tech Comment",
+950,180,"Default LUT",
+951,180,HeadHandles,
+952,180,TailHandles,
+953,181,Format,"1920 1080 HD"
+954,181,"Incoming Format",
+955,181,Layers,1
+956,181,Extension,exr
+957,181,FPS,24
+958,181,start_frame,1
+959,181,"External Version",0
+960,181,"Delivery Name",comp
+961,181,"Delivery Name comp",comp
+962,181,"External Version comp",0
+963,181,"Delivery Name anim",anim
+964,181,"External Version anim",0
+965,181,"Delivery Name layout",layout
+966,181,"External Version layout",0
+967,181,"Delivery Name td",td
+968,181,"External Version td",0
+969,181,Stereo,0
+970,181,"Tech Comment",
+971,181,"Default LUT",
+972,181,HeadHandles,
+973,181,TailHandles,
+974,182,Format,"1920 1080 HD"
+975,182,"Incoming Format",
+976,182,Layers,1
+977,182,Extension,exr
+978,182,FPS,24
+979,182,start_frame,1
+980,182,"External Version",0
+981,182,"Delivery Name",comp
+982,182,"Delivery Name comp",comp
+983,182,"External Version comp",0
+984,182,"Delivery Name anim",anim
+985,182,"External Version anim",0
+986,182,"Delivery Name layout",layout
+987,182,"External Version layout",0
+988,182,"Delivery Name td",td
+989,182,"External Version td",0
+990,182,Stereo,0
+991,182,"Tech Comment",
+992,182,"Default LUT",
+993,182,HeadHandles,
+994,182,TailHandles,
+995,174,"Elementos Extras",
+996,183,Format,"1920 1080 HD"
+997,183,"Incoming Format",
+998,183,Layers,1
+999,183,Extension,exr
+1000,183,FPS,24
+1001,183,start_frame,1
+1002,183,"External Version",0
+1003,183,"Delivery Name",comp
+1004,183,"Delivery Name comp",comp
+1005,183,"External Version comp",0
+1006,183,"Delivery Name anim",anim
+1007,183,"External Version anim",0
+1008,183,"Delivery Name layout",layout
+1009,183,"External Version layout",0
+1010,183,"Delivery Name td",td
+1011,183,"External Version td",0
+1012,183,Stereo,0
+1013,183,"Tech Comment",
+1014,183,"Default LUT",
+1015,183,HeadHandles,

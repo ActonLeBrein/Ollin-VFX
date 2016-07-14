@@ -1,0 +1,39 @@
+ShotGroupID,ShotGroupName,ShotGroupNotes,ProjectID
+1,shotGroup1,Notas,3
+2,A,"Videogame on TV screen",252
+3,B,Phone,252
+4,C,"Laptop screen.",252
+5,"D y E","Dressing room",252
+20,ROM_a,,252
+7,F,"Bar (WIDE)",252
+8,G,"Bar (CU)",252
+9,H,"Dressing room (CU)",252
+10,I,"Door replacement.",252
+11,J,"Bar 2 (2 SHOT)",252
+12,K,"Bar 2 (TV entrance)",252
+13,L,"Bar 2 (TV bar)",252
+14,X,"Shots únicos, sin tentpole.",252
+18,HAL,,252
+15,LIV_a,,252
+16,LIV_b,,252
+17,LIV_c,,252
+21,ROM_b,,252
+77,"No aprobados",,254
+76,TOTAL,,254
+75,Second_Batch,,254
+74,JONATHAN,,254
+73,CAMPERO,,254
+72,CAMACHO,,254
+71,THELMA,,254
+70,JUAREZ,,254
+69,IVONNE,,254
+60,JIMY,,254
+61,RICHIE,,254
+62,NACHO,,254
+63,NAT,,254
+64,TOMITA,,254
+65,BARQUERO,,254
+66,ALAN,,254
+67,MEMO,,254
+68,BETO,,254
+59,First_Batch,,254

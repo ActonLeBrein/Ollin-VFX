@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response version="1.0">
+	<code>400</code>
+	<errors>
+		<error>This API call requires a HTTP POST.</error>
+	</errors>
+</response>

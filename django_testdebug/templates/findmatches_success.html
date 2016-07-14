@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block content %}
+	{% if not total == 0 %}
+		<h1>MATCHES WERE FOUND!!!!</h1>{% csrf_token %}
+		<h1>TOTAL OF MATCHES FOUND {{ total }}</h1>
+		{% if showing == -1 %}
+			<h1>SHOWING ALL RESULTS</h1>
+		{% else %}
+			<h1>SHOWING {{ showing }}</h1>
+		{% endif %}
+		{% for i in matches %}
+			<h2>Match number {{ forloop.counter }}</h2>
+			<p><b>Asset ID: </b>{{i.assetid}}</p>
+			<p><b>Asset Name: </b>{{i.assetname}}</p>
+			<p><b>Notes: </b>{{i.notes}}</p>
+			<p><b>Public: </b>{{i.public}}</p>
+			<p><b>Size: </b>{{i.size}}</p>
+			<p><b>Tags: </b>{{i.tags}}</p>
+			<p><b>Type ID: </b>{{i.typeid}}</p>
+			<p><b>Upload Date: </b>{{i.uploaddate}}</p>
+			<p><b>Uploader: </b>{{i.uploader}}</p>
+			<p><b>Last Modified: </b>{{i.lastmodified}}</p>
+			<p><b>Parent: </b>{{i.parent}}</p>
+			<p><b>Shot ID: </b>{{i.shotid}}</p>
+			<p><b>Project ID: </b>{{i.projectid}}</p>
+			<p><b>Path to Asset: </b>{{i.path}}</p>
+			<hr>
+		{% endfor %}
+	{% else %}
+		<h1>NO MATCHES WERE FOUND!!!! ¬_¬U</h1>{% csrf_token %}
+	{% endif %}
+  <p><a href="/shot_options/">Return to shot options</a></p>
+
+{% endblock %}

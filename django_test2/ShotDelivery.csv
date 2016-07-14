@@ -1,0 +1,7 @@
+ShotDeliveryID,ProjectID,ShotID,VFXID,ShotName,Status,ReviewDate,InternalComments,ClientComments,InternalVersion,ClientVersion,Work,Stereo
+1,3,4101,s01_002,s01_002,0,2011-08-20,"muy bonito así","con acentóny entersy ya",16,2,1,no
+2,236,12222,dom_020,CD1110,0,2014-09-26,"FF7.ollin.d2van.20140926.164429Uploaded 092614, 16:08 CST",,1,1,2,No
+3,236,12178,car_010,TLR3600,0,2014-09-26,"Uploaded 0:52 (092614), package FF7.ollin.d2van.20140927.024746","TLR3600 – Roto - We are short on frames for the roto.  - Please roto all 37 frames, to the plate length.",0,0,3,No
+4,236,12178,car_010,TLR3600,0,2014-09-29,"Uploaded 15:13, package FF7.ollin.d2van.20140929.150819","TLR3600 - PAINT - delivered today but we require work done on the whole plate range. Kicking back for additional work to be done. Please have it for Oct 1.",0,0,2,No
+5,236,12178,car_010,TLR3600,0,2014-09-30,"Whole plate range (1001-1037)Uploaded 19:50, package FF7.ollin.d2van.20140930.185602",,v002,v002,2,No
+6,236,12178,car_010,TLR3600,0,2014-10-02,"Whole plate range (1001-1037)Uploaded 19:53, package FF7.ollin.d2van.20141002.214937",,v002,v002,3,No

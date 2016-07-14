@@ -1,0 +1,1020 @@
+EvaluationID,RoundID,Evaluated,Evaluator,Technical,TechnicalNotes,Professional,ProfessionalNotes,Teamwork,TeamworkNotes,ForceEval,EvalApplied,EvaluationDate,CurrentBoss
+4957,1,7,23,4,,4,"Oliver es completamente escencial para el funcionamiento del estudio, de él depende la entrada y salida del material, así como todo los pasos intermedios.Es eficiente y nunca rechaza ayudar.Ha mejorado mucho en cuanto a documentar procesos establecidos y soluciones a problemas comunes.",4,,0,1,"2012-02-09 16:49:35",NULL
+4958,1,22,23,4,,4,"Su desempeño sigue constante: sus capacidades de análisis y solución de problemas repentinos son admirables, así como su capacidad de mantener la cabeza fría en momentos tensos.Los retos que se le han presentado en su nueva faceta de CTO los ha afrontado sin problema alguno.",4,,0,1,"2012-02-09 16:52:01",NULL
+4959,1,23,23,4,,3,"Mi capacidad para calcular deadlines ha mejorado, pero sigo dejando qué desear.Aún reacciono con nerviosismo cuando se presenta un problema, necesito tener la cabeza más fría para poder analizar la causa y solución.Mis responsabilidades han crecido casi al doble, creo que las he sobrellevado sin demasiados problemas.",4,,0,1,"2012-02-09 17:01:32",NULL
+4960,1,4,23,4,,4,"Siempre está dispuesta a echarnos la mano en lo que se ofrezca, es un tremendo buffer entre las informalidades de nuestro lado y lo cuadrado del departamento administrativo.",4,,0,1,"2012-02-09 17:01:39",NULL
+4961,1,8,23,4,,4,"Sus responsabilidades crecieron tremendamente a raíz de su nuevo puesto y las ha manejado exitosamente.En raras ocasiones se bloquea un poco con la presión, pero dadas las condiciones de estrés y los deadlines tan cercanos, es completamente comprensible.",4,,0,1,"2012-02-09 17:01:39",NULL
+4962,1,13,23,4,,4,"Tiene una capacidad tremenda de aprender rápido las necesidades de su puesto, sabe dónde buscar la información y no le da miedo preguntar cuando no la encuentra.Es un placer trabajar con ella.",4,,0,1,"2012-02-09 17:01:39",NULL
+4963,1,24,23,4,,4,"Se ha adaptado asombrosamente al modo de trabajo y a las exigencias en un periodo de tiempo sumamente corto. Es muy eficiente y pareciera que lleva trabajando aquí mucho más tiempo.",4,,0,1,"2012-02-09 17:01:39",NULL
+4964,1,25,23,4,,4,"A veces es complicado",4,,0,1,"2012-02-09 17:01:40",NULL
+4965,1,9,23,4,,3,,4,,0,1,"2012-02-09 17:01:42",NULL
+5622,1,5,5,3,,4,,4,,0,1,"2012-02-10 15:42:24",NULL
+5623,1,6,5,3,,4,,4,,0,1,"2012-02-10 15:42:31",NULL
+5624,1,24,5,2,,2,,2,,0,1,"2012-02-10 15:42:57",NULL
+5625,1,25,5,4,,4,,4,,0,1,"2012-02-10 15:51:09",NULL
+5626,1,7,5,3,,4,,4,,0,1,"2012-02-10 15:52:50",NULL
+5627,1,22,5,3,,4,,4,,0,1,"2012-02-10 15:53:19",NULL
+5628,1,23,5,3,,4,,4,,0,1,"2012-02-10 15:53:24",NULL
+5629,1,9,5,1,,1,,1,,0,1,"2012-02-10 15:56:07",NULL
+5630,1,22,6,4,,4,,4,,0,1,"2013-08-05 18:33:09",NULL
+5631,1,23,6,4,,4,,4,,0,1,"2013-08-05 18:33:11",NULL
+5632,1,5,6,4,,4,,4,,0,0,"2012-02-10 15:58:25",NULL
+5633,1,9,6,4,,4,,3,,0,0,"2012-02-10 15:58:26",NULL
+5634,1,25,6,4,,4,,4,,0,1,"2013-08-05 18:33:13",NULL
+5635,1,6,6,2,,4,,4,,0,1,"2013-08-05 18:33:22",NULL
+5636,1,13,6,4,,4,,4,,0,1,"2013-08-05 18:33:29",NULL
+5637,1,7,6,4,,4,,4,,0,1,"2013-08-05 18:33:32",NULL
+5638,1,7,7,4,,3,,4,,0,1,"2012-02-10 16:30:35",NULL
+5639,1,22,7,4,,3,,4,,0,1,"2012-02-10 16:30:36",NULL
+5640,1,23,7,4,,3,,4,,0,1,"2012-02-10 16:30:38",NULL
+5641,1,4,7,3,,3,,3,,0,1,"2012-02-10 16:30:42",NULL
+5642,1,20,7,3,,3,,3,,0,1,"2012-02-10 16:32:52",NULL
+5643,1,24,7,3,,3,"Se me hace demasiado pronto para evaluarlo.",3,,0,1,"2012-02-10 16:32:53",NULL
+5644,1,25,7,4,,3,,4,,0,1,"2012-02-10 16:32:57",NULL
+5645,1,13,7,3,,3,,3,,0,1,"2012-02-10 16:35:12",NULL
+5646,1,8,8,3,,4,"Siento que finalmente pudimos organizar al equipo para entregar el trabajo a tiempo. En lo técnico he aprendido mucho en los últimos meses pero hace falta mas.",4,,0,1,"2012-02-10 16:52:09",NULL
+5647,1,10,8,2,,4,"Le hace falta mucho conocimiento pero tiene talento y buena actitud laboral",4,,0,1,"2012-02-10 16:52:09",NULL
+5648,1,11,8,4,,3,"Siento que esta casi listo para pasar a comp, aunque tiene que aprender un poco mas a definir sus tiempos",4,,0,1,"2012-02-10 16:52:09",NULL
+5649,1,12,8,3,,3,"va muy bien! le hace falta ser mas consistente con sus entregas.",4,,0,1,"2012-02-10 16:52:09",NULL
+5650,1,14,8,4,,4,"yo diría que está listo para empezar a componer",4,,0,1,"2012-02-10 16:52:10",NULL
+5651,1,15,8,3,,3,"falta aprender a  calcular tiempos, ha mejorado mucho su nivel",4,,0,1,"2012-02-10 16:52:10",NULL
+5652,1,16,8,4,,3,"tiempos!!!! hay que aprender a delimitar tiempos de entrega.
+No considero que sepa mas de lo necesario, pero es admirable todo lo que ha aprendido.",4,,0,1,"2012-02-10 16:52:10",NULL
+5653,1,17,8,3,,3,"Ha crecido muchísmo como compositor. Me encanta trabajar con él y su dedicación al trabajo es admirable",4,,0,1,"2012-02-10 16:52:10",NULL
+5654,1,18,8,3,,4,"siempre confiable, gran calidad, excelente actitud",4,,0,1,"2012-02-10 16:52:11",NULL
+5655,1,19,8,3,,4,"va muy bien! siempre a tiempo! necesita aprender a trabajar mas en equipo",3,,0,1,"2012-02-10 16:52:11",NULL
+5656,1,4,8,4,,4,"de 10!",4,,0,1,"2012-02-10 16:52:11",NULL
+5657,1,7,8,3,,3,,4,,0,1,"2012-02-10 16:52:12",NULL
+5658,1,9,8,2,,3,,4,,0,1,"2012-02-10 16:52:12",NULL
+5659,1,13,8,2,,4,"va muy bien! le falta aprender",4,,0,1,"2012-02-10 16:52:13",NULL
+5660,1,22,8,4,,4,"de 10!",4,,0,1,"2012-02-10 16:52:13",NULL
+5661,1,23,8,4,,4,"para lo que necesite siempre está ahí!",4,,0,1,"2012-02-10 16:52:14",NULL
+5662,1,24,8,2,,2,"muy pronto para evaluar",2,,0,1,"2012-02-10 16:52:14",NULL
+5663,1,25,8,4,,3,,4,,0,1,"2012-02-10 16:52:15",NULL
+5665,1,4,9,2,,3,,2,,0,1,"2012-02-10 12:29:45",NULL
+5666,1,9,9,3,,4,,4,,0,1,"2012-02-10 12:29:58",NULL
+5667,1,13,9,2,,3,,4,,0,1,"2012-02-10 12:30:20",NULL
+5668,1,20,9,1,,2,,2,,0,1,"2012-02-10 12:31:10",NULL
+5669,1,24,9,1,,2,,1,,0,1,"2012-02-10 12:31:33",NULL
+5670,1,25,9,4,,3,,3,,0,1,"2012-02-10 12:31:58",NULL
+5671,1,26,9,3,,2,,4,,0,1,"2012-02-10 12:32:26",NULL
+5672,1,22,9,4,,4,,3,,0,1,"2012-02-10 12:32:39",NULL
+5673,1,23,9,4,,4,,4,,0,1,"2012-02-10 12:32:48",NULL
+5674,1,7,9,4,,3,,4,,0,1,"2012-02-10 12:33:05",NULL
+5675,1,8,10,4,,4,,4,,0,1,"2012-02-10 15:44:04",NULL
+5676,1,10,10,3,,4,,4,,0,1,"2012-02-10 15:44:17",NULL
+5677,1,11,10,4,,4,,4,,0,1,"2012-02-10 15:44:24",NULL
+5678,1,12,10,4,,4,,4,,0,1,"2012-02-10 15:44:28",NULL
+5679,1,14,10,4,,4,,4,,0,1,"2012-02-10 15:44:32",NULL
+5680,1,15,10,4,,4,,4,,0,1,"2012-02-10 15:44:36",NULL
+5681,1,16,10,4,,4,,4,,0,1,"2012-02-10 15:44:44",NULL
+5682,1,17,10,4,,4,,4,,0,1,"2012-02-10 15:44:48",NULL
+5683,1,18,10,4,,4,,4,,0,1,"2012-02-10 15:44:52",NULL
+5684,1,19,10,4,,4,"poco valorado, de los mejores",4,,0,1,"2012-02-10 15:45:08",NULL
+5685,1,25,10,4,,3,,2,,0,1,"2012-02-10 15:45:23",NULL
+5686,1,24,10,3,,4,,3,,0,1,"2012-02-10 15:45:39",NULL
+5687,1,23,10,4,,4,,4,,0,1,"2012-02-10 15:45:43",NULL
+5688,1,22,10,4,,4,,4,,0,1,"2012-02-10 15:45:46",NULL
+5689,1,13,10,4,,4,,4,,0,1,"2012-02-10 15:45:50",NULL
+5690,1,9,10,2,,3,,3,,0,1,"2012-02-10 15:46:01",NULL
+5691,1,7,10,4,,4,,4,,0,1,"2012-02-10 15:46:04",NULL
+5692,1,8,11,3,,3,,3,,0,1,"2012-02-10 14:48:43",NULL
+5693,1,10,11,2,,3,"Que deje de poner jaladas en IMBD",3,,0,1,"2012-02-10 14:50:28",NULL
+5694,1,11,11,3,,3,,3,,0,1,"2012-02-10 14:50:28",NULL
+5695,1,12,11,3,,4,,3,,0,1,"2012-02-10 14:50:29",NULL
+5696,1,14,11,3,,4,"Viva el rey pelé!!!",3,,0,1,"2012-02-10 14:50:41",NULL
+5697,1,15,11,2,,3,,3,,0,1,"2012-02-10 14:50:55",NULL
+5698,1,16,11,4,,3,,2,,0,1,"2012-02-10 14:51:26",NULL
+5699,1,17,11,3,,3,,4,,0,1,"2012-02-10 14:51:58",NULL
+5700,1,18,11,3,,4,"Quisiera ser como el",4,,0,1,"2012-02-10 14:54:47",NULL
+5701,1,19,11,4,,4,,4,,0,1,"2012-02-10 14:54:47",NULL
+5702,1,25,11,3,,2,,3,,0,1,"2012-02-10 14:54:47",NULL
+5703,1,24,11,2,,2,,2,,0,1,"2012-02-10 14:54:48",NULL
+5704,1,23,11,3,,4,"Este muchacho es una maquina!!!",4,,0,1,"2012-02-10 14:54:50",NULL
+5705,1,22,11,4,,4,"Quisiera tener un hijo suyo!!",3,,0,1,"2012-02-10 14:54:51",NULL
+5706,1,13,11,3,,3,,4,,0,1,"2012-02-10 14:55:05",NULL
+5707,1,9,11,1,,2,,2,,0,1,"2012-02-10 14:55:21",NULL
+5708,1,7,11,3,,2,,4,,0,1,"2012-02-10 14:55:32",NULL
+5709,1,8,12,3,,4,,4,,0,1,"2012-02-10 10:52:55",NULL
+5710,1,10,12,2,,4,,2,,0,1,"2012-02-10 10:53:10",NULL
+5711,1,11,12,2,,3,,3,,0,1,"2012-02-10 10:53:30",NULL
+5712,1,12,12,3,,4,,4,,0,1,"2012-02-10 10:54:09",NULL
+5713,1,14,12,3,,4,,4,,0,1,"2012-02-10 10:54:16",NULL
+5714,1,15,12,3,,3,,4,,0,1,"2012-02-10 10:54:37",NULL
+5715,1,16,12,4,,4,,3,,0,1,"2012-02-10 10:54:46",NULL
+5716,1,17,12,4,,4,,4,,0,1,"2012-02-10 10:54:53",NULL
+5717,1,18,12,4,,4,,4,,0,1,"2012-02-10 10:54:58",NULL
+5718,1,19,12,4,,4,"una persona con mucho talento,",4,,0,1,"2012-02-10 10:55:48",NULL
+5719,1,25,12,3,,4,,3,,0,1,"2012-02-10 10:56:08",NULL
+5720,1,24,12,0,,0,"Aun no se bien que hace en el estudio.",0,,0,1,"2012-02-10 10:56:33",NULL
+5721,1,23,12,4,,4,,4,,0,1,"2012-02-10 10:56:40",NULL
+5722,1,22,12,4,,4,,4,,0,1,"2012-02-10 10:56:43",NULL
+5723,1,13,12,3,,4,"No se si sea falta de organizacion, pero luego tengo que estar publicando cosas que ya tengo publicadas, y a veces me confunde en mis cambios, si me los dice personalmente.",2,,0,1,"2012-02-10 10:57:45",NULL
+5724,1,9,12,2,,3,,2,,0,1,"2012-02-10 10:57:56",NULL
+5725,1,7,12,4,,4,,4,,0,1,"2012-02-10 10:58:00",NULL
+5726,1,8,14,4,,4,,4,,0,1,"2012-02-10 15:47:15",NULL
+5727,1,10,14,4,,4,,4,,0,1,"2012-02-10 15:47:39",NULL
+5728,1,11,14,4,,3,,4,,0,1,"2012-02-10 15:48:21",NULL
+5729,1,12,14,4,,4,,3,,0,1,"2012-02-10 15:48:34",NULL
+5730,1,14,14,4,,4,,4,,0,1,"2012-02-10 15:48:57",NULL
+5731,1,15,14,4,,4,,4,,0,1,"2012-02-10 15:49:22",NULL
+5732,1,16,14,4,,4,,4,,0,1,"2012-02-10 15:49:26",NULL
+5733,1,17,14,4,,4,,3,,0,1,"2012-02-10 15:49:34",NULL
+5734,1,18,14,4,,4,,4,,0,1,"2012-02-10 15:49:41",NULL
+5735,1,19,14,4,,4,,4,,0,1,"2012-02-10 15:49:44",NULL
+5736,1,7,14,4,,4,,4,,0,1,"2012-02-10 15:49:48",NULL
+5737,1,9,14,3,,3,,4,,0,1,"2012-02-10 15:50:59",NULL
+5738,1,13,14,4,,4,,4,,0,1,"2012-02-10 15:51:04",NULL
+5739,1,22,14,4,,4,,4,,0,1,"2012-02-10 15:51:09",NULL
+5740,1,23,14,4,,4,,4,,0,1,"2012-02-10 15:51:12",NULL
+5741,1,24,14,2,,3,,4,,0,1,"2012-02-10 15:51:29",NULL
+5742,1,25,14,4,,4,,4,,0,1,"2012-02-10 15:51:32",NULL
+5743,1,8,15,3,,3,,3,,0,1,"2012-02-10 15:46:59",NULL
+5744,1,10,15,3,,3,,3,,0,1,"2012-02-10 15:47:07",NULL
+5745,1,11,15,3,,3,,3,,0,1,"2012-02-10 15:47:13",NULL
+5746,1,12,15,3,,3,,3,,0,1,"2012-02-10 15:47:18",NULL
+5747,1,14,15,3,,3,,3,,0,1,"2012-02-10 15:47:24",NULL
+5748,1,15,15,3,,3,,3,,0,1,"2012-02-10 15:47:29",NULL
+5749,1,16,15,3,,3,,3,,0,1,"2012-02-10 15:47:32",NULL
+5750,1,17,15,3,,3,,3,,0,1,"2012-02-10 15:47:36",NULL
+5751,1,18,15,3,,3,,3,,0,1,"2012-02-10 15:47:40",NULL
+5752,1,19,15,3,,3,,3,,0,1,"2012-02-10 15:47:49",NULL
+5753,1,25,15,2,,2,,2,,0,1,"2012-02-10 15:48:03",NULL
+5754,1,24,15,3,,3,,3,,0,1,"2012-02-10 15:48:08",NULL
+5755,1,23,15,3,,3,,3,,0,1,"2012-02-10 15:48:12",NULL
+5756,1,22,15,3,,3,,3,,0,1,"2012-02-10 15:48:15",NULL
+5757,1,13,15,3,,3,,3,,0,1,"2012-02-10 15:48:18",NULL
+5758,1,9,15,3,,3,,3,,0,1,"2012-02-10 15:48:22",NULL
+5759,1,7,15,3,,3,,3,,0,1,"2012-02-10 15:48:26",NULL
+5760,1,8,16,3,,4,"hay falta de conocimientos tecnicos  que se podrian mejorar para poder enfrentar con mas fuerza los problemas
+seria bueno un poco de mas imaginacion para generar estrategias de trabajo y mejorar como lider
+
+a pesar de esas cosas su funcion es vital para el desarrollo de este equipo",4,,0,1,"2012-02-10 17:00:07",NULL
+5761,1,10,16,2,,4,,4,,0,1,"2012-02-10 17:01:23",NULL
+5762,1,11,16,2,,3,,4,,0,1,"2012-02-10 17:01:24",NULL
+5763,1,12,16,3,,4,,4,,0,1,"2012-02-10 17:01:26",NULL
+5764,1,14,16,2,,4,,4,,0,1,"2012-02-10 17:01:27",NULL
+5765,1,15,16,2,,4,,4,,0,1,"2012-02-10 17:02:41",NULL
+5766,1,16,16,3,,3,"creo que algun dia ganara un oscar y un grammy al mejor artista revelacion del momento",4,,0,1,"2012-02-10 17:05:54",NULL
+5767,1,17,16,3,,4,,4,,0,1,"2012-02-10 17:05:56",NULL
+5768,1,18,16,3,,4,,4,,0,1,"2012-02-10 17:05:56",NULL
+5769,1,19,16,2,,3,,4,,0,1,"2012-02-10 17:06:03",NULL
+5770,1,7,16,3,,4,,4,,0,1,"2012-02-10 17:06:03",NULL
+5771,1,9,16,2,,3,,3,,0,1,"2012-02-10 17:06:04",NULL
+5772,1,13,16,2,,3,,4,,0,1,"2012-02-10 17:06:04",NULL
+5773,1,22,16,4,,4,,4,,0,1,"2012-02-10 17:06:05",NULL
+5774,1,23,16,3,,4,,4,,0,1,"2012-02-10 17:06:05",NULL
+5775,1,24,16,0,,0,"no lo conosco asi que no puedo calificar pero seria bueno  mas agresividad y interes en su trabajo",0,,0,1,"2012-02-10 17:06:06",NULL
+5776,1,25,16,4,,4,,4,,0,1,"2012-02-10 17:06:10",NULL
+5777,1,8,17,4,,4,,4,,0,1,"2012-02-10 15:45:36",NULL
+5778,1,10,17,1,,2,,1,,0,1,"2012-02-10 15:47:12",NULL
+5779,1,11,17,3,,3,,3,,0,1,"2012-02-10 15:47:19",NULL
+5780,1,12,17,4,,4,,4,,0,1,"2012-02-10 15:47:23",NULL
+5781,1,14,17,3,,3,,3,,0,1,"2012-02-10 15:47:26",NULL
+5782,1,15,17,4,,4,,4,,0,1,"2012-02-10 15:47:31",NULL
+5783,1,16,17,4,,4,,4,,0,1,"2012-02-10 15:47:35",NULL
+5784,1,17,17,4,,4,,4,,0,1,"2012-02-10 15:47:50",NULL
+5785,1,18,17,4,,4,,4,,0,1,"2012-02-10 15:47:54",NULL
+5786,1,19,17,4,,4,,4,,0,1,"2012-02-10 15:47:57",NULL
+5787,1,7,17,4,,4,,4,,0,1,"2012-02-10 15:48:00",NULL
+5788,1,9,17,2,,2,,2,,0,1,"2012-02-10 15:48:12",NULL
+5789,1,13,17,2,,2,,2,,0,1,"2012-02-10 15:48:16",NULL
+5790,1,22,17,4,,4,,4,,0,1,"2012-02-10 15:48:30",NULL
+5791,1,23,17,4,,4,,4,,0,1,"2012-02-10 15:48:33",NULL
+5792,1,24,17,3,,3,,3,,0,1,"2012-02-10 15:48:41",NULL
+5793,1,25,17,4,,3,,3,,0,1,"2012-02-10 15:49:20",NULL
+5794,1,8,18,3,,3,"hace bien su trabajo y siempre esta dispuesta a ayudar",4,,0,1,"2012-02-10 16:36:04",NULL
+5795,1,10,18,2,,1,"esta aprendiendo muy bien, y le esta hechando ganas...",3,,0,1,"2012-02-10 16:36:07",NULL
+5796,1,11,18,2,,2,"le esta hechando ganas al trabajo y siempre esta dispuesto a ayudar",3,,0,1,"2012-02-10 16:36:08",NULL
+5797,1,12,18,3,,2,"siempre esta dispuesto a ayudar, y emplea buenas tecnicas para realizar su trabajo",4,,0,1,"2012-02-10 16:36:12",NULL
+5798,1,14,18,2,,2,"realiza bien su trabajo, y cuando se atora, sabe pedir ayuda y tambien sabe ayudar a los demas",4,,0,1,"2012-02-10 16:36:13",NULL
+5799,1,15,18,3,,2,"buen companero, dispuesto a ayudar y realiza bien su trabajo",4,,0,1,"2012-02-10 16:36:31",NULL
+5800,1,16,18,3,,2,"muy buena ayuda en problemas tecnicos como de espacio en 3d y camaras",4,,0,1,"2012-02-10 16:36:32",NULL
+5801,1,17,18,3,,2,,4,,0,1,"2012-02-10 16:36:32",NULL
+5802,1,19,18,3,,2,,4,,0,1,"2012-02-10 16:36:33",NULL
+5803,1,7,18,3,,3,,4,,0,1,"2012-02-10 16:36:33",NULL
+5804,1,9,18,2,,2,,3,,0,1,"2012-02-10 16:36:34",NULL
+5805,1,13,18,1,,2,,2,,0,1,"2012-02-10 16:36:34",NULL
+5806,1,18,18,3,,2,,4,,0,1,"2012-02-10 16:36:35",NULL
+5807,1,22,18,3,,3,,4,,0,1,"2012-02-10 16:36:35",NULL
+5808,1,23,18,3,,3,,4,,0,1,"2012-02-10 16:36:36",NULL
+5809,1,24,18,2,,2,,3,,0,1,"2012-02-10 16:36:36",NULL
+5810,1,25,18,3,,2,,3,,0,1,"2012-02-10 16:36:37",NULL
+5811,1,8,19,4,,4,,4,,0,1,"2012-02-10 09:50:32",NULL
+5812,1,10,19,4,,4,,4,,0,1,"2012-02-10 09:50:45",NULL
+5813,1,11,19,2,,3,,4,,0,1,"2012-02-10 09:50:59",NULL
+5814,1,12,19,4,,4,,4,,0,1,"2012-02-10 09:51:06",NULL
+5815,1,14,19,2,,3,,4,,0,1,"2012-02-10 09:51:18",NULL
+5816,1,15,19,4,,4,,4,,0,1,"2012-02-10 09:51:25",NULL
+5817,1,16,19,4,,4,,2,,0,1,"2012-02-10 09:51:33",NULL
+5818,1,17,19,4,,4,,4,,0,1,"2012-02-10 09:51:38",NULL
+5819,1,18,19,4,,4,,4,,0,1,"2012-02-10 09:51:42",NULL
+5820,1,19,19,4,,4,,4,,0,1,"2012-02-10 09:52:34",NULL
+5821,1,7,19,4,,4,,4,,0,1,"2012-02-10 09:52:40",NULL
+5822,1,9,19,2,,2,,2,,0,1,"2012-02-10 09:52:47",NULL
+5823,1,13,19,2,,4,,2,,0,1,"2012-02-10 09:53:14",NULL
+5824,1,22,19,4,,4,,3,,0,1,"2012-02-10 09:53:20",NULL
+5825,1,23,19,4,,4,,4,,0,1,"2012-02-10 09:53:23",NULL
+5826,1,24,19,4,,4,,4,,0,1,"2012-02-10 09:53:26",NULL
+5827,1,25,19,4,,4,,4,,0,1,"2012-02-10 09:53:46",NULL
+5828,1,4,20,4,,4,"-En general es exelente trabajar con ella, sabe ser líder y asignar tareas, resolver problemas y situaciones críticas.-En ocasiones puede llegar a la saturación laboral y querer abarcar todo, que finalmente lo logra supervisar adecuadamente.",3,,0,1,"2012-02-10 12:51:10",NULL
+5829,1,9,20,3,,2,"-En ocasiones se deja llevar demasiado por el estrés, lo que causa roces comunicación.-Tarda un poco más de lo requerido en los procesos que se le solicitan, pero finalmente entrega lo solicitado.",2,,0,1,"2012-02-10 12:54:32",NULL
+5830,1,13,20,3,,4,"-En genreal es excelente trabajar con ella, siempre apoya en todo lo necesario y solicita apoyo si cree requerirlo para lograr el objetivo del equipo de producción.-En ocasiones sus formas de comunicación son poco ortodoxas, pero jamás irrespetuosas",4,,0,1,"2012-02-10 12:56:21",NULL
+5831,1,20,20,3,,3,,4,,0,1,"2012-02-10 12:56:53",NULL
+5832,1,24,20,3,,3,"-Debido a que se acaba de integrar al equipo aun tiene falta de experiencia en los procesos de funcionamiento, pero con un poco de más empeño y esfuerzo puede acoplarse.-Quizás le falta un poco de más dedicación para adecuerse a la forma de trabajo del estudio, pero está comenzando a hacer el esfuerzo",4,,0,1,"2012-02-10 12:58:39",NULL
+5833,1,25,20,4,,3,"-Sabe exactamente que solicitar y como hacerlo, logra dirigir al equipo para cumplir el objetivo.-Generalmente su actitud es positiva hacía el equipo y evita roces desagradables.-Debido a la forma de trabajo a distancia y cambio de horario en ocasiones su respuesta es tardía, con lo que los procesos varían en cuanto al tiempo de conclusión, por ambos lados.-En ocasiones la saturación de actividades llega a ralentizar sus respuestas para proseguir tareas",3,,0,1,"2012-02-10 13:04:26",NULL
+5834,1,26,20,2,,3,"-In general it is great to work with her. Sometimes her comunication processes are longer than expected, using a little more time than planned (emails and phone calls)
+-Sometimes she tooks longer than expeted to answear, which stops the work flow, because most of the time her approbation is needed to keep going the process (biddings and invoices)
+-In the past moths she has improved a lot her work methodology, turning it much more eficienty and improving our work flow.",3,,0,1,"2012-02-10 13:08:46",NULL
+5835,1,7,20,4,,3,"-En los últimos meses ha mejorado demasiado en sus formas de trabajo, resuelve las situaciones y problemas que se puedan presentar de una forma mucho más eficaz y rápida.",4,,0,1,"2012-02-10 13:10:17",NULL
+5836,1,22,20,4,,4,"-Siempre resuelve cualquier problema, situación o duda que surja.-En general es muy agradable trabajr con él, siempre apoya y cumple con todo lo que se le solicité.",4,,0,1,"2012-02-10 13:11:28",NULL
+5837,1,7,22,4,,4,"Oliver ha mostrado ser cada vez más proactivo y formal en sus labores. La documentación y automatización de las actividades que así lo permitan es el área donde aún hay espacio para mejorar, sin embargo, las mejoras en ese rubro han sido enormes. Oliver se ha vuelto una parte importante y confiable del equipo.",4,,0,1,"2012-02-10 15:37:26",NULL
+5838,1,22,22,4,,4,,4,,0,1,"2012-02-10 15:37:57",NULL
+5839,1,23,22,4,,4,"Sus responsabilidades han aumentado considerablemente desde la partida de Pepe y las ha manejado de forma correcta, balanceando el tiempo entre todas sus actividades. Ya sea por la mayor carga de trabajo o por otro motivo, Juan ha mejorado con respecto al manejo de su tiempo, particularmente al no asumir responsabilidades que no le corresponden, lo cuál le da más tiempo para atender a sus propias tareas.Juan trabaja cada vez con menos supervisión y ha mejorado enormemente su capacidad de interpretar e implementar a partir de una especificación o arquitectura y su observación de buenas prácticas es casi constante.Sus aportaciones a otras áreas que no son particulares a la descripción de su trabajo (system administration, seguridad etc) siempre han sido valiosas para depurar problemas o prevenirlos.Juan ha mantenido su posición como una pieza  crucial y valiosa del equipo.",4,,0,1,"2012-02-10 15:43:10",NULL
+5840,1,4,22,4,,4,,3,,0,1,"2012-02-10 15:46:44",NULL
+5841,1,8,22,3,,4,"Siempre es un placer trabajar con Natalia.Sus conocimientos técnicos han avanzado mucho y su involucramiento y entendimiento dn los procesos de automatización se ha vuelto natural y fluido.",4,,0,1,"2012-02-10 15:51:02",NULL
+5842,1,9,22,3,,4,"La forma de pedir las cosas de Toño  a veces se puede mal interpretar como tosca o mal educada, a pesar de que seguramente no se hace con malas intenciones. Esto puede afectar su capacidad de trabajo en equipo.",2,,0,1,"2012-02-10 15:54:55",NULL
+5843,1,25,22,4,,3,"Charlie siempre está dispuesto a ayudar y sus conocimientos son amplios y variados. A veces asume demasiadas responsabilidades y roles que debería delegar a otros puestos, particularmente en cuestiones administrativas.",3,,0,1,"2012-02-10 16:00:13",NULL
+5844,1,24,22,4,,4,"En el corto tiempo que ha estado, Hiram ha mostrado una actitud profesional y proactiva. Su conocimiento técnico y capacidad para entender los conceptos nuevos a los que ha sido expuesto serán beneficiosos para su área y la empresa.",4,,0,1,"2012-02-10 16:04:56",NULL
+5845,1,13,22,3,,4,"Siempre es un placer interactuar con Kim y su trabajo siempre lo hace bien y sin miedo a preguntar las cosas que no entiende.",4,,0,1,"2012-02-10 16:07:19",NULL
+5864,1,9,4,3,,2,"Deberia de tener mas iniciativa con los demas areas, ocupar sus tiempos libres en conocer los procesos de los demas e intentar ocupar esos momentos en hacer mejoras en su area para que las cosas pasen mas rapido. Por desgracia sigue cometiendo los mismos errores de principiante y su caracter bajo presion deja mucho que desear.",2,,0,1,"2012-02-10 13:41:46",NULL
+5905,1,9,13,3,,3,"Resuelve dudas aunque no sean exclusivas de su area",3,,0,1,"2012-02-10 13:44:40",NULL
+5906,1,25,13,4,,3,"Exceso de carga de trabajo",3,,0,1,"2012-02-10 13:44:52",NULL
+5907,1,22,13,4,,4,"Excelente comunicacion y resolucion de dudas",4,,0,1,"2012-02-10 13:45:17",NULL
+5908,1,4,13,2,,3,"Buna disposicion en el trabajo, resuleve las dudas que se le consultan, esta al tanto de todo lo que sucede en el estudio",3,,0,1,"2012-02-10 13:48:16",NULL
+5909,1,20,13,4,,4,"Comprometida con su trabajo",4,,0,1,"2012-02-10 13:50:43",NULL
+5910,1,24,13,2,,4,"Disposicion al 100 de aprender el funcionamiento del estudio",4,,0,1,"2012-02-10 13:51:05",NULL
+5911,1,23,13,4,,4,"Resolucion de todos los problemas de sistemas",4,,0,1,"2012-02-10 13:53:21",NULL
+5912,1,13,13,4,,4,"Activa, comprometida, a pesar de ser nueva en el puesto",4,,0,1,"2012-02-10 13:53:45",NULL
+5913,1,8,13,4,,4,"Mantiene el control de su equipo y cumple con fechas de entrega",4,,0,1,"2012-02-10 13:55:40",NULL
+5914,1,7,13,3,,4,"Siempre disponible para bajar o subir cosas que nos envian",4,,0,1,"2012-02-10 13:55:57",NULL
+5974,1,9,7,3,,3,,3,,0,1,"2012-02-10 18:28:33",NULL
+5976,1,4,24,3,,4,,4,,0,1,"2012-02-20 13:12:22",NULL
+5977,1,9,24,2,,2,,1,,0,1,"2012-02-20 13:13:05",NULL
+5978,1,13,24,3,,3,,1,,0,1,"2012-02-20 13:13:22",NULL
+5979,1,20,24,3,,4,,4,,0,1,"2012-02-20 13:13:30",NULL
+5980,1,24,24,3,,3,,4,,0,1,"2012-02-20 13:13:45",NULL
+5981,1,25,24,4,,2,,4,,0,1,"2012-02-20 13:14:02",NULL
+5982,1,23,24,3,,4,,4,,0,1,"2012-02-20 13:14:11",NULL
+5983,1,22,24,4,,3,,3,,0,1,"2012-02-20 13:14:21",NULL
+5984,1,8,24,3,,4,,4,,0,1,"2012-02-20 13:14:32",NULL
+5985,1,4,26,3,,4,"Professional / Teamwork ~Liz is always trying to stay on top of all the tasks presented to her.From my perspective, workd well beyond what is expected, and is always trying to learn and grow.Technical ~She is confident in her knowledge with ""all things Ollin"".",4,,0,1,"2012-02-20 16:09:25",NULL
+5986,1,9,26,4,,3,"Professional  / Teamwork ~I work well with Antonio, and I feel he understands what I am striving to accomplish ~ <as related to the Ollin Reel, etc.> Sometimes it may take longer to complete a task, but I am sure that is based on prioritizing the needs of his work flow within the Studio.Technical ~I know that Antonio endeavours to always obtain the best quality material(s) possible when working on projects with me.He truly is trying to assemble good work, and enjoys the challenge.",4,,0,1,"2012-02-20 16:22:32",NULL
+5988,1,20,26,3,,4,"Professional / Teamwork ~In some ways, I feel that Esti is over qualiied in some areas actually.  She has a ""mature"" attitude, educated ~ and I know strives to complete tasks on time.Esti is always willing to help in any situation, and I am sure that she is very well liked within the Studio.  I know for me ~ she is truly a pleasure to work with.Technical ~Esti is always learning and growing.  I feel she is getting stronger in regards to Production.",4,,0,1,"2012-02-20 16:39:19",NULL
+5990,1,25,26,4,,3,"Professional / Teamwork ~There is no one in the Studio that is more accomplished than Charlie.  He is extremly confident and professional with all of our Clients.  I believe his abilities are limitless when it comes to the art of VFX.Charlie ""truly expects"" that work will be delivered on time, and keeps a positive attitude as related to schedules.  In predicting deliveries, he can only be as strong as the team.  I feel that our forecasting ~ <as related to schedules> ~ is our only weak link in the team.  Perhaps too ambitious at times...I also know occasionally it can be difficult to deligate ~ and some communication is not always relayed.  To be 100% efficient, the connect would need to be more transparent. Technical ~Charlie is xtraordinarily creative and technical on all fronts...Oh, with the exception of Apple Computers of course ~ Ha.",4,,0,1,"2012-02-20 17:19:47",NULL
+5994,1,26,4,3,,2,,3,,0,1,"2012-02-20 12:53:48",NULL
+5995,1,8,4,4,,3,,4,,0,1,"2012-02-20 12:53:48",NULL
+5996,1,13,4,3,,4,,3,,0,1,"2012-02-20 12:53:49",NULL
+5997,1,25,4,4,,4,"su caracter ha cambiado mucho para bien!!! es mas sensato en su trato con el equipo. por favor q no cambie o cancele las juntas o llamadas con los miembros del estudio, que cumpla con los tiempos q promete para tratar asuntos q son importantes y q es necesario hablar con el.",4,,0,1,"2012-02-20 12:54:01",NULL
+5998,1,24,4,3,,3,,3,,0,1,"2012-02-20 12:54:01",NULL
+5999,1,23,4,4,,4,"increible tratar con juan!!!! siempre tiene una buena actitud y se enfoca en solucionar de manera parctica y rapida!!! JUAN TU MUY BIEN!",4,,0,1,"2012-02-20 12:54:09",NULL
+6000,1,20,4,2,,3,,4,,0,1,"2012-02-20 12:54:09",NULL
+6001,1,7,4,4,,4,"Oliver vas muy bien! felicidades !!",4,,0,1,"2012-02-20 12:55:07",NULL
+6002,1,22,4,4,,4,"Gollas para presidente!!! si hubiera un empleado del mes, el se lo llevaria todo el tiempo!!! felicidades!!!",4,,0,1,"2012-02-20 12:55:08",NULL
+6003,1,4,4,4,,4,,4,,0,1,"2012-02-20 12:55:09",NULL
+6011,1,6,25,2,,4,"Trabajar con Anibal es muy padre. Creo que seria muy bueno que vaya creciendo en habilidades tecnicas, para abarcar mas areas.",4,,0,1,"2012-02-17 16:22:14",NULL
+6012,1,9,25,2,,2,"Creo que con Togno el problema es mas que nada la consistencia mas que su calidad profesional. Hay veces que esta disponible y cumple a tiempo sus tareas, hay veces que no se le encuentra. Eso hace que no se pueda confiar siempre al 100%. Es preferible que sepamos que no puede a ciertas horas a creer que si puede o que se comprometa a que si puede y luego no lo encontramos. Lo que si es que cuando esta disponible, es extremadamente flexible y proactivo. He escuchado que luego tiene actitudes malhumoradas, pero nunca conmigo. Por otro lado hay veces que hay demasiados errores, que siempre traen una escusa, pero ser mas cuidadoso en el trabajo ayudaria a que tambien fuera mas confiable.",2,,0,1,"2012-02-17 16:29:11",NULL
+6015,1,25,25,4,,3,,3,,0,1,"2012-02-17 16:31:10",NULL
+6016,1,22,25,4,,4,"Me gusta mucho trabajar con el. Es muy profesional y talentoso en su area",4,,0,1,"2012-02-17 16:31:51",NULL
+6018,1,4,25,4,,4,"Me encanta trabajar con ella, hay una confiansa laboral y profesional muy grande. Creo lo unico que aveces sucede y podria mejorar es el trato con la demas gente... siento que de pronto se desespera un poco con algunos clientes o incluso con algunos empleados. Creo nada que afecte su desempenio pero podria ser un punto de mejora. Siempre hay disposicion a mejorar y avanzar como compania, equipo y como persona",3,,0,1,"2012-02-17 16:33:26",NULL
+6019,1,19,25,3,,3,"Siento que de pronto le cuesta un poquito de trabajo entender porque se le pide algun cambio o modificacion a su trabajo. Aunque es padre el tener retroalimentacion, seria bueno que entendiera primero cual es la razon por la que se solicita un cambio y posteriormente tratar de justificar su desicion previa. Creo es muy talentoso y siempre en busqueda de mejorar, tanto creativa como tecnicamente... siempre hay posibilidad de mejor de todas maneras!!",3,,0,1,"2012-02-17 16:35:12",NULL
+6020,1,20,25,3,,2,"De pronto se le va a Esti algunas tareas, o es distraida. Es muy agradable trabajar juntos y siempre esta dispuesta a ayudar en cualquier area de la empresa. Tecnicamente trabaja con todas las herramientas y esta dispuesta a aprender cosas nuevas",4,,0,1,"2012-02-17 16:36:06",NULL
+6021,1,24,25,3,,4,"Aunque llevamos poco tiempo trabajando juntos, es muy agradable, profesional y serio en su trabajo. Creo que podria integrarse mas al equipo pero puede ser simplemente tema de tiempo. Tecnicamente lo mismo, tiene muchisimo conocimiento de las tecnicas y metodologias, y solo es tema de tiempo el seguir aprendiendo nuestras herramientas internas",3,,0,1,"2012-02-17 16:37:46",NULL
+6023,1,13,25,3,,3,"Kim es una persona increible para trabajar. Aunque llevamos poco trabajando directo, es alguien con la iniciativa de mejorar, crecer y comprometerse con el puesto que este desempenando. Me siento comodo sabiendo que siempre cumplira con lo que se necesita, aunque a veces falla en alguna de sus tareas, puede ser porque lleva poco en el trabajo y hay errores que se pueden correjir. Siempre esta disponible por mail, telefono o chat, lo cual es muy importante. Sabe bastante de sus herramientas de trabajo y esta dispuesta a aprenderlas rapidamente. Creo lo unico es que siento que le cuesta trabajo desempenarse junto con Hiram y trata de abarcar todo ella sola, que aunque es bueno, es importante siempre delegar y compartir responsabilidades",2,,0,1,"2012-02-17 16:40:11",NULL
+6024,1,5,25,2,,4,"Aunque he trabajado poco con el, croe que es una persona que siempre por disposicion propia cumple con el trabajo que se le asigna. En lo personal nunca he tenido ninguna complicacion con el y al contrario, se me hace agradable para trabajar. Tecnicamente tiene un reto increible de crecimiento en este anio y aunque cubre lo necesario para su trabajo, esta ahora la oportunidad de seguir creciendo y aprendiendo.",3,,0,1,"2012-02-17 16:41:51",NULL
+6025,1,8,25,3,,3,"Natalia cada ves mejora mas como profesionista y como lider. Profesionalmente aunque el anio pasado tuvimos algunos tropezones de entrega, siempre aprende de las fallas de ella, su equipo o la gente de alrededor y la siguiente ves mejora y cumple. Creo que este anio los proyectos mostraran su profesionalizmo tecnico, visual y de entregas como nunca, y ese crecimiento sera bien importante para ella, su equipo y la compania. Es muy agradable trabajar con ella y le da una vida a la gente que la rodea. Tecnicamente ha habido un crecimiento substancial, tanto en su manera de resolver los problemas como en su investigacion para crecer. Estoy muy contento de poder trabajar con ella",4,,0,1,"2012-02-17 16:44:37",NULL
+6026,1,7,25,3,,3,"Oliver ha crecido bastante como profesional y siempre esta dispuesto a ayudar y a buscar soluciones a los problemas.",4,,0,1,"2012-02-17 16:45:41",NULL
+6028,1,26,25,3,,4,"Robin has been working for the company with incredible energy and commitment, in the good times and the bad times. Also internally she has been a lot more in contact with the team, making them feel part of the production desitions, but been aware of not taking more time than necesary of they day to day, which the team thanks a lot. I am very happy and I feel lucky of working with her for another year.",3,,0,1,"2012-02-17 16:49:12",NULL
+6029,1,16,25,3,,3,"Me gusta mucho trabajar con Yabin. Ha mejorado increiblemente en sus entregas y predicciones de trabajo. Es muy agradable y tecnicamente es uno de los mejores. Estoy orgulloso de que es parte de nuestro equipo y ojala siga creciendo como lo ha hecho",4,,0,1,"2012-02-17 16:50:18",NULL
+6104,1,6,27,4,,4,,4,,0,1,"2012-06-14 16:39:27, RoundID=1",NULL
+6105,1,27,27,3,,4,,4,,0,1,"2012-06-14 16:39:32, RoundID=1",NULL
+6106,1,5,27,4,,4,,4,,0,1,"2012-06-14 16:39:36, RoundID=1",NULL
+6107,1,25,27,4,,4,,4,,0,1,"2012-06-14 16:39:58, RoundID=1",NULL
+6124,3,6,27,4,,4,,4,,0,1,"2012-06-14 16:42:15, RoundID=3",NULL
+6125,3,27,27,3,,4,,4,,0,1,"2012-06-14 16:42:28, RoundID=3",NULL
+6126,3,5,27,4,,4,,4,,0,1,"2012-06-14 16:42:35, RoundID=3",NULL
+6127,3,13,27,3,,4,,4,,0,1,"2012-06-14 16:42:47, RoundID=3",NULL
+6128,3,27,5,4,,4,"En el ultimo proyecto en el que participo, NMDF, Carlos demostro un desempenyo excelente, sin atrasarse en sus trabajos y resolviendo todo lo que se le pidio. Creo debemos tratar de mantenerlo en la oficina ya que es un valor seguro.",4,,0,1,"2012-06-14 16:21:41, RoundID=3",NULL
+6129,3,27,6,4,,4,,4,,0,1,"2013-08-05 18:33:35",NULL
+6130,3,27,13,4,,4,"Termina su trabajo sin importar el tiempo que este le tome.",4,,0,1,"2012-06-14 16:05:02, RoundID=3",NULL
+6433,1,26,8,0,,0,,0,,0,1,"2012-07-31 17:26:58, RoundID=1",NULL
+6495,3,28,4,3,,2,"Creo que aun no define en que area quisiera trabajar, siento que se esta intentando sobrevivir en porduccion para lograr una oportunidad en el area de artistas.",4,,0,1,"2012-07-31 18:27:46, RoundID=3",NULL
+6496,3,9,4,2,,2,"Es necesario mejorar su sistema de calidad, eliminar los errores repetitivos y ponerle mas dedicacion a cada cosa. Las ganas de hacer o aprender le sobran, pero sigue cometiendo los mismos errores",2,,0,1,"2012-07-31 18:30:50, RoundID=3",NULL
+6497,3,25,4,4,,2,"Necesita ser objetivo con todas las promesas que hace y que despues rompe, no cumple o cambia. Su trabajo como supervisor es impecable, me sorprende como lo que piensa logra implementarlo y hacer que tecnicamente las cosas funcionen. Mientras esta en Mexico la comunicacion es mas sencilla.",3,,0,1,"2012-07-31 18:37:57, RoundID=3",NULL
+6498,3,4,4,3,,3,"Estoy completamente perdida entre lo que hacia, lo que hago, lo que tengo que hacer y lo que seguro hare maniana ... se ha vuelto aburrido mi trabajo, no estoy agusto con las cosas de impuestos, terminos fiscales y aires acondicionados especificamente...  y eso me hace darle muchas vueltas en todo lo relacionado...",3,,0,1,"2012-07-31 18:45:01, RoundID=3",NULL
+6499,3,20,4,3,,4,"Ha respondido muy bien a sus nuevas tareas, necesita entrar de lleno al  area de coordinacion para poder adquirir un conocimiento tecnico mayor, asi como pegarse un poquito mas al area editorial y pueda saber de donde vienen los problemas y apoyar a solucionarlos.",4,,0,1,"2012-07-31 18:47:33, RoundID=3",NULL
+6500,3,13,4,4,,4,"Necesita aprender a confiar en la gente para asi poder trabajar eficazmente en equipo",3,,0,1,"2012-07-31 18:48:22, RoundID=3",NULL
+6501,3,28,20,3,,1,"Es una niña muy brillante, pero creo que su fuerte no es en producción.No demuestra tanto interés en apoyar en el área, aunque se esfuerza por hacer lo que le piden siempre.",2,,0,1,"2012-07-31 17:28:26, RoundID=3",NULL
+6502,3,9,20,3,,2,"Normalmente es muy agradable trabajar con él, aunque en ocasiones sus reacciones anímicas son un poco escandalosas y agresivas.Sólo apoya al equipo en lo exclusivamente necesario y si no tiene otras actividades pendientes por hacer.",2,,0,1,"2012-07-31 17:29:54, RoundID=3",NULL
+6503,3,25,20,4,,2,"Es agradable trabajar con él.En ocasiones las respuestas que da a situaciones negativas pueden ser muy generales y superficiales, lo que es bueno como feedback de equipo, pero sería mejor que en casos específicos y ocasiones fuera más personalizado.La comunicación individual no es tan amplia en cuestiones laborales agenas a proyectos, lo cuál me gustaría que cambiara un poco, es decir, existiera más diálogo directo periódicamente.Ha mejorado mucho en la respuesta inmediata de correos, lo cuál hace aun más eficiente el trabajo en equipo del área de Producción.",4,,0,1,"2012-07-31 17:39:09, RoundID=3",NULL
+6504,3,4,20,4,,4,"Recalco que es una muy buena líder, sabe apoyar al equipo, animarlo y reprenderlo cuando es necesario.Responde por la gente y sabe guiarla.En ocasiones sus reacciones anímicas pueden ser fuertes y directas, pero en la generalidad tienen argumentos sustentados.Se preocupa por el funcionamiento del equipo y el desarrollo y entrega de los proyectos.",4,,0,1,"2012-07-31 17:41:55, RoundID=3",NULL
+6505,3,20,20,3,,4,"En las cuestiones técnicas y específicas de VFX aun está muy verde, pero está dispuesta a trabajar en ello y prepararse para ampliar sus conocimientos en el área.",4,,0,1,"2012-07-31 17:43:57, RoundID=3",NULL
+6506,3,13,20,4,,4,"Ha sabido tomar su puesto muy bien, sabe organizar, coordinar y llevar correctamente y hasta el final los proyectos. Sabe tratar a los artistas y conoce cada una de las fortalezas y debilidades de su equipo.Apoya siempre que se le solicita y nunca queda mal.Es muy agradabel trabajr con ella siempre.Generalmente sabe controlar el estrés y sus reacciones.",4,,0,1,"2012-07-31 17:46:37, RoundID=3",NULL
+6507,3,28,28,4,,3,,4,,0,1,"2012-07-31 17:38:52, RoundID=3",NULL
+6508,3,9,28,4,,3,,4,,0,1,"2012-07-31 17:39:04, RoundID=3",NULL
+6509,3,25,28,4,,4,,3,,0,1,"2012-07-31 17:39:25, RoundID=3",NULL
+6510,3,4,28,4,,4,,2,,0,1,"2012-07-31 17:39:47, RoundID=3",NULL
+6511,3,20,28,3,,4,,2,,0,1,"2012-07-31 17:40:26, RoundID=3",NULL
+6512,3,13,28,4,,3,,3,,0,1,"2012-07-31 17:40:34, RoundID=3",NULL
+6513,3,28,9,2,,4,"Adaptandose, pero ninguna queja",3,,0,1,"2012-07-31 17:44:56, RoundID=3",NULL
+6514,3,9,9,4,,4,,4,,0,1,"2012-07-31 17:45:04, RoundID=3",NULL
+6515,3,25,9,4,,4,,3,,0,1,"2012-07-31 17:45:17, RoundID=3",NULL
+6516,3,4,9,3,,4,,3,,0,1,"2012-07-31 17:45:40, RoundID=3",NULL
+6517,3,20,9,3,,2,,3,,0,1,"2012-07-31 17:45:58, RoundID=3",NULL
+6518,3,13,9,4,,4,,4,,0,1,"2012-07-31 17:46:03, RoundID=3",NULL
+6519,3,28,13,4,,4,,4,,0,1,"2012-07-31 17:43:13, RoundID=3",NULL
+6520,3,9,13,4,,2,,4,,0,1,"2012-07-31 17:43:31, RoundID=3",NULL
+6521,3,25,13,4,,4,,4,,0,1,"2012-07-31 17:44:20, RoundID=3",NULL
+6522,3,4,13,4,,4,,4,,0,1,"2012-07-31 17:44:24, RoundID=3",NULL
+6523,3,20,13,4,,4,,4,,0,1,"2012-07-31 17:44:28, RoundID=3",NULL
+6524,3,13,13,4,,4,,4,,0,1,"2012-07-31 17:44:33, RoundID=3",NULL
+6525,3,4,5,3,,3,,3,,0,1,"2012-07-31 17:49:20, RoundID=3",NULL
+6526,3,20,5,3,,3,,3,,0,1,"2012-07-31 17:49:33, RoundID=3",NULL
+6527,3,13,5,3,,4,,4,,0,1,"2012-07-31 17:49:57, RoundID=3",NULL
+6528,3,9,5,2,,2,"Le cuesta pedir ayuda cuando realmente la necesita, asi como la estimacion de tiempos de entrega no siempre es acertada.",2,,0,1,"2012-07-31 17:50:51, RoundID=3",NULL
+6529,3,4,8,4,,4,,4,,0,1,"2012-07-31 17:28:14, RoundID=3",NULL
+6530,3,20,8,2,,3,"Creo que va bien, aunque considero que todavía le faltan experiencia y conocimiento",3,,0,1,"2012-07-31 17:32:38, RoundID=3",NULL
+6531,3,13,8,3,,3,"Trabajar con Karen es muy agradable y lo mas importante es que me inspira mucha confianza. Creo que su desempeño como coordinadora mejora día a día.",4,,0,1,"2012-07-31 17:35:50, RoundID=3",NULL
+6532,3,9,8,2,,2,"Siempre está dispuesto a ayudar, pero creo que le falta aprender mucho y ser mas organizado.",4,,0,1,"2012-07-31 17:38:20, RoundID=3",NULL
+10637,3,5,6,4,,4,,4,,0,0,"2012-08-02 17:21:11, RoundID=3",NULL
+10638,3,6,6,2,,4,,4,,0,1,"2013-08-05 18:33:45",NULL
+10639,3,27,6,4,,4,,4,,0,1,"2013-08-05 18:33:47",NULL
+10640,3,22,7,4,,4,,3,,0,1,"2012-08-02 17:13:24, RoundID=3",NULL
+10641,3,23,7,4,,4,,3,,0,1,"2012-08-02 17:13:30, RoundID=3",NULL
+10642,3,7,7,4,,4,,3,,0,1,"2012-08-02 17:13:37, RoundID=3",NULL
+10643,3,9,7,3,,3,,3,,0,1,"2012-08-02 17:13:53, RoundID=3",NULL
+10646,3,22,13,4,,4,"Siempre esta disponible para cualquier emergencia de sistemas",4,,0,1,"2012-08-02 16:40:58, RoundID=3",NULL
+10647,3,5,13,4,,4,"A manejado bien a su equipo aun cuando acaba de tomar las riendas",4,,0,1,"2012-08-02 16:41:45, RoundID=3",NULL
+10648,3,8,13,4,,4,"Sabe llevar a su equipo",4,,0,1,"2012-08-02 16:42:26, RoundID=3",NULL
+10649,3,7,13,4,,4,"Siempre arregla cualquier problema que tenga q ver con sistemas",4,,0,1,"2012-08-02 16:42:54, RoundID=3",NULL
+10650,3,22,23,4,,4,"Gollás ha adquirido nuevas responsabilidades en estos últimos 6 meses: pasó de ser CTO a CTO + TD y su desempeño ha sido excelente.Un ejemplo particular son los shots de MAYO que requieren multitudes, si él no estuviera no veo quién haría que funcionara.Frecuentemente sus conocimientos sobrepasan la exigencia del problema y cuando no es el caso, su capacidad de aprender compensa rápidamente.",4,,0,1,"2012-08-02 17:03:41, RoundID=3",NULL
+10651,3,23,23,4,,3,"No he podido cumplir con algunos de los objetivos fijados el semestre anterior, principalmente en el entrenamiento del nuevo recluta por razones obvias. Con respecto a lo demás: creo que he cumplido con mis obligaciones y he contribuído a generar herramientas útiles para el estudio. Sigo atorándome un poco con los tiempos.",4,,0,1,"2012-08-02 17:06:24, RoundID=3",NULL
+10652,3,7,23,3,,4,"Siempre ofrece apoyo y no desiste cuando se presenta un problema sino hasta agotar todas las opciones.A veces trabaja de más por no organizarse bien desde el principio o por no dedicar unas horas a investigar el problema.",4,,0,1,"2012-08-02 17:07:48, RoundID=3",NULL
+10653,3,9,23,3,,3,"Toño ha mejorado muchísimo en cuanto a la organización y prioritización de sus tareas, aunque a veces no se detiene a pensar detenidamente el problema antes de saltar a conclusiones.",3,,0,1,"2012-08-02 17:09:00, RoundID=3",NULL
+10654,3,6,27,4,,4,,4,,0,1,"2012-08-02 16:59:23, RoundID=3",NULL
+10655,3,27,27,3,,4,,4,,0,1,"2012-08-02 16:59:52, RoundID=3",NULL
+10656,3,5,27,4,,4,,4,,0,1,"2012-08-02 17:00:10, RoundID=3",NULL
+10657,3,6,5,4,,4,"Anibal sigue con un desempenyo excelente en cada tarea asignada.",4,,0,1,"2012-08-02 17:36:04, RoundID=3",NULL
+10658,3,27,5,4,,4,,4,,0,1,"2012-08-02 17:36:19, RoundID=3",NULL
+10659,3,25,5,4,,4,,4,,0,1,"2012-08-02 17:37:46, RoundID=3",NULL
+10660,3,22,5,4,,4,"La ayuda que Daniel esta prestando al area de 3D de Daniel no tiene precio. Espero nos siga ayudando asi.",4,,0,1,"2012-08-02 17:39:12, RoundID=3",NULL
+10661,3,5,5,3,,3,,4,,0,1,"2012-08-02 17:40:20, RoundID=3",NULL
+10662,3,8,5,3,,4,,4,,0,1,"2012-08-02 17:40:28, RoundID=3",NULL
+10663,3,7,5,4,,4,,4,,0,1,"2012-08-02 17:40:46, RoundID=3",NULL
+10664,3,9,22,2,,3,,2,,0,1,"2012-08-02 16:59:11, RoundID=3",NULL
+10665,3,25,22,4,,3,"Debe delegar más responsabilidad y sus consecuentes tomas de desiciones a sus supervisores.
+
+Se debería dar a conocer más detalles de la situación financiera de la empresa, esto ayuda a manejar expectativas financieras y para los supervisores da una idea del presupuesto con el que se puede contar.",4,,0,1,"2012-08-02 17:01:28, RoundID=3",NULL
+10666,3,22,22,4,,3,,4,,0,1,"2012-08-02 17:02:01, RoundID=3",NULL
+10667,3,23,22,4,,4,"Continúa con muchas responsabilidades, las cuales ha cumplido como siempre. Sin embargo, como nota personal, hace falta trabajar en el manejo de estrés cuando hay múltiples tareas que hacer al mismo tiempo. También hay que aprovechar más los ""down times"" y no quedarse tarde cuando no hay urgencia.",4,,0,1,"2012-08-02 17:09:32, RoundID=3",NULL
+10668,3,5,22,3,,4,"Como director de 3D Lluis a asumido responsabilidades nuevas que van más allá de sus conocimientos técnicos pero ha ido aprendiendo lo necesario y también se ha apoyado en sus compañeros más técnicos para solucionar los problemas que han surgido.",4,,0,1,"2012-08-02 17:11:48, RoundID=3",NULL
+10669,3,8,22,3,,4,"Nat a aprendido mucho sobre los procesos técnicos que hay detrás de la composición y lo cuál ha ayudado mejorar los procesos de publicación y entregas. Para los siguientes proyectos hará falta mucho estudio y colaboración con 3D, así que actualizarse en los últimos temas de comp de elementos 3D, capas, relighting etc. sería una buena idea. 
+
+Por otro lado, he notado que le ha crecido mucho la panza estos meses, tal vez debería tomar menos cerveza.",4,,0,1,"2012-08-02 17:16:28, RoundID=3",NULL
+10670,3,7,22,4,,4,"Lo único que le falta a Oliver es aprender a programar para terminar de optimizar sus procesos, Juan y yo le hemos ayudado porque algunas de las cosas que ha requerido han sido más complicadas, sin embargo, comenzar a estudiar Python y conceptos de programación serían un gran agregado a sus conocimientos.",4,,0,1,"2012-08-02 17:18:55, RoundID=3",NULL
+10671,3,4,22,4,,4,"Liz parece haber asumido responsabilidades en el estudio que o no le corresponden o no son parte de su descripción de trabajo. Cuando alguna de esas responsabilidades necesita atención, es difícil saber a quién acercarse porque nadie tiene el puesto oficialmente (lo mismo pasa con Estivaliz, casi todos nos acercamos a producción cuando hacen falta cosas que tal vez no sean de producción). Suena a que hace falta alguien que tome ese puesto. Su novio está muy guapo.",3,,0,1,"2012-08-02 17:26:25, RoundID=3",NULL
+10674,3,22,4,4,,4,"Siempre es un placer trabajar con el, tiene una actitud excelente!! Siempre busca estar actualizado y ser apoyo para todos, si existiera el empleado del Mes, Daniel siempre ganaria!",4,,0,1,"2012-08-02 18:32:29, RoundID=3",NULL
+10675,3,5,4,4,,4,,3,,0,1,"2012-08-02 18:32:38, RoundID=3",NULL
+10676,3,8,4,2,,2,,3,,0,1,"2012-08-02 18:33:07, RoundID=3",NULL
+10677,3,32,4,3,,3,"Siguele echando muchas ganas, Vas muy bien!!",4,,0,1,"2012-08-02 18:33:45, RoundID=3",NULL
+10689,3,8,33,4,,4,,4,,0,1,"2012-08-02 15:24:53, RoundID=3",NULL
+10690,3,10,33,4,,3,,4,,0,1,"2012-08-02 15:25:28, RoundID=3",NULL
+10691,3,12,33,4,,4,"De lo Mejor que hay en el estudio.",4,,0,1,"2012-08-02 15:25:49, RoundID=3",NULL
+10692,3,14,33,4,,4,,4,,0,1,"2012-08-02 15:25:53, RoundID=3",NULL
+10693,3,17,33,4,,4,"Muy asertivo, constante.",4,,0,1,"2012-08-02 15:26:17, RoundID=3",NULL
+10694,3,18,33,4,,4,,4,,0,1,"2012-08-02 15:38:38, RoundID=3",NULL
+10695,3,29,33,4,,4,,4,,0,1,"2012-08-02 15:48:06, RoundID=3",NULL
+10696,3,30,33,4,,4,,4,,0,1,"2012-08-02 16:31:53, RoundID=3",NULL
+10697,3,31,33,4,,4,"Primer dia de Hector.",4,,0,1,"2012-08-02 16:32:15, RoundID=3",NULL
+10698,3,33,33,4,,2,,4,,0,1,"2012-08-02 16:32:29, RoundID=3",NULL
+10721,3,30,17,2,,2,,3,,0,1,"2012-08-02 17:10:29, RoundID=3",NULL
+10722,3,12,17,3,,3,,3,,0,1,"2012-08-02 17:10:48, RoundID=3",NULL
+10723,3,18,17,4,,4,,4,,0,1,"2012-08-02 17:10:56, RoundID=3",NULL
+10724,3,29,17,3,,3,,3,,0,1,"2012-08-02 17:11:02, RoundID=3",NULL
+10725,3,17,17,4,,4,,4,,0,1,"2012-08-02 17:11:11, RoundID=3",NULL
+10726,3,5,17,4,,3,,1,,0,1,"2012-08-02 17:11:36, RoundID=3",NULL
+10727,3,14,17,3,,3,,3,,0,1,"2012-08-02 17:11:40, RoundID=3",NULL
+10728,3,33,17,3,,3,,3,,0,1,"2012-08-02 17:11:46, RoundID=3",NULL
+10729,3,8,17,4,,4,,4,,0,1,"2012-08-02 17:11:54, RoundID=3",NULL
+10730,3,10,17,3,,3,,3,,0,1,"2012-08-02 17:11:57, RoundID=3",NULL
+10731,3,30,14,2,,4,,4,,0,1,"2012-08-02 17:06:15, RoundID=3",NULL
+10732,3,12,14,3,,4,,4,,0,1,"2012-08-02 17:06:31, RoundID=3",NULL
+10733,3,18,14,4,,4,,4,,0,1,"2012-08-02 17:06:39, RoundID=3",NULL
+10734,3,29,14,3,,4,,4,,0,1,"2012-08-02 17:06:53, RoundID=3",NULL
+10735,3,17,14,3,,3,,3,,0,1,"2012-08-02 17:07:11, RoundID=3",NULL
+10736,3,14,14,3,,4,,4,,0,1,"2012-08-02 17:07:35, RoundID=3",NULL
+10737,3,33,14,3,,3,,4,,0,1,"2012-08-02 17:07:38, RoundID=3",NULL
+10738,3,8,14,4,,4,,4,,0,1,"2012-08-02 17:07:59, RoundID=3",NULL
+10739,3,10,14,3,,4,,4,,0,1,"2012-08-02 17:08:13, RoundID=3",NULL
+10749,3,30,29,4,,4,,4,,0,1,"2012-08-02 18:35:34, RoundID=3",NULL
+10750,3,12,29,4,,4,,4,,0,1,"2012-08-02 18:35:46, RoundID=3",NULL
+10751,3,18,29,4,,4,,4,,0,1,"2012-08-02 18:35:51, RoundID=3",NULL
+10752,3,29,29,4,,4,,4,,0,1,"2012-08-02 18:36:04, RoundID=3",NULL
+10753,3,17,29,4,,4,,4,,0,1,"2012-08-02 18:36:10, RoundID=3",NULL
+10754,3,14,29,4,,4,,4,,0,1,"2012-08-02 18:36:15, RoundID=3",NULL
+10755,3,33,29,4,,4,,4,,0,1,"2012-08-02 18:36:19, RoundID=3",NULL
+10756,3,8,29,4,,4,,4,,0,1,"2012-08-02 18:36:23, RoundID=3",NULL
+10757,3,10,29,4,,4,,4,,0,1,"2012-08-02 18:36:26, RoundID=3",NULL
+10758,3,30,30,4,,4,,4,,0,1,"2012-08-02 15:13:12, RoundID=3",NULL
+10759,3,12,30,4,,4,,4,,0,1,"2012-08-02 15:13:15, RoundID=3",NULL
+10760,3,18,30,4,,4,,4,,0,1,"2012-08-02 15:13:18, RoundID=3",NULL
+10761,3,29,30,4,,4,,4,,0,1,"2012-08-02 15:13:33, RoundID=3",NULL
+10762,3,17,30,4,,4,,4,,0,1,"2012-08-02 15:13:36, RoundID=3",NULL
+10763,3,14,30,4,,4,,4,,0,1,"2012-08-02 15:13:39, RoundID=3",NULL
+10764,3,33,30,4,,4,,4,,0,1,"2012-08-02 15:13:42, RoundID=3",NULL
+10765,3,8,30,4,,4,,4,,0,1,"2012-08-02 15:13:45, RoundID=3",NULL
+10766,3,10,30,4,,4,,4,,0,1,"2012-08-02 15:13:50, RoundID=3",NULL
+10767,3,30,12,2,,3,,3,,0,1,"2012-08-02 16:30:07, RoundID=3",NULL
+10768,3,12,12,3,,4,,4,,0,1,"2012-08-02 16:31:37, RoundID=3",NULL
+10769,3,18,12,3,,4,,4,,0,1,"2012-08-02 16:31:50, RoundID=3",NULL
+10770,3,29,12,3,,3,,3,,0,1,"2012-08-02 16:32:10, RoundID=3",NULL
+10771,3,17,12,3,,4,,3,,0,1,"2012-08-02 16:32:23, RoundID=3",NULL
+10772,3,14,12,3,,3,,3,,0,1,"2012-08-02 16:32:29, RoundID=3",NULL
+10773,3,33,12,3,,3,,3,,0,1,"2012-08-02 16:32:33, RoundID=3",NULL
+10774,3,8,12,4,,4,,4,,0,1,"2012-08-02 16:32:41, RoundID=3",NULL
+10775,3,10,12,3,,3,,3,,0,1,"2012-08-02 16:32:56, RoundID=3",NULL
+10788,3,7,9,4,,2,,3,,0,1,"2012-08-03 17:12:04, RoundID=3",NULL
+10789,3,22,9,4,,3,,3,,0,1,"2012-08-03 17:12:22, RoundID=3",NULL
+10790,3,22,28,4,,4,,4,,0,1,"2012-08-02 19:15:43, RoundID=3",NULL
+10791,3,7,28,4,,4,,4,,0,1,"2012-08-02 19:15:46, RoundID=3",NULL
+10792,3,22,20,4,,4,"En general es muy agradable trabajar con el.Siempre da soluciones inmediatas y sabe trabajar en equipo",4,,0,1,"2012-08-02 20:24:11, RoundID=3",NULL
+10793,3,7,20,3,,3,"Siempre apoya en todo lo que se le solicita.Ha mejorado mucho en sus tiempos de entrega",4,,0,1,"2012-08-02 20:25:05, RoundID=3",NULL
+10794,3,32,20,4,,4,"Es muy agradable trabajar con ella.Siempre esta dispuesta a yudar, lo que puede llegar a aumentarle la carga de trabajo en exceso.Conoce muy bien su area y se desempenia increiblemente bien en ella",4,,0,1,"2012-08-02 20:26:25, RoundID=3",NULL
+10795,3,22,25,4,,4,"Trabajar con Daniel siempre es un placer. Es una gran persona profecional y personalmente. Creo que no solo en produccion, sino en administracion y manejo de un equipo de trabajo es muy talentoso y ojala encontremos maneras de que siga creciendo en todos los rubros",4,,0,1,"2012-08-08 20:07:59, RoundID=3",NULL
+10796,3,5,25,2,,3,"Creo Lluis tomo con una gran actitud y desempenio el trabajo de supervisor. Su manejo y crecimiento para el y su equipo ha sido espectacular. Hay cosas en las que hay que seguir mejorando y creciendo, sobretodo tecnicamente tanto el como su equipo tendra que seguirse desarrollando, pero creo es un tema mas de tiempo y experiencia que de capacidad definitivamente. A nivel profesional, la persepcion es que que siempre cumple lo que se compromete y si no lo logra hacer, es por factores externos. Aun asi creo que parte de su desarrollo debe de buscar algunas veces como buscar opciones para seguir siendo profesional contra las adversidades. Su interaccion conmigo, y mi persepcion de como interactua con el equipo es excelente, con y sin presion. Esperamos que siga creciendo en todos los sentidos, asi como su equipo siga mejorando para seguir compitiendo a nivel mundial.",4,,0,1,"2012-08-08 20:12:26, RoundID=3",NULL
+10797,3,8,25,3,,3,"Nat como siempre es excepcional en lo que se dispone a hacer. Su calidad profecional y de trabajo en equipo definitivamente la hace ser un elemento increible para trabajar con. Algunas veces tropezamos en entregas o tiempos, pero creo que con el apoyo de produccion esto lo va a eliminar por completo en un futuro. Aunque es importantisimo el poder ser apoyada por coordinacion y produccion, tambien es muy importante el tomar las riendas cuando ve que algo no va a funcionar para que no se salga de control, tema que ya sabemos se esta ejecutando actualmente. El trabajo en equipo ha sido muy bueno, aunque definitivamete de pronto la gran relacion que tiene con su equipo hace que se sobrepasen los limites de la relacion jefe/sub alterno. Creo hay que desarrollar un poquitito mas esa manera de dividir lo profecional mucho mas delineadamente para que no sucedan problemas con gente debajo que es complicada como con Yabin, y asi poder resolver, reportar o incluso pasar a otra area a gente del equipo que es complicada controlar. Aun asi, creo el 90% de las veces Nat ha logrado arreglar problemas con su equipo y ese pequenio jaloncito la hara un gran jefe/Director. En lo tecnico creo que ha avanzado muchisimo, y creo seguira haciendolo en el resto de su carrera. Definitivamente tiene que seguir creciendo para que pueda tanto su creatividad y tecnica abarcar mas areas de su profesion.",3,,0,1,"2012-08-08 20:17:55, RoundID=3",NULL
+10798,3,32,25,2,,3,"Aunque apenas empezamos a trabajar juntos, me gusta mucho su actitud y capacidad. Creo que su valor mas importante es su manera de interactuar y trabajar en equipo. Su sencillez y facilidad de comunicacion hace de Clau una persona muy agradable para trabajar con ella, y asi entender sus conceptos/procesos y tecnicas. Creo en cuanto a lo profesional, por el momento ha sabido cumplir con lo que se propone, aunque la carga de trabajo y el siguiente nivel de su puesto donde tendra aun mas responsabilidades esta aun por verse, por ello, creo que el tema de profesionalismo esta aun por encontrarse. Aun asi creo que lograra cumplir con todos los objetivos sin problema. En cuanto a conocimiento tecnico, creo que conoce bien y esta dispuesta a aprender y a preguntar todo lo que necesita para seguir desarrollandose. Aun asi me encantaria que supiera aun mas de la parte contable, de manejo humano y de las herramientas computacionales que usamos para que se integre aun mas a nuestros procesos.",3,,0,1,"2012-08-08 20:22:44, RoundID=3",NULL
+10799,3,32,32,4,,3,,3,,0,1,"2012-08-07 18:18:16, RoundID=3",NULL
+10800,3,25,32,4,,4,"luego no contesta correos  que son urgentes",4,,0,1,"2012-08-07 18:19:26, RoundID=3",NULL
+10801,3,4,32,4,,4,"siempre esta dispuesta apoyar",4,,0,1,"2012-08-07 18:21:19, RoundID=3",NULL
+10802,3,20,32,4,,4,,4,,0,1,"2012-08-07 18:21:20, RoundID=3",NULL
+10816,3,30,10,4,,4,,4,,0,1,"2012-08-03 11:27:28, RoundID=3",NULL
+10817,3,12,10,4,,4,,4,,0,1,"2012-08-03 11:27:33, RoundID=3",NULL
+10818,3,18,10,4,,4,,4,,0,1,"2012-08-03 11:27:39, RoundID=3",NULL
+10819,3,29,10,4,,4,,4,,0,1,"2012-08-03 11:27:52, RoundID=3",NULL
+10820,3,17,10,4,,4,,4,,0,1,"2012-08-03 11:27:55, RoundID=3",NULL
+10821,3,14,10,4,,4,,4,,0,1,"2012-08-03 11:27:58, RoundID=3",NULL
+10822,3,8,10,4,,4,,4,,0,1,"2012-08-03 11:28:01, RoundID=3",NULL
+10823,3,10,10,2,,3,,3,,0,1,"2012-08-03 11:28:26, RoundID=3",NULL
+10824,3,33,10,4,,4,,4,,0,1,"2012-08-03 11:28:29, RoundID=3",NULL
+10825,3,30,18,2,,3,"tiene poco tiempo en ollin, pero en ese tiempo a entregado bien lo que se le pide",3,,0,1,"2012-08-02 20:07:29, RoundID=3",NULL
+10826,3,12,18,3,,3,,3,,0,1,"2012-08-02 20:07:30, RoundID=3",NULL
+10827,3,18,18,3,,3,"Comprometido y siempre dispuesto a ayudar, por otra parte, le falta un poco mas de comunicacion para decir las cosas de una forma mas directa, y asi tratar de evitar o que vuelvan a pasar los mismos problemas.",3,,0,1,"2012-08-02 20:07:30, RoundID=3",NULL
+10828,3,29,18,2,,3,"nuevo integrante, pero se ha desarrollado en este poco tiempo de una buena forma, entregando lo que se le pide",3,,0,1,"2012-08-02 20:07:30, RoundID=3",NULL
+10829,3,17,18,3,,3,"trabaja bien y siempre esta dispuesto a ayudar, adyuda mucho en las dudas de integracion de Maya a Nuke",3,,0,1,"2012-08-02 20:07:31, RoundID=3",NULL
+10830,3,14,18,2,,3,"a sabido ir aprendiendo tras el tiempo que ha estado en ollin, poco a poco se ha merecido el poder componer.",3,,0,1,"2012-08-02 20:07:31, RoundID=3",NULL
+10831,3,33,18,2,,2,"para el poco tiempo que tiene en ollin a sabido sacar adelante su trabajo, pidiendo ayuda, y poniendolo en practica.",3,,0,1,"2012-08-02 20:07:31, RoundID=3",NULL
+10832,3,8,18,3,,3,"Dispuesta a ayudar, y entregar su trabajo a tiempo, por otra parte, deberia de poder comunicar mejor las necesidades que se tienen en el area de trabajo en general, tanto de arriba como de abajo.",3,,0,1,"2012-08-02 20:07:32, RoundID=3",NULL
+10833,3,10,18,3,,3,"dia con dia a sabido escuchar y poner en practica lo que se le ha ensenado",3,,0,1,"2012-08-02 20:07:33, RoundID=3",NULL
+10834,3,25,18,3,,2,"A pesar de siempre estar y tratar de ayudar, le falta comprometerse mas a lo que ofrece, y tratar de ver mas en las necesidades de la compania, tanto con los empleados, como con las herramientas que se necesitan para realizar el trabajo como por ejemplo, computadoras, RAM, softwares, etc. Hacer crecer el estudio.",3,,0,1,"2012-08-02 20:07:45, RoundID=3",NULL
+10847,3,30,8,3,,2,"Le falta un poco mas de experiencia pero va bien",3,,0,1,"2012-08-28 12:42:41, RoundID=3",NULL
+10848,3,12,8,3,,4,"Vas increible! sigue esforzándote en pulir mas tu trabajo y en las entregas. Felicidades!",4,,0,1,"2012-08-28 12:44:37, RoundID=3",NULL
+10849,3,25,8,4,,3,,4,,0,1,"2012-08-28 12:45:10, RoundID=3",NULL
+10850,3,22,8,4,,4,"un placer trabajar contigo.... como siempre",4,,0,1,"2012-08-28 12:45:58, RoundID=3",NULL
+10851,3,18,8,3,,3,"Vas muy bien!!! La calidad de tus trabajos es excelente pero necesitas mejorar en tus entregas",4,,0,1,"2012-08-28 12:46:56, RoundID=3",NULL
+10852,3,29,8,3,,3,"vas muy bien! sigue así!",4,,0,1,"2012-08-28 12:47:14, RoundID=3",NULL
+10853,3,17,8,,,,,,,0,0,,NULL
+10854,3,5,8,3,,4,"estoy muy contenta de trabajar contigo",4,,0,1,"2012-08-28 12:48:58, RoundID=3",NULL
+10855,3,14,8,3,,3,"vas muy bien!!! sigue asi!",4,,0,1,"2012-08-28 12:49:16, RoundID=3",NULL
+10856,3,8,8,3,,4,,4,,0,1,"2012-08-28 12:49:26, RoundID=3",NULL
+10857,3,7,8,4,,3,,4,,0,1,"2012-08-28 12:50:18, RoundID=3",NULL
+10858,3,10,8,3,,3,,4,,0,1,"2012-08-28 12:50:28, RoundID=3",NULL
+10859,3,33,8,3,,2,"vas bien! necesitas mejorar tus tiempos de entrega",4,,0,1,"2012-08-28 12:51:18, RoundID=3",NULL
+10860,3,28,25,4,,2,"Creo Asia es un super elemento, reservada pero muy capaz. No se si es la mejor posicion que puede tener en el estudio, pero definitivamente seria padre que fuera parte de nosotros por mucho tiempo. Creo sabe bien trabajar con los demas, aunque he interactuado poco con ella. Creo tecnicamente sabe mucho y siempre quiere aprender",3,,0,1,"2012-08-09 15:26:43, RoundID=3",NULL
+10861,3,9,25,1,,1,"Togno definitivamente no esta progresando en su posicion, no solo en el estudio sino en su labor de dia con dia. Cae una y otra ves en los mismos errores, no se si por falta de conocimiento tecnico o atencion al detalle. Aunque es muy agradable trabajar con el, no cubre con las necesidades del puesto.",3,,0,1,"2012-08-09 15:27:15, RoundID=3",NULL
+10862,3,32,25,2,,3,"Me gusta mucho trabajar con ella, aunque llevo poco conociendola y el objetivo de su puesto aun esta desarrollandose, creo que no tendra ningun problema en cubrir el perfil que pusimos como objetivo. Creo tecnicamente poco a poco ira desarrollandose para conocer mas de la operacion de nuestra compania asi como de las herramientas que utilziamos",3,,0,1,"2012-08-09 15:27:29, RoundID=3",NULL
+10863,3,25,25,3,,2,,3,,0,1,"2012-08-09 15:27:43, RoundID=3",NULL
+10864,3,4,25,4,,4,"Liz ha tomado todos los retos que se le han puesto de una manera increible. Poco a poco ha tomado las riendas de mas areas del estudio y ha logrado sacarlas adelante. Aunque yo trabajo muy agusto con ella, de pronto siento que tiene algo de fricciones con el resto del equipo. Es una persona muy profesional y me siento orgulloso de trabajar con ella",3,,0,1,"2012-08-09 15:27:55, RoundID=3",NULL
+10865,3,20,25,3,,3,"Esti ha mejorado significativamente en practicamente todas las areas, y definitivamente creo que esta lista para tomar aun mas responsabilidades. Se ha vuelto mucho mas ordenada y cumple con lo que se compromete a hacer. La gente disfruta mucho estar con ella y conoce muy bien las herramientas que usamos y la operacion del estudio. Es muy padre trabajar con ella",4,,0,1,"2012-08-09 15:28:06, RoundID=3",NULL
+10866,3,13,25,4,,3,"Kim considero es la persona con un crecimiento mas vertiginoso en la compania. No solo tiene el interes y la intencion de ser un profesional excelente, sino para lograrlo busca siempre complementarse en todas las areas, desde las cosas mas tecnicas hasta la manera de interactuar con el cliente. Puedo decir que tenia mis dudas de trabajar con Kim, pero hoy por hoy me siento muy contento y orgulloso de trabajar con ella.",4,,0,1,"2012-08-09 15:28:18, RoundID=3",NULL
+10867,3,5,25,2,,4,"Lluis ha tomado el sarten por el mango para lograr los objetivos que se le han puesto en frente. Aunque tenemos muchas cosas en las que seguir creciendo, creo el objetivo que tenemos como supervisor lo podra llevar a cabo de una manera excelente. Creo que podemos crecer tecnicamente aun mas, ya que cubre lo necesario y un poco mas, pero hay muchas areas que podemos definitivamente seguir desarrollando. Es una persona muy agradable para trabajar con el y nunca he visto que no este al maximo comprometido con su trabajo, puesto y equipo.",3,,0,1,"2012-08-09 15:28:30, RoundID=3",NULL
+10868,3,8,25,3,,2,"Aunque hemos tenido algunos problemas aun de entregas, creo que estamos por el camino adecuado para que su calidad como supervisora, tanto creativa, tecnica y profesional sea de primer nivel. Creo que el apoyo fundamental del lado de Produccion le va a ayudar mucho a poder mejorar su posicion y ejecucion del trabajo. Creo que como jefa y trabajando en equipo es muy buena, pero con mas responsabilidades y un equipo cada ves mas talentoso, es importante que sepa diferenciar entre la amistad y el dia con dia del trabajo. Es importante que ayude a sentir que evoluciona su equipo y que detalles como los de Yabin se curen desde raiz, al principio de la relacion de trabajo con sus subordinados. Tecnicamente cada dia sabe y aprende mas, y definitivamente esta muy cerca de poder tomar responsabilidades en proyectos que abarquen mas areas. Es muy padre y me siento afortunado en poder trabajar con ella",3,,0,1,"2012-08-09 15:28:43, RoundID=3",NULL
+10869,3,22,25,4,,4,"Daniel es una persona ejemplar no solo en su lado profesional, sino  personal y tecnico. Sabe tomar retos y ejecutarlos con todo el profesionalismo necesario. Tambien su manejo del equipo humano es excelente y sabe como responder y ayudar al equipo que depende de el. Ojala sigamos encontrando muchos objetivos para seguir su crecimiento profesional y trabajo en equipo!",4,,0,1,"2012-08-09 15:35:37, RoundID=3",NULL
+11041,3,6,34,3,,4,"Muy solícito y entusiasta.",4,,0,1,"2012-10-04 17:30:58",NULL
+11042,3,34,34,2,,3,"Hace falta que aprenda y ser todavía más constante y disciplinada.",3,,0,1,"2012-10-04 17:38:39",NULL
+11043,3,27,34,3,,4,,4,,0,1,"2012-10-04 17:38:49",NULL
+11044,3,5,34,4,,4,"Es muy paciente y abierto para poder explicar el trabajo que me pide y le interesa que avance para tener mayor habilidad en mi trabajo.",4,,0,1,"2012-10-04 17:38:52",NULL
+11045,3,28,34,2,,3,"Le preocupa mucho su trabajo y le agrada e interesa mejorar en él.",4,,0,1,"2012-10-04 17:38:58",NULL
+11056,4,34,34,2,,3,"Hace falta que aprenda y ser todavía más constante y disciplinada.",3,,0,1,"2012-10-04 17:39:04",NULL
+11057,4,34,6,-1,,-1,,-1,,0,1,"2013-08-05 18:33:52",NULL
+11058,4,34,27,3,,4,,4,,0,1,"2012-10-04 22:35:31",NULL
+11059,4,34,28,3,,3,"Brenda siempre me pregunta si me puede apoyar, es eficiente en su trabajo. Creo que es una persona que le gusta estar en constante aprendizaje.",4,,0,1,"2012-10-04 22:33:51",NULL
+11060,4,34,5,2,,2,"Brenda sigue aprendiendo y mejorando la parte tecnica y artistica. Es una buena ayuda tenerla en el equipo.",3,,0,1,"2012-10-04 17:33:16",NULL
+11378,4,12,12,3,,4,,4,,0,1,"2012-10-31 19:02:26",NULL
+11379,4,12,5,4,,4,,4,,0,1,"2012-10-31 17:35:29",NULL
+11380,4,28,5,2,,2,"Asia esta tomando voluntariamente el gran reto de ser la matte painter del estudio, a pesar de todos los contratiempos y dificultades que hay, y esta logrando progresar. Ha avanzado mucho en estos ultimos meses y apenas es el comienzo. Cuento con ella para los proximos proyectos.",2,,0,1,"2012-10-31 17:37:52",NULL
+11381,4,28,6,3,,3,,3,,0,0,"2012-11-01 13:22:25",NULL
+11382,4,28,8,1,,2,"Creo que va muy bien pero falta mucho por aprender.",3,,0,1,"2012-11-01 13:13:55",NULL
+11383,4,12,8,3,,3,"Excelente como siempre! Aprende rápido y es capaz de resolver situaciones bajo presión muy bien.
+Ha demostrado ser muy buen líder y buen compañero de trabajo. Muy confiable",4,,0,1,"2012-11-01 13:16:56",NULL
+11384,4,28,13,2,,3,"Asia es una chava con muchas ganas de aprender, aún le falta experiencia pero crece día con día. Me gustaría que se comunicara más con su supervisor.",2,,0,1,"2012-10-31 15:55:39",NULL
+11385,4,12,13,4,,4,"Esta tomando poco a poco el mando del area de 2d. Lo ha hecho muy bien y como compositor es excelente. Un poco de paciencia para la gente nueva es lo unico que le hace falta.",4,,0,1,"2012-10-31 15:58:28",NULL
+11386,4,12,14,4,,4,,4,,0,1,"2012-10-31 16:03:33",NULL
+11387,4,12,18,2,,3,,4,,0,1,"2012-10-31 16:09:11",NULL
+11388,4,28,28,2,,4,,3,,0,1,"2012-10-31 21:07:16",NULL
+11389,4,12,29,4,,4,,4,,0,1,"2012-10-31 16:04:14",NULL
+11391,4,12,31,4,,4,,3,,0,1,"2012-10-31 16:08:55",NULL
+11392,4,12,33,4,,4,"Creo que carlos es una de las personas mas preparadas en el estudio en cuestiones tecnicas y artisticas.",4,,0,1,"2012-10-31 16:11:44",NULL
+11393,4,28,34,3,,3,,4,,0,1,"2012-10-30 22:05:19",NULL
+11394,4,12,36,4,,4,,4,,0,1,"2012-10-31 16:06:50",NULL
+11395,4,28,27,3,,3,,3,,0,1,"2012-10-31 16:21:31",NULL
+11446,4,37,37,2,,3,,4,,0,1,"2012-11-02 11:49:07",NULL
+11447,4,37,4,4,,4,"-Ramon desde el cambio de empresa se ha comprometido al 100% con sus responsabilidades de VFX. -No necesita que se le presione para hacer las cosas y tiene una actitud de colaboracion y ayuda siempre. -Da soluciones alternas cuando surgen problemas -Solo necesita mejorar su puntualidad",4,,0,1,"2012-11-01 14:00:41",NULL
+11448,4,37,32,3,,3,,4,,0,1,"2012-11-02 11:43:25",NULL
+11449,4,37,20,4,,4,"Es muy servicial y siempre esta dispuesto a apoyar en lo que se le pide.Siempre busca la forma de solucionar todas las eventualidades",4,,0,1,"2012-11-01 14:50:09",NULL
+24773,3,18,1,,,,,,,0,0,,NULL
+24797,5,30,12,2,,3,,3,,0,1,"2013-01-24 13:55:27",NULL
+24798,5,32,12,4,,4,"Gracias por los consejos sobre los impuestos",4,,0,1,"2013-01-24 13:56:13",NULL
+24799,5,12,12,3,,3,,4,,0,1,"2013-01-24 13:56:41",NULL
+24800,5,25,12,4,,4,,3,,0,1,"2013-01-24 13:57:21",NULL
+24801,5,22,12,4,,4,,4,,0,1,"2013-01-24 13:57:27",NULL
+24802,5,36,12,3,,3,"Trabajas baste, muy enfocada en lo que tienes que hacer. Lo que falta es pensar maneras mas optimas para poder resolver problemas mas rapido.",4,,0,1,"2013-01-24 14:02:00",NULL
+24803,5,18,12,4,,4,"Ha ayudado bastante al equipo de comp, sabiendo resolver dudas y haciendo set ups para que el equipo optimize su produccion.",4,,0,1,"2013-01-24 14:02:51",NULL
+24804,5,4,12,4,,4,,4,,0,1,"2013-01-24 14:03:10",NULL
+24805,5,19,12,4,,3,,3,,0,1,"2013-01-24 14:03:43",NULL
+24806,5,20,12,2,,4,,4,,0,1,"2013-01-24 14:04:12",NULL
+24807,5,29,12,2,,3,"Te falta tener una libreta para organizarte y acordarte de lo que te pide producion y te pide el equipo de comp.",3,,0,1,"2013-01-24 14:05:36",NULL
+24808,5,31,12,3,,3,"Creo que has mejorado bastante, igual noto que intentas aprender mas, eso esta bueno para ir resolviendo problemas mas rapido.",4,,0,1,"2013-01-24 14:06:36",NULL
+24809,5,40,12,2,,2,"Intentar mejorar en la velocidad de entrega.",3,,0,1,"2013-01-24 14:10:11",NULL
+24810,5,39,12,3,,4,"Seguir rifando y ayudando a los demas con sus problemas de comp.",4,,0,1,"2013-01-24 14:11:17",NULL
+24811,5,41,12,3,,3,"Creo que has mejorado bastante en el tiempo de entregas lo que siento que te hace falta es tener mas cuidado con el color.",4,,0,1,"2013-01-24 14:12:14",NULL
+24812,5,23,12,4,,4,"Gracias por rescatar los script corruptos que nos han surgido.",4,,0,1,"2013-01-24 14:12:41",NULL
+24813,5,13,12,4,,4,,4,,0,1,"2013-01-24 14:16:26",NULL
+24814,5,5,12,3,,4,,3,,0,1,"2013-01-24 14:16:27",NULL
+24815,5,14,12,3,,4,"bastante comprometido con su trabajo, ha seguir aprendiendo",4,,0,1,"2013-01-24 14:16:29",NULL
+24816,5,50,12,2,,3,"Momento de aprender!!!",3,,0,1,"2013-01-24 14:16:45",NULL
+24817,5,33,12,2,,3,"Si sabes que alguien te puede ayudar a resolver un problema intenta ir a preguntar, creo que te hace un poco de falta de comunicacion para que puedas resolver tus problemas de comp mas rapido.",2,,0,1,"2013-01-24 14:19:29",NULL
+24818,5,8,12,4,,4,,4,,0,1,"2013-01-24 14:19:37",NULL
+24819,5,10,12,3,,4,"Has mejorado, ha seguir aprendiendo, lo que te recomiendo es que tomes decisiones de comp para tu shots.",3,,0,1,"2013-01-24 14:20:27",NULL
+24820,5,44,12,3,,3,"ser mas eficiente en las horas de trabajo.",3,,0,1,"2013-01-24 14:21:11",NULL
+24821,5,38,12,2,,3,"Ser mas comprometido en las horas de trabajo.",3,,0,1,"2013-01-24 14:21:58",NULL
+24822,5,7,12,4,,4,,4,,0,1,"2013-01-24 14:22:05",NULL
+24823,5,32,13,4,,4,,4,,0,1,"2013-01-24 18:50:21",NULL
+24824,5,12,13,4,,4,,4,,0,1,"2013-01-24 18:50:28",NULL
+24825,5,25,13,4,,4,,4,,0,1,"2013-01-24 18:51:21",NULL
+24826,5,22,13,4,,4,,4,,0,1,"2013-01-24 18:52:08",NULL
+24827,5,4,13,4,,4,,4,,0,1,"2013-01-24 18:52:12",NULL
+24828,5,19,13,4,,4,,4,,0,1,"2013-01-24 18:52:15",NULL
+24829,5,20,13,4,,4,,4,,0,1,"2013-01-24 18:52:19",NULL
+24830,5,29,13,4,,4,,4,,0,1,"2013-01-24 18:52:23",NULL
+24831,5,23,13,4,,4,,4,,0,1,"2013-01-24 18:52:27",NULL
+24832,5,13,13,4,,4,,4,,0,1,"2013-01-24 18:52:30",NULL
+24833,5,35,13,4,,4,,4,,0,1,"2013-01-24 18:52:34",NULL
+24834,5,8,13,4,,4,,4,,0,1,"2013-01-24 18:52:39",NULL
+24835,5,7,13,4,,4,,4,,0,1,"2013-01-24 18:52:42",NULL
+24836,5,12,23,3,,4,"No puedo comentar al respecto del trabajo actual de Carlos porque no tengo los conocimientos para saber la magnitud de sus habilidades (no es mi area), pero las interacciones que hemos tenido han sido muy buenas: siempre está dispuesto a ayudar y pregunta cada vez que desconoce algo, dejando ver claro su interés por conocer las herramientas que desarrollamos para su área y echarnos la mano en lo que pueda.Tal vez podría enfocarse un poco más hacia conocimientos técnicos (espacios de color y demás), pero en general es muy agradable trabajar con él.",4,,0,1,"2013-01-24 19:30:40",NULL
+24837,5,22,23,4,,4,"Gollás continúa acumulando responsabilidades y no ha sido rebasado por ellas, al contrario: sus conocimientos y capacidad de absorber nueva información, así como de cambiar de contexto,  abstraer y descomponer el problema en partes más sencillas y atacables, lo llevan a manejarlas sin ningún problema.Funge como supervisor de desarrollo, multitudes 3D y de la compra, cotización e investigación de nuevo equipo y software. No creo que haya alguien en el estudio con tan variadas y tan distintas responsabilidades.",4,,0,1,"2013-01-24 19:34:39",NULL
+24838,5,4,23,4,,4,"No estoy capacitado para juzgar el trabajo de Liz, pero puedo constatar que es extremadamente rápida en captar la información nueva cada vez que un problema aparece y tiene una disposición y voluntad tremendas a la hora de tener que resolverlo.Si alguna crítica tendría sería que tal vez podría ser un poco más receptiva de las inquietudes del equipo cuando estamos tratando cosas en grupo. Siento que a veces se lo toma personal. Por supuesto que esto no impide que trabajar con ella sea sumamente agradable.",3,,0,1,"2013-01-24 19:39:10",NULL
+24839,5,20,23,3,,4,"Las interacciones que he tenido con Esti han sido muy agradables: sonará raro pero el ánimo que pone en su trabajo es a veces contagioso.Siento que hay cosas por aprender, pero va encaminada hacia ello.",4,,0,1,"2013-01-24 19:41:17",NULL
+24840,5,23,23,4,,3,"Creo que he mejorado mis diseños de las herramientas que hago, buena parte de eso se debe a la insistencia de Gollás y parece que las buenas prácticas se me están pegando.Con lo que sigo batallando es al momento de dar un estimado de fechas para completar una tarea. Además creo que podría hacer pruebas más intensivas antes de soltar los programas para el uso general.",4,,0,1,"2013-01-24 19:42:50",NULL
+24841,5,13,23,4,,4,"Las responsabilidades de Kim siguen en aumento, así como sus desveladas, sin embargo continúa cumpliendo cabalmente con todo.A veces me cuesta comunicarme con ella, particularmente para entender los problemas cuando ocurren, pero no es para nada un impedimento para trabajar.",3,,0,1,"2013-01-24 19:44:18",NULL
+24842,5,35,23,3,,4,"Trabajar con José Luis es muy agradable, sobre todo considerando que está desempeñándose en una área que tal vez no sea su fuerte.Sin importar esto se ha dado a la tarea de aprender todo lo que puede, cosa que es admirable.",4,,0,1,"2013-01-24 19:45:25",NULL
+24843,5,8,23,4,,4,"Trabajar con Nat continúa siendo agradable, realmente no tengo ningún comentario distinto a la evaluación pasada.",4,,0,1,"2013-01-24 19:46:43",NULL
+24844,5,7,23,4,,4,"La voluntad rayando casi en necedad que tiene Oliver para resolver un problema cuando se presenta es una característica muy valiosa en una persona de su puesto. No se raja.",4,,0,1,"2013-01-24 19:47:41",NULL
+24845,5,5,23,3,,4,"Lluis tiene ahora muchas más responsabilidades que antes, incluyendo gente a su cargo. A mi parecer lo ha manejado sin ningún inconveniente,  ojalá continúe así con el crecimiento que experimenta el departamento a su cargo.Si alguna crítica tuviera que hacer es que creo que podría ocuparse en investigar un poco más la parte técnica (multitudes y prman), pero entiendo que la enorme carga de responsabilidades que tiene le deje muy poco tiempo para hacerlo.",4,,0,1,"2013-01-24 19:50:43",NULL
+24852,5,7,35,4,,4,,4,,0,1,"2013-01-25 15:51:51",NULL
+24853,5,22,35,4,,4,,4,,0,1,"2013-01-25 15:52:07",NULL
+24854,5,23,35,4,,4,,4,,0,1,"2013-01-25 15:52:23",NULL
+24855,5,35,35,3,,4,,4,,0,1,"2013-01-25 15:53:16",NULL
+24856,5,42,37,4,,2,"que sea un poco mas en focada a las nesesidades de la empresa",4,,0,1,"2013-01-25 17:46:04",NULL
+24857,5,32,37,4,,3,"muy bien conose su funsion en la empresa",4,,0,1,"2013-01-25 17:48:01",NULL
+24858,5,4,37,4,,4,,4,,0,1,"2013-01-25 17:48:42",NULL
+24859,5,43,37,4,,4,"muy responsable en su trabajo",4,,0,1,"2013-01-25 17:49:53",NULL
+24860,5,37,37,4,,3,"me adato a las nesesidades de la empresa",4,,0,1,"2013-01-25 17:50:55",NULL
+24861,5,42,42,3,,4,"me gustaria apoyar mas a mi jefe en lo que me pidan y aprender de ellos",4,,0,1,"2013-01-28 15:55:46",NULL
+24862,5,32,42,4,,4,"como jefa es muy buena ysiempre esta dispuesta cuando se le nesecita",4,,0,1,"2013-01-28 15:55:47",NULL
+24863,5,4,42,4,,4,"como jefa se aportado muy bien y siempre nos escucha cuando mas la necesitamos",4,,0,1,"2013-01-28 15:55:48",NULL
+24864,5,43,42,3,,4,"en su trabajo no tengo excusa es muy trabajadora",4,,0,1,"2013-01-28 15:55:48",NULL
+24865,5,37,42,2,,0,,2,,0,1,"2013-01-28 15:55:50",NULL
+24866,5,42,43,3,,4,,4,,0,1,"2013-01-28 15:48:48",NULL
+24867,5,32,43,4,,4,,4,,0,1,"2013-01-28 15:49:53",NULL
+24868,5,4,43,4,,4,,4,,0,1,"2013-01-28 15:51:38",NULL
+24869,5,43,43,4,,3,,4,,0,1,"2013-01-28 15:53:00",NULL
+24870,5,37,43,4,,4,,4,,0,1,"2013-01-28 15:55:11",NULL
+24871,5,30,47,4,,3,,4,,0,1,"2013-01-25 15:01:01",NULL
+24872,5,48,47,4,,4,,3,,0,1,"2013-01-25 15:01:33",NULL
+24873,5,49,47,3,,3,,4,,0,1,"2013-01-25 15:01:46",NULL
+24874,5,29,47,4,,4,"Es demasiado exigente, muy cerrado, siempre cree tener la razón, siento que el puesto de ""supervisor"" se le subió, creo que necesitamos más comunicación con el y con comp para saber que onda con los shots.",2,,0,1,"2013-01-25 15:03:44",NULL
+24875,5,51,47,3,,3,,4,,0,1,"2013-01-25 15:03:53",NULL
+24876,5,47,47,3,,2,,4,,0,1,"2013-01-25 15:04:19",NULL
+24877,5,30,48,3,,3,,4,,0,1,"2013-01-25 09:34:39",NULL
+24878,5,48,48,3,,3,,3,,0,1,"2013-01-25 09:34:59",NULL
+24879,5,49,48,2,,1,,3,,0,1,"2013-01-25 09:35:23",NULL
+24880,5,29,48,3,,4,,4,,0,1,"2013-01-25 09:35:36",NULL
+24881,5,51,48,3,,2,,4,,0,1,"2013-01-25 09:35:48",NULL
+24882,5,47,48,2,,2,,3,,0,1,"2013-01-25 09:36:01",NULL
+24883,5,30,49,4,,4,,4,,0,1,"2013-01-25 07:19:15",NULL
+24884,5,48,49,4,,4,,4,,0,1,"2013-01-25 07:19:38",NULL
+24885,5,49,49,3,,3,,4,,0,1,"2013-01-25 07:19:51",NULL
+24886,5,29,49,4,,4,,3,,0,1,"2013-01-25 07:20:16",NULL
+24887,5,51,49,3,,3,,4,,0,1,"2013-01-25 07:20:46",NULL
+24888,5,47,49,3,,2,,3,,0,1,"2013-01-25 07:21:00",NULL
+24889,5,30,51,3,,4,"es un gusto trabajar con el",4,,0,1,"2013-01-25 08:00:11",NULL
+24890,5,48,51,3,,4,,3,,0,1,"2013-01-25 08:01:59",NULL
+24891,5,49,51,3,,2,"le hace falta saber dar a entender  sus ideas, al igual que practica en el programa, siento que va lento y hace que el equipo se atrase, tambien de que a veces anda disperso y no se concentra en el trabajo, le hace falta escuchar y saber responder lo que se le pregunta",3,,0,1,"2013-01-25 08:59:39",NULL
+24892,5,51,51,3,,4,,4,,0,1,"2013-01-25 08:59:41",NULL
+24893,5,47,51,4,,3,,4,,0,1,"2013-01-25 08:59:42",NULL
+24894,5,29,51,4,,4,,3,,0,1,"2013-01-25 09:01:02",NULL
+24895,5,52,52,3,,4,,3,,0,1,"2013-01-24 20:15:12",NULL
+24896,5,5,52,4,,4,,4,,0,1,"2013-01-24 20:15:34",NULL
+24897,5,12,53,4,,4,,4,,0,1,"2013-01-24 12:57:24",NULL
+24898,5,53,53,4,,4,,3,,0,1,"2013-01-24 13:00:08",NULL
+24899,5,42,4,4,,4,"Le costo un poco adaptarse a un nuevo sistema de trabajo, pero lo esta haciendo muy bien, ha tomado el cargo de jefa de limpieza y las cosas funcionan correctamente.",4,,0,1,"2013-01-24 19:31:44",NULL
+24900,5,32,4,4,,4,"Trabaja demasiado, pasa muchas horas en la oficina, tal vez necesita ayuda extra. Es un placer trabajar con ella, siempre tiene disposicion y ayuda mucho a que fluyan procesos entre areas. Sus ganas de aprender hacen la diferencia, esta involucrada en los procesos y eso la apoya a tener un conocimiento mas amplio de lo que esta manejando. Felicidades Claudia, lograste integrarte my bien al equipo y eres pieza fundamental en produccion!",4,,0,1,"2013-01-24 19:31:45",NULL
+24901,5,12,4,4,,4,"Una diferencia enorme en el flujo de trabajo desde que Carlos tomo el cargo. Aunque sigue aprendiendo tiene madera para ser un excelente supervisor. Sabe como acercarse al equipo, su trato es impecable, sabe como pedir las cosas. Ha hecho un gran trabajo como artista y lider.",4,,0,1,"2013-01-24 19:31:46",NULL
+24902,5,25,4,4,,3,"Charlie, eres mi Jedi!Solo te falta mejorar un poquito mas el tiempo que le dedicas a cada cosa, todas las areas son importantes y creo que muchas veces dejas de lado ciertos asuntos que tambien tienen prioridad. Creo que al fin dejaste que otras personas te ayuden con tu chamba, empiezas a confiar mas en tus colaboradores y estas armando un equipo muy bueno!",4,,0,1,"2013-01-24 19:31:48",NULL
+24903,5,22,4,4,,4,"Es increible tener en el equipo a una persona con los conocimientos de Gollas, siempre tiene solucion a todo. De repente no tiene la forma adecuada de pedir o solicitar las cosas, por desgracia a veces se vuelve un foco rojo y tiene una serie de demandas al estudio sin sentido. Creo que pierde el piso de vez en cuando, (pero no de una forma pedante, le da un rollo de huelga de la unam) cuando se trata de tomar decisiones de grupo en cuestiones realmente sencillas, como cafe, azucar, agua, papitas, estacionamiento, arboles de navidad...y si alguien esta en contra es un rollazo, esto es solo un comentario, dado que no podria darle una evaluacion menor a 4 en ningun rubro. Ah que este mas al pendiente de su celular o si esta en un evento y no puede contestar solo que mande un texto o correo y sabremos que esta al tanto.",4,,0,1,"2013-01-24 19:37:05",NULL
+24904,5,4,4,4,,4,"... cada vez esto se pone mas complejo!! pero creo que ahi voy. Tengo muchos errores, pero el que me sigue pesando y me decepciona un poco es que no puedo lograr un flujo de trabajo eficaz en el area de coordinacion. Gracias a Claudia he logrado comprender muchisimo los procesos financieros y adminitrativos, y eso me ha hecho mucho mas fuerte realizando mi trabajo.",3,,0,1,"2013-01-24 19:37:38",NULL
+24905,5,20,4,4,,4,"Necesita urgentemente creer en ella, dejar de buscar ayuda y soluciones en otras personas cuando sabe que puede hacerlo bien. No se si es pereza o ganas de que siempre le revisen o le digan las cosas dos veces para confirmar, creo que es mas la segunda. Debe de aprender a trabajar con todo tipo de personas y encontrar en modo de salir triunfante de cada situacion.",4,,0,1,"2013-01-24 19:38:23",NULL
+24906,5,23,4,4,,4,"Juan siempre es un placer trabajar contigo!!! tu trabajo es impecable!! .. solo debes ser mas paciente con Chato",4,,0,1,"2013-01-24 19:38:31",NULL
+24907,5,13,4,4,,4,"Felicidades Kim cada dia te haces mas fuerte en tu trabajo!",1,,0,1,"2013-01-24 19:38:41",NULL
+24908,5,5,4,4,,4,"Lluis, porfavor cambia tu actitud pesimista, sabemos que tienes una forma de ser muy especial, pero eso no justifica la forma en que te acercas al equipo. Si algo del flujo de trabajo no te parece hablalo con los involucrados, no seas sarcastico ni grosero en tu manera de contestar.",1,,0,1,"2013-01-24 19:38:51",NULL
+24909,5,8,4,4,,2,"Fue muy dificil trabajar con ella durante su embarazo, soy consiente de que no fue facil su proceso medico pero nunca admitio que necesitaba ayuda y el trabajo se volvio mas pesado.  Sigue tratando al equipo individualmente en lugar de responder como la lider de un grupo frente a los proyectos. Tiene que madurar mucho y reconocer sus deficiencias y saber que puede apoyarse en mas de uno para hacer un plan de trabajo y que no por eso pierde autoridad.",3,,0,1,"2013-01-24 19:39:25",NULL
+24910,5,7,4,4,,3,,4,,0,1,"2013-01-24 19:39:32",NULL
+24911,5,43,4,4,,4,,4,,0,1,"2013-01-24 19:39:36",NULL
+24912,5,37,4,4,,4,,4,,0,1,"2013-01-24 19:39:40",NULL
+24913,5,26,4,4,,3,,4,,0,1,"2013-01-24 19:40:04",NULL
+24914,5,19,4,4,,4,,4,,0,1,"2013-01-24 19:40:10",NULL
+24915,5,12,7,4,,3,,3,,0,1,"2013-01-25 12:50:07",NULL
+24916,5,22,7,4,,4,,3,,0,1,"2013-01-25 12:50:52",NULL
+24917,5,4,7,4,,4,,3,,0,1,"2013-01-25 12:51:49",NULL
+24918,5,20,7,2,,3,,3,,0,1,"2013-01-25 12:52:25",NULL
+24919,5,23,7,4,,4,,3,,0,1,"2013-01-25 12:52:45",NULL
+24920,5,13,7,3,,4,,4,,0,1,"2013-01-25 12:53:20",NULL
+24921,5,35,7,3,,3,"Ha ido de menos a más y siempre está dispuesto a ayudar en todo.",3,,0,1,"2013-01-25 12:55:22",NULL
+24922,5,5,7,4,,4,,3,,0,1,"2013-01-25 12:55:31",NULL
+24923,5,8,7,4,,3,,3,,0,1,"2013-01-25 12:55:55",NULL
+24924,5,7,7,4,,4,,3,,0,1,"2013-01-25 12:56:23",NULL
+24925,5,19,7,4,,3,,3,,0,1,"2013-01-25 12:56:33",NULL
+24926,5,28,19,4,,4,"le falta un poco de experiencia pero va muy bien aprende muy rapido y le gusta su trabajo",4,,0,1,"2013-01-24 18:05:58",NULL
+24927,5,32,19,4,,4,"creo que desempe;a muy bien su trabajo pero que deberia ser un poco mas flexible algunas veces",3,,0,1,"2013-01-24 18:06:39",NULL
+24928,5,12,19,4,,4,"creo que es muy buen lider de composicion",4,,0,1,"2013-01-24 18:07:11",NULL
+24929,5,25,19,4,,4,,4,,0,1,"2013-01-24 18:07:16",NULL
+24930,5,22,19,4,,4,,4,,0,1,"2013-01-24 18:07:26",NULL
+24931,5,4,19,4,,4,,4,,0,1,"2013-01-24 18:07:29",NULL
+24932,5,19,19,4,,4,,2,,0,1,"2013-01-24 18:07:52",NULL
+24933,5,20,19,4,,3,,4,,0,1,"2013-01-24 18:08:03",NULL
+24934,5,23,19,4,,4,,4,,0,1,"2013-01-24 18:08:09",NULL
+24935,5,5,19,4,,4,,4,,0,1,"2013-01-24 18:08:15",NULL
+24936,5,8,19,4,,4,,4,,0,1,"2013-01-24 18:08:19",NULL
+24937,5,7,19,4,,4,,4,,0,1,"2013-01-24 18:08:24",NULL
+24938,5,13,19,4,,4,,4,,0,1,"2013-01-24 18:08:49",NULL
+24939,5,32,22,4,,4,"Claudia siempre está lista para hacer las cosas que le corresponden y las hace de forma eficiente. Poco a poco ha empezado a entender los procesos técnicos y del día a día del estudio, lo cuál le ayuda a entender por qué se deben hacer las compras que se le solicitan. Además, siempre está de buenas.",4,,0,1,"2013-01-24 19:40:55",NULL
+24940,5,12,22,4,,4,"En el poco tiempo que Guillén ha tomado las responsabilidades de Nat, ha entendido rápidamente cuál es su rol a la hora de definir los pipelines de publicación y lo ha hecho muy bien. Siempre sonríe y está de buen humor.",4,,0,1,"2013-01-24 19:46:22",NULL
+24941,5,25,22,4,,4,"Desde la evaluación pasada, y haciendo referencia a mi queja principal en ese momento, he notado que Charlie ha delegado mucho más las tareas correspondientes a sus supervisores (al menos de IT/contabilidad). Esto ha agilizado los procesos de compras y tomas de decisiones de IT y ha quitado mucha de la frustración de mi trabajo. Cotizar y saber que solo necesito una autorización final para hacer compras una vez que contabilidad e IT se han puesto de acuerdo nos permitió crear el pipeline de importaciones, lo cuál nos deja tener más y mejor equipo con fracciones de los recursos económicos que se necesitaban antes.",4,,0,1,"2013-01-24 19:52:42",NULL
+24942,5,22,22,4,,4,"Mis responsabilidades han aumentado considerablemente, especialmente al fungir como asesor/TD/artista del área de 3D en el proyecto de Mayo. Creo que he manejado todas las tareas de forma balanceada y he delegado las responsabilidades a quien le corresponde. A pesar de que los días ahora son largos y cansados y ya no programo, termino en las noches con un gran sentido de satisfacción en mi trabajo.",4,,0,1,"2013-01-24 19:55:43",NULL
+24943,5,4,22,4,,4,"Liz siempre está dispuesta a ayudar en lo que haga falta y si se pide por los canales formales, se hacen las cosas de manera eficiente.Las riñas y confrontamientos de personalidad con el supervisor de 3D han causado momentos incómodos y fallas de comunicación (de ambos lados) y quizá haya causado retrasos en algunos procesos. Sin embargo, al final creo que se han tratado los problemas de forma profesional y no se ha llegado a mayor problemática.",3,,0,1,"2013-01-24 20:00:18",NULL
+24944,5,19,22,4,,4,"No ha habido necesidad de interactuar mucho con su área, pero se que Quique es un gran artista y siempre me hallo impresionado por su talento cuando paso a saludar y veo su trabajo.",4,,0,1,"2013-01-24 20:02:56",NULL
+24945,5,23,22,4,,4,"Los últimos meses Juan ha trabajado prácticamente sin supervisión y casi solo acude a mi cuando necesita ayuda con alguna duda de programación o cuando debe tomarse una decisión de diseño fundamental del software.A Juan le gusta involucrarse en todas las áreas del estudio y eso le ayuda a buscar soluciones a los problemas que se puedan encontrar, aunque no sean su responsabilidad siempre tiene una sugerencia que siempre es bienvenida pues generalmente está bien fundada y estudiada.Como siempre, es muy responsable con sus horarios y a pesar de tener mucha confianza, me notifica cuando debe irse temprano o llegará tarde.Espero que pronto encontremos un pasante que pueda entrenar para ayudarle y asuma una nueva posición de supervisión.",4,,0,1,"2013-01-24 20:09:50",NULL
+24946,5,13,22,4,,4,"Cuando Kim necesita ayuda nunca está lejos la llamada que dice ""Hola! Tengo un problema"". Lo digo como algo bueno pues es mejor que alguien pida ayuda a que lo haga de forma incorrecta. Kim aprende los procesos de forma rápida y aunque esté de malas siempre está sonriente y siempre es amable. Lo único que no me gusta que le de chicharrones a Jorgito.",4,,0,1,"2013-01-24 20:11:52",NULL
+24947,5,35,22,4,,4,"El Inge ha sido una segunda mano fundamental para Oliver y no creo que hubiéramos superado el crecimiento del número de artistas sin su ayuda. Siempre está dispuesto a hacer las tareas que se le solicitan, aunque sean tareas aburridas o simples (e.g. capturar el inventario) y las hace de forma profesional y veloz.Su conocimiento de Linux cada vez es mejor y creo que Oliver está haciendo un buen trabajo al entrenarlo aunque quizás un curso independiente sería provechoso.Cuando le solicito opiniones siempre tiene comentarios sensatos y sugerencias prácticas. gracias a su vasta experiencia. Es una gran aportación al equipo de IT!",4,,0,1,"2013-01-24 20:16:12",NULL
+24948,5,5,22,4,,4,"Lluis ha pasado de ser artista a supervisor y director técnico, lo cuál nunca es fácil. Si bien aún no domina todos los temas, parece que siempre está estudiando nuevas posiblidades y aprendiendo sobre los temas que desconoce. Muestra mucha iniciativa al usar las herramientas que tiene a su disposición (i.e. foros, el knowledge base de Ollín etc), algo que no he visto en otros supervisores.Creo que le ha costado un poco de trabajo motivar a su equipo en los tiempos de presión y a pesar de que el panorama se vea gris se debe mostrar con una actitud más positiva. Por otro lado creo que debe mejorar su comunicación con el área de producción/operaciones pues los choques de personalidad que puden surgir de ahí no son buenos para nadie.",2,,0,1,"2013-01-24 20:21:41",NULL
+24949,5,8,22,3,,4,"Es un placer trabajar con Nat y la comunicación con el área de IT siempre ha sido muy fluida. En los momentos de decisión siempre hemos trabajado conjúntamente para llegar a la mejor solución y sus habilidades artísticas siempre complementan nuestras habilidades técnicas.Parece siempre llevarse bien con todos, y particularmente con su gente, la cuál siempre parecía motivada a trabajar y entregar las cosas bien.El único problema es que le salió un bulto en el vientre y se tuvo que ir por algún motivo.",4,,0,1,"2013-01-24 20:25:20",NULL
+24950,5,7,22,3,,4,"Oliver es muy eficiente para resolver los problemas comunes del estudio. Siempre está dispuesto a iniciar nuevos proyectos y sus aportaciones siempre son valiosas. Ha sabido utilizar la ayuda extra que le fue brindada con el Ing. Barrera y ha hecho un buen trabajo con su entrenamiento.Cuando detecta un problema o una oportunidad de eficientizar sus procesos (ingesta, copiados etc) siempre sabe acercarse a la gente adecuada con propuestas inteligentes. ESTÁ PADRE SU FEDORA.",4,,0,1,"2013-01-24 20:38:10",NULL
+24951,5,20,22,4,,4,"Siempre es agradable trabajar con Esti y creo que por donde pasa sabe alegrar a todos con su optimismo y energía. Antes de solicitar ayuda siempre intenta buscar una solución. Trabaja mucho y siempre comunica sus necesidades al área de IT, aunque solo apenas está entendiendo y explotando el hecho de que que si ve una oportunidad de hacer algo de forma más eficiente puede pedir que lo implementemos en el sistema (aunque nuestra respuesta no siempre puede ser inmediata).",4,,0,1,"2013-01-24 20:47:25",NULL
+24952,5,42,32,4,,4,"Esta logrando trabajar bien, pero siento que puede dar mas.",4,,0,1,"2013-01-25 13:19:06",NULL
+24953,5,32,32,4,,4,"cumpli con lo prometido al momento de mi contratacion:1.- Bajar el costo de la luz (Liz)2.- Bajar el costo de Telefonos(Liz)3.- Equilibrio de compras 4.- Formar un equipo, produccion, administracion y ITFaltan alguna cosas por mejora.1.- Ser mas rapida en la entrega de mis reportes.",4,,0,1,"2013-01-25 13:19:27",NULL
+24954,5,12,32,4,,4,"Tiene el mando ante sus compañeros, lo respetan y confian El.Conoce el trabajo.",4,,0,1,"2013-01-25 13:19:37",NULL
+24955,5,25,32,4,,4,"Considero que es un gran lider, me gustaria que confiara un poco mas en el equipo que estamos formando.",4,,0,1,"2013-01-25 13:19:46",NULL
+24956,5,22,32,4,,4,"Sabe mucho y realiza su trabajo muy bien.El problema con el,  que parece lider sindical.",4,,0,1,"2013-01-25 13:20:27",NULL
+24957,5,4,32,4,,4,"Es una gran lider, tiene disposicion de ayuda, sabe resolver problemas con rapidez.Su temperamento lo esta contrololando muy bien.Ya asumio su puesto.Ya pone atencion y no se duerme en estados financieros.Gracias",4,,0,1,"2013-01-25 13:24:15",NULL
+24958,5,20,32,4,,4,"Les sigue faltando organizacion, pero en estos ultimos meses mejoro mucho.",4,,0,1,"2013-01-25 13:24:19",NULL
+24959,5,13,32,4,,4,"Le falta aprender a confiar en su equipo de trabajo",3,,0,1,"2013-01-25 13:24:21",NULL
+24960,5,5,32,4,,4,"Me gustaria que aprenda a mejorar su forma de comunicarce con sus  compañeros",1,,0,1,"2013-01-25 13:24:23",NULL
+24961,5,8,32,3,,2,,3,,0,1,"2013-01-25 13:24:25",NULL
+24962,5,43,32,4,,4,"Se intregra mu rapidamente",4,,0,1,"2013-01-25 13:24:27",NULL
+24963,5,37,32,3,,3,,4,,0,1,"2013-01-25 13:24:28",NULL
+24964,5,19,32,4,,4,,4,,0,1,"2013-01-25 13:24:30",NULL
+24965,5,32,20,4,,4,"Siempre está dispuesta a apoyar al equipo en lo necesarioES muy agradable trabajar con ella y tenerla dentro del equipo",4,,0,1,"2013-01-25 13:27:03",NULL
+24966,5,12,20,4,,4,"Es un gran líder y compañero. Resuelve y propone en cada proyecto, siempre ve por el equipo.Sabe cual es su rol como supervisor y apoya en lo que se necesite.",4,,0,1,"2013-01-25 13:28:23",NULL
+24967,5,25,20,4,,4,"Ha mejorado mucho en la comunicación. Siempre está dispuesto a explicar dudas y apoyar al equipo en todo lo técnico y creativo.",3,,0,1,"2013-01-25 13:30:21",NULL
+24968,5,22,20,4,,4,"Es muy propositivo y buen compañero de equipo.Apoya en todo lo que se le pide y soluciona en la medida que sus herramientas y capacidades se lo permitan.",4,,0,1,"2013-01-25 13:31:35",NULL
+24969,5,4,20,4,,4,"Apoya en todo momento al equipo y ve tanto por los integrantes como por los proyectos.Ha mejorado mucho en sus métodos de comunicación y actitud",4,,0,1,"2013-01-25 13:32:34",NULL
+24970,5,19,20,4,,3,"Es muy tranquilo y buen compañero de trabajo.",4,,0,1,"2013-01-25 13:33:20",NULL
+24971,5,20,20,4,,4,"Sigue en aprendizaje continuo y mejorando profesionalmente",4,,0,1,"2013-01-25 13:34:02",NULL
+24972,5,23,20,4,,4,"Está totalmente comprometido con su trabajo.Dispuesto a solucionar y apoyar en todo lo que se le solicita",4,,0,1,"2013-01-25 13:35:12",NULL
+24973,5,13,20,4,,4,"Es una gran lider, apoya siempre al equipo y soluciona problemas.Aun le falta trabajar en la comunicación en equipo",4,,0,1,"2013-01-25 13:35:55",NULL
+24974,5,5,20,4,,4,"Es bueno en su área. A pesar de que siempre tiene un comentario respecto a lo que se le pide, hace lo que se requiere para organizar a su equipo y entregar todo correctamente.",3,,0,1,"2013-01-25 13:38:56",NULL
+24975,5,8,20,4,,4,,4,,0,1,"2013-01-25 13:39:12",NULL
+24976,5,7,20,4,,4,"Siempre soluciona y apoya en lo que se le solicita o necesita el equipo",4,,0,1,"2013-01-25 13:39:55",NULL
+24977,5,26,20,4,,4,"She is always hepful and willing to solve any doubt or question production may have.It is a pleasure to have her as part of our team.",4,,0,1,"2013-01-25 13:42:09",NULL
+24978,5,32,25,3,,2,"Claudia se ha integrado muy bien al equipo, y ha tomado poco a poco mas responsabilidades, objetivo que teniamos desde su contratacion. Creo algunas veces se llena de trabajo y no entrega a tiempo algunas cosas, pero es cuestion de que se vaya puliendo sus objetivos y tareas diarias.",4,,0,1,"2013-01-29 19:05:47",NULL
+24979,5,12,25,2,,4,"Charlie va muy bien, su posicion nueva la ha tomado de una manera excelente, y por lo que se, y lo veremos en las evaluaciones, su equipo esta muy contento trabajando con el. El tema tecnico va muy bien, y cubre lo necesario, asi como temas visuales cubre lo necesario, pero tendria que lograr ser un poco mas autocritico con su trabajo y el de los demas. Hasta la fecha no hemos tenido problemas de entregas... Felicidadeeees y gracias!",4,,0,1,"2013-01-29 19:07:47",NULL
+24980,5,25,25,3,,2,,3,,0,1,"2013-01-29 19:08:06",NULL
+24981,5,22,25,4,,4,"Daniel como siempre va muy bien, y aunque yo tengo una relacion increible con el, se que ha tenido fricciones inecesarias con miembros del equipo... temas que no necesariamente tienen que ver ni con su puesto ni con el area en la que trabaja. Estos temas luego entorpecen (por lo que entiendo) el trabajo del resto del equipo. En cuanto a su profesionalismo, calidad humana y perfil tecnico, es como siempre ejemplar",2,,0,1,"2013-01-29 19:09:44",NULL
+24982,5,4,25,4,,4,"Liz ha cumplido anio con anio con los retos que se le asignan, y ha creado un equipo de trabajo excelente. Poco a poco ha tomado el tema de plantear soluciones mas que problemas y encontrar soluciones que sean inteligentes y aplicables a nuestros recursos.",4,,0,1,"2013-01-29 19:12:45",NULL
+24983,5,19,25,4,,4,"Me gusta mucho trabajar con Kike, no solo es talentoso, sabe la parte tecnica y ayuda al resto del equipo a trabajar. Esta increibl que este apoyando el crecimiento de Asia y se que el equipo siempre trabaja agusto con el.Gracias Kike!",4,,0,1,"2013-01-29 19:13:49",NULL
+24984,5,20,25,3,,3,"Me encanta trabajar con Esti! Aunque se que luego se le sale de las manos la carga de trabajo, le hecha muchas ganas. Se que Kim no se siente del todo apoyada, y no por falta de ganas, sino igual es el perfil... y es algo que habra que arreglar. Trabajar con Esti es muy ameno y siempre tiene la mejor dispocision, y tecnicamente ha aprendido muchisisimo los ultimos meses!",4,,0,1,"2013-01-29 19:15:11",NULL
+24985,5,13,25,4,,4,"Kim es increible en muchos niveles. No solamente sabe balancear la personalidad, seriedad y amistad en un ambiente de trabajo, sino se ha convertido en alguien muy profesional, de mente fria y con el objetivo de solucionar problemas. Me preocupa muchisimo que aunque su puesto lo requiere, le cuesta trabajo delegar y trabajar en equipo, comunicar sus necesidades, pedir ayuda y saber como diluir su carga de trabajo. Aun asi, es un punto que es muy bueno para desarrollar en los siguientes meses.",2,,0,1,"2013-01-29 19:17:23",NULL
+24986,5,5,25,3,,4,"Lluis va muy bien, y creo las areas de mejora en los siguientes meses son claras para mi. Estoy muy contento de su profesionalismo, actitud a los poyectos y como atacarlos, pero me preocupa mucho el trabajo en equipo, a veces escucho un poco de quejas sobre la manera en la que solicita o aveces interpreta sus necesidades. Creo, como lo he pedido al resto del equipo, mas que apuntar a un problema de operacion o flujo de trabajo, es apuntar al problema con propuestas de soluciones, ese es el eje principal donde un puesto supervisor ayuda mucho a no solo identificar coyunturas, sino resolverlas en conjunto con el equipo. Tecnicamente como siempre habra mas que crecer, pero estamos en un punto muy bueno y aun con capacidad para mejorar.",1,,0,1,"2013-01-29 19:21:13",NULL
+24987,5,8,25,4,,4,,4,,0,1,"2013-01-29 19:21:52",NULL
+24988,5,26,25,4,,4,,4,,0,1,"2013-01-29 19:22:07",NULL
+24989,5,28,25,2,,2,"Asia poco a poco va muy bien. Definitivamente le ayudo que Kike la apoyara, tanto como guia de entregas como para mejorar su lado tecnico. Poco a poco creo sera un artista muy solido!",3,,0,1,"2013-01-29 19:22:58",NULL
+24990,5,6,5,4,,4,,4,,0,1,"2013-01-25 19:14:42",NULL
+24991,5,34,5,2,,2,,2,,0,1,"2013-01-25 19:14:56",NULL
+24992,5,27,5,4,,4,,4,,0,1,"2013-01-25 19:15:00",NULL
+24993,5,32,5,4,,4,,4,,0,1,"2013-01-25 19:15:06",NULL
+24994,5,12,5,4,,4,,4,,0,1,"2013-01-25 19:15:10",NULL
+24995,5,25,5,4,,4,,4,,0,1,"2013-01-25 19:15:15",NULL
+24996,5,22,5,4,,3,,3,,0,1,"2013-01-25 19:15:31",NULL
+24997,5,4,5,3,,2,,2,,0,1,"2013-01-25 19:16:11",NULL
+24998,5,19,5,4,,3,,2,,0,1,"2013-01-25 19:16:27",NULL
+24999,5,20,5,2,,2,,2,,0,1,"2013-01-25 19:17:21",NULL
+25000,5,23,5,4,,4,,4,,0,1,"2013-01-25 19:17:28",NULL
+25001,5,13,5,4,,4,,4,,0,1,"2013-01-25 19:17:32",NULL
+25002,5,5,5,3,,3,,4,,0,1,"2013-01-25 19:17:52",NULL
+25003,5,8,5,4,,4,,4,,0,1,"2013-01-25 19:17:58",NULL
+25004,5,7,5,4,,4,,4,,0,1,"2013-01-25 19:18:02",NULL
+25005,5,52,5,3,,3,,3,,0,1,"2013-01-25 19:18:09",NULL
+25006,5,28,5,3,,3,,3,,0,1,"2013-01-25 19:18:15",NULL
+25007,5,6,6,-1,,-1,,-1,,0,1,"2013-08-05 18:33:57",NULL
+25008,5,34,6,-1,,-1,"Con un cuaderno de notas se evitaria muchas vueltas.",-1,,0,1,"2013-08-05 18:34:03",NULL
+25009,5,27,6,4,,4,,4,,0,1,"2013-01-24 19:13:15",NULL
+25010,5,23,6,4,,4,,4,,0,1,"2013-01-24 19:13:28",NULL
+25011,5,5,6,4,,4,,4,,0,0,"2013-01-24 19:14:12",NULL
+25012,5,7,6,4,,4,,4,,0,1,"2013-01-24 19:15:04",NULL
+25013,5,30,10,3,,3,,4,,0,1,"2013-01-25 13:07:17",NULL
+25014,5,12,10,4,,4,,4,,0,1,"2013-01-25 13:07:23",NULL
+25015,5,36,10,4,,4,,4,,0,1,"2013-01-25 13:07:27",NULL
+25016,5,18,10,4,,4,,4,,0,1,"2013-01-25 13:07:30",NULL
+25017,5,29,10,3,,3,,3,,0,1,"2013-01-25 13:07:38",NULL
+25018,5,31,10,4,,4,,4,,0,1,"2013-01-25 13:07:41",NULL
+25019,5,40,10,4,,4,,4,,0,1,"2013-01-25 13:07:44",NULL
+25020,5,39,10,4,,4,,4,,0,1,"2013-01-25 13:07:48",NULL
+25021,5,41,10,4,,4,,4,,0,1,"2013-01-25 13:07:51",NULL
+25022,5,23,10,4,,4,,4,,0,1,"2013-01-25 13:07:58",NULL
+25023,5,14,10,4,,4,,4,,0,1,"2013-01-25 13:08:00",NULL
+25024,5,33,10,3,,3,,4,,0,1,"2013-01-25 13:08:07",NULL
+25025,5,8,10,4,,4,,4,,0,1,"2013-01-25 13:08:10",NULL
+25026,5,7,10,4,,4,,4,,0,1,"2013-01-25 13:08:13",NULL
+25027,5,10,10,3,,4,,4,,0,1,"2013-01-25 13:08:36",NULL
+25028,5,44,10,4,,3,,4,,0,1,"2013-01-25 13:08:41",NULL
+25029,5,38,10,3,,3,,3,,0,1,"2013-01-25 13:08:46",NULL
+25030,5,30,14,2,,3,,4,,0,1,"2013-01-24 18:06:00",NULL
+25031,5,12,14,4,,4,,4,,0,1,"2013-01-24 18:06:06",NULL
+25032,5,36,14,2,,3,,4,,0,1,"2013-01-24 18:06:27",NULL
+25033,5,18,14,4,,4,,4,,0,1,"2013-01-24 18:06:30",NULL
+25034,5,29,14,2,,2,,2,,0,1,"2013-01-24 18:06:48",NULL
+25035,5,31,14,3,,3,,4,,0,1,"2013-01-24 18:07:15",NULL
+25036,5,40,14,2,,3,,3,,0,1,"2013-01-24 18:07:29",NULL
+25037,5,39,14,3,,3,,4,,0,1,"2013-01-24 18:08:02",NULL
+25038,5,41,14,2,,3,,3,,0,1,"2013-01-24 18:08:21",NULL
+25039,5,23,14,4,,4,,4,,0,1,"2013-01-24 18:08:27",NULL
+25040,5,35,14,3,,4,,4,,0,1,"2013-01-24 18:08:39",NULL
+25041,5,14,14,4,,4,,4,,0,1,"2013-01-24 18:08:43",NULL
+25042,5,33,14,2,,2,,3,,0,1,"2013-01-24 18:08:52",NULL
+25043,5,8,14,4,,3,,4,,0,1,"2013-01-24 18:09:06",NULL
+25044,5,7,14,4,,4,,4,,0,1,"2013-01-24 18:09:14",NULL
+25045,5,10,14,3,,3,,4,,0,1,"2013-01-24 18:09:43",NULL
+25046,5,44,14,4,,2,,4,,0,1,"2013-01-24 18:10:01",NULL
+25047,5,38,14,2,,2,,4,,0,1,"2013-01-24 18:10:17",NULL
+25048,5,12,18,3,,3,"Se le ve muy responsable ahora como supervisor, esta al tanto de todos, y ayuda cuantas veces se lo pidas. Su ojo se a desarrollado un poco mejor a los detalles, y a sabido llevar su puesto muy bien",4,,0,1,"2013-01-25 18:03:35",NULL
+25049,5,36,18,3,,3,"Demuestra lo que sabes a travez de su trabajo, a respondido muy bien, y siempre que tiene una duda o se atora en algun problema lo dice, responde muy bien a las criticas y sabe escuchar y tomar la ayuda necesaria.",3,,0,1,"2013-01-25 18:03:36",NULL
+25050,5,18,18,3,,3,"Es agradable trabajar con el, le gusta ayudar, escuchar criticas y opiniones, y sabe responder bajo presion.",4,,0,1,"2013-01-25 18:03:38",NULL
+25051,5,19,18,3,,3,,3,,0,1,"2013-01-25 18:03:39",NULL
+25052,5,53,18,-1,,-1,"no tengo comentarios ni evaluacion para fermin, acaba de entrar a trabajar y no me ha tocado trabajar con el de forma directa.
+
+No tengo bases para evaluarlo",-1,,0,1,"2013-01-25 18:10:39",NULL
+25053,5,29,18,2,,3,"A sido bueno su crecimiento, y se compromete a terminar las cosas y ha sabido manejar a sus compañeros de roto para que aprendan el proceso.",4,,0,1,"2013-01-25 19:39:25",NULL
+25054,5,31,18,3,,3,"siempre dispuesrto a ayudar y preguntar cualquier duda que tiene. hace buen trabajo y aprende rapido",4,,0,1,"2013-01-25 19:40:02",NULL
+25055,5,40,18,3,,3,"Trabaja muy bien, y cualquier duda que tiene deja que le ayudes y opines",4,,0,1,"2013-01-25 19:40:03",NULL
+25056,5,39,18,3,,3,,4,,0,1,"2013-01-25 19:40:06",NULL
+25057,5,41,18,3,,3,,4,,0,1,"2013-01-25 19:40:16",NULL
+25058,5,23,18,3,,3,"siempre esta dispuesto a ayudar, y a arreglar cualquier cosa que se rompa o cuando no reaccionan los programas",4,,0,1,"2013-01-25 19:40:55",NULL
+25059,5,14,18,3,,3,"Su progreso a sido muy bueno, lo he visto ir subiendo su calidad desde ya hace tiempo y va por muy buen camino, su atencion a los detalles ha ido creciendo y se compromete con todo lo que le dan.",4,,0,1,"2013-01-25 19:41:59",NULL
+25060,5,33,18,2,,3,"su nivel a ido creciendo poco a poco, le falta todavia meterse mas en los shots para encontrar el detalle que le falta, pero va por buen camino",4,,0,1,"2013-01-25 19:43:11",NULL
+25061,5,8,18,3,,3,"siempre dispuesta ayudar, y a aportar su opinion para que el shot mejore.",4,,0,1,"2013-01-25 19:43:52",NULL
+25062,5,7,18,3,,3,"siempre esta disponible cuando se necesita, y de buena manera aydua cuando se le ocupa",4,,0,1,"2013-01-25 19:44:13",NULL
+25063,5,10,18,3,,3,"su crecimiento ha sido muy bueno, se ve como a mejorado en los detalles y tecnicas que utiliza",4,,0,1,"2013-01-25 19:44:54",NULL
+25064,5,44,18,3,,3,,4,,0,1,"2013-01-25 19:45:32",NULL
+25065,5,38,18,2,,3,,4,,0,1,"2013-01-25 19:45:45",NULL
+25066,5,6,27,4,,4,,4,,0,1,"2013-01-24 19:06:40",NULL
+25067,5,34,27,3,,3,,3,,0,1,"2013-01-24 19:06:58",NULL
+25068,5,27,27,4,,4,"Es una persona muy agradable!",4,,0,1,"2013-01-24 19:07:51",NULL
+25069,5,23,27,4,,4,,4,,0,1,"2013-01-24 19:08:15",NULL
+25070,5,5,27,4,,4,,4,,0,1,"2013-01-24 19:08:20",NULL
+25071,5,7,27,4,,4,,4,,0,1,"2013-01-24 19:17:19",NULL
+25072,5,30,29,4,,3,"El muchachon dia con dia va tomando mayor responsabilidad de sus actividades, cossa que es de mucha ayuda en el equipo, espero siga asi es sus futuras actividades.",3,,0,1,"2013-01-25 12:39:18",NULL
+25073,5,48,29,4,,4,"Integrante con buena actitud de trabajo y compañerismo, emprendedor y con ganas de realizar las actividades que se le encomiendan de la mejor forma posible.",3,,0,1,"2013-01-25 12:42:33",NULL
+25074,5,12,29,4,,4,"Es buen compañero de  trabajo. Me a brindado la oportunidad de poder adquirir dia con dia nuevos conocimientos en lo q respecta a los diversos procesos q realizamos aqui en el estudio, asi como en el aspecto personal.",4,,0,1,"2013-01-25 12:46:30",NULL
+25075,5,49,29,3,,3,"Es una persona que tiene el interes por hacer las cosas. Quien  ha demostrado que tiene el interes y cuidado en su realización.",4,,0,1,"2013-01-25 12:56:51",NULL
+25076,5,29,29,4,,3,"me gustaria poder ayudar a dejar una area integrada y responsable.",3,,0,1,"2013-01-25 13:04:00",NULL
+25077,5,8,29,4,,4,"me gusta pertenecer al equipo  q han conformado en este lugar.",4,,0,1,"2013-01-25 13:06:02",NULL
+25078,5,7,29,4,,4,"no le ha puesto sonido a mi compu, en lo demas muy bien por el muchacho.",4,,0,1,"2013-01-25 13:07:24",NULL
+25079,5,51,29,3,,4,"se ha visto dedicacion en su trabajo, lo cual me a permitido poderhacer en mi trabajo personal. muy bien por el muchacho.",4,,0,1,"2013-01-25 13:08:41",NULL
+25080,5,47,29,3,,3,"Persona q sabe integrarse a un equipo de trabajo, asi como trabajar en el. Un poco lento y derspistado a un inicio, pero conforme va pasando el tiempo noto que va agarrando  ritmo.",4,,0,1,"2013-01-25 13:11:15",NULL
+25081,5,23,29,4,,4,"Compañero responsable, quien me a brindado la ayuda en todo momento que lo requeri.",4,,0,1,"2013-01-25 13:13:33",NULL
+25082,5,30,30,4,,4,,4,,0,1,"2013-01-24 13:06:15",NULL
+25083,5,48,30,3,,4,"Muy bien, ha mostrado empeño en la realización del trabajo, es comprometido",4,,0,1,"2013-01-24 13:07:06",NULL
+25084,5,12,30,4,,4,"Muy bien ha cumplido con su trabajo, ha demostrado liderazgo cuando se requiere, y ha sabido sacar el trabajo adelante.",4,,0,1,"2013-01-24 13:08:13",NULL
+25085,5,49,30,3,,2,"Un poco lento en la elaboración de su trabajo, pone empeño en la realización del mismo, se comprometre a cumplir",4,,0,1,"2013-01-24 13:12:15",NULL
+25086,5,29,30,4,,4,"Se compromete en concluir a tiempo el trabajo, le falta un poco de tacto para solicitar las cosas. Sabe pedir opinion y ayuda cuando se necesita",4,,0,1,"2013-01-24 13:17:03",NULL
+25087,5,23,30,4,,4,"Muy bien, cuando se le solicita ayuda siempre esta dispuesto a apoyar.
+
+Realiza a tiempo su trabajo",4,,0,1,"2013-01-24 13:20:31",NULL
+25088,5,8,30,4,,4,"Muy bien, saber tratar ql equipo, escucha a las personas cuando hay algun problema",4,,0,1,"2013-01-24 13:24:39",NULL
+25089,5,51,30,3,,3,"Muye bien, poco a poco se ha ido adaptanco y a logrado desempeñarse en su trabajo, cumpliendo cada vez mejor",4,,0,1,"2013-01-24 13:26:05",NULL
+25090,5,47,30,3,,3,"Bien, Cumpel con su trabajo cuando se le pide, ha logrado aumentar la calidad de su trabajo con el tiempo.",4,,0,1,"2013-01-24 13:27:55",NULL
+25091,5,7,30,4,,4,"Muy bien, cuando hay algun problema busca como resolverlo de la manera más rapido para no detener el trabajo. Muestra compañerismo.",4,,0,1,"2013-01-24 13:29:09",NULL
+25092,5,12,31,4,,4,,4,,0,1,"2013-01-24 19:18:44",NULL
+25093,5,36,31,4,,4,,4,,0,1,"2013-01-24 19:19:28",NULL
+25094,5,18,31,4,,4,,4,,0,1,"2013-01-24 19:19:48",NULL
+25095,5,29,31,4,,4,,4,,0,1,"2013-01-24 19:20:41",NULL
+25096,5,31,31,4,,4,,4,,0,1,"2013-01-24 19:21:07",NULL
+25097,5,40,31,3,,4,,4,,0,1,"2013-01-24 19:21:51",NULL
+25098,5,39,31,4,,4,,4,,0,1,"2013-01-24 19:22:38",NULL
+25099,5,41,31,4,,4,,4,,0,1,"2013-01-24 19:22:45",NULL
+25100,5,23,31,4,,4,,4,,0,1,"2013-01-24 19:23:24",NULL
+25101,5,14,31,4,,4,,4,,0,1,"2013-01-24 19:23:31",NULL
+25102,5,33,31,4,,4,,4,,0,1,"2013-01-24 19:23:52",NULL
+25103,5,8,31,4,,4,,4,,0,1,"2013-01-24 19:23:57",NULL
+25104,5,10,31,4,,4,,4,,0,1,"2013-01-24 19:24:02",NULL
+25105,5,44,31,4,,4,,4,,0,1,"2013-01-24 19:24:30",NULL
+25106,5,38,31,4,,4,,3,,0,1,"2013-01-24 19:25:21",NULL
+25107,5,7,31,4,,4,,4,,0,1,"2013-01-24 19:25:29",NULL
+25108,5,12,33,4,,4,"Carlos es claramente un punto de referencia para todos nosotros, creo que se ha adaptado muy rapidamente a la cantidad de responsabilidades que se le han asignado y con el tiempo nos ha conocido mejor como artistas de manera que sabe nuestros puntos fuertes tanto como nuestras debilidades como compositores, y aun asi muestra un interes honesto por que mejoremos en nuestro trabajo.",4,,0,1,"2013-01-24 18:45:54",NULL
+25109,5,36,33,4,,4,"Creo que el problema mas serio de Delta es que es demasiado responsable a su trabajo, es implica las quedadas tarde y su autocarga de estres, sin embargo es una persona con mucha experiencia que tiene la facilidad a su manera de avanzar en sus shots y por mas simples que sean siempre les dedica ese extra en el detalle, lo cual siempre hace la diferencia.",4,,0,1,"2013-01-24 18:48:04",NULL
+25110,5,18,33,4,,4,"El pagarillo es tambien todo un caso, es mucho mas flexible que guillen pero no deja de ser tecnico en su composicion, tambien es un punto de apoyo y referencia en shots complicados ya que muchos incluyendome nos acercamos a preguntarle por consejo.",4,,0,1,"2013-01-24 18:50:20",NULL
+25111,5,29,33,3,,4,"Memo se ha vuelto la mano derecha de guillen en roto, guillen le ha dado un grado de responsabilidad que se ha tomado muy en serio y creo que por mas relajiento que pueda ser si se toma muy en serio esas oportunidades.",4,,0,1,"2013-01-24 18:51:56",NULL
+25112,5,31,33,4,,4,"Hector es uno de los mas tecnicos en composicion pero en algunas ocaciones su velocidad lo compromete, sin embargo es capaz de solucionar o sacar ideas que afectan a todo mundo globalmente en cuestion de ayudar a la gente que pueda tener un shot parecido al que el esta trabajando.",4,,0,1,"2013-01-24 19:06:50",NULL
+25113,5,40,33,3,,4,"Ivonne es la segunda al mando en quedarse a terminar o avanzar lo que tenga que hacer despues de Delta, su desarrollo tecnico tal vez no sea el mas optimo pero como todos nosotros esta en constante desarrollo como artista y se torna un caracter efectivo en entregas y en su trabajo.",4,,0,1,"2013-01-24 19:11:35",NULL
+25114,5,39,33,4,,4,"Creo que Luis ha demostrado tu cualidad de adaptacion rapidamente, su desarrollo tecnico y curva de aprendizaje son muy agresivas en el sentido de estructura de su trabajo, siempre encuentra una mejor forma de hacer las cosas y lo comparte con todo mundo.",4,,0,1,"2013-01-24 19:40:10",NULL
+25115,5,41,33,4,,4,"Yo siento que la cualidad mas fuerte de Nacho es que el hace todo lo posible por ser eficiente, en cada chance que tengo de verlo trabajar se mueve de una manera muy impresionante sobre el nuke, y tiene muy buen desarrollo tecnico, como del estilo de guillen, busca la solucion efectiva y rapida.",4,,0,1,"2013-01-24 19:54:34",NULL
+25116,5,14,33,4,,4,"El pollo es Honesto y Trabajador, muy aplicado en su comp, muy tecnico y comprensivo, siempre con la mejor actitud y en plan de ayudar a sacar la chamba.",4,,0,1,"2013-01-24 20:07:38",NULL
+25117,5,33,33,2,,3,"Creo que lo que mas he buscado en este tiempo que llevo aqui es lograr desarrollar la velocidad y el ojo que se necesita, siento que he logrado un buen progreso de mis primeras 3 semanas a como estoy en estos momentos, me siento mas comodo con muchas cosas que no sabia hacer antes y que hoy se sientesn mas naturales de trabajar, se que aun me falta depurar muchas cosas en mis procedimientos y mi logica de composicion, pero estoy seguro que es cuestion de tiempo, se que tengo la gente correcta a mi alrededor.",3,,0,1,"2013-01-24 20:11:20",NULL
+25118,5,8,33,4,,4,"Natalia es por mucho mas tecnica y con mejor ojo que guillen, pero tiende a ser desgastante en sus revisiones, siento que uno busca la forma de responderle y cubrir las correcciones que ella señala pero en algunos casos se torna extenuante y desgasta al artista, tanto al punto de que a la gente no le guste mandarle a revision porque se torna estresante, pero asi es ella y no deja de ser una de las mejores, creo que es la mas rapida y mas agresiva en su tecnica de comp que ya esta depuradisima por su grado de experiencia.
+
+miss u nats :(",4,,0,1,"2013-01-24 20:14:52",NULL
+25119,5,7,33,4,,4,"Oliver ha sido muy responsivo en muchos aspectos, siempre trae un As bajo la manga para resolver problemas de los aartistas o a un nivel mas global, creo que no esta en duda su conocimiento y procedimiento profesional.
+
+Pero porfa diganle que ponga mi nombre bien en el sistema, soy De Hoyos no Miguel Hoyos :(",4,,0,1,"2013-01-24 20:17:47",NULL
+25120,5,10,33,3,,4,"Omar siempre encuentra una forma de lograr hacer todo lo que se le asigna sin bañarse de estres como todos los demas, siempre lo veo muy tranquilo y anda correteando a todos en la granja y con los scripts para ya sacar lo suyo.",4,,0,1,"2013-01-24 20:19:19",NULL
+25121,5,44,33,4,,2,"Paco es un muy buen artista pero su actitud bajo muchas situaciones no es la mejor, tengo perfectamente claro que el tiene toda la capacidad de sacar cualquier shot que se le asigne pero tambien es muy dado a dejar cosas colgadas, sin terminar y aunque se hace responsable vuelve a suceder.",2,,0,1,"2013-01-24 20:22:09",NULL
+25122,5,38,33,3,,3,"El ro sabe hacer su chamba pero es muy dado a tener algun detalle que evita su entrega, creo que a todos nos pasa, es cuestion de aprender el error y no repetirlo.",3,,0,1,"2013-01-24 20:24:07",NULL
+25123,5,23,33,4,,4,"Juan siempre me saca de la bronca, la que sea, la mejor actitud, servicial, y se sabe su trabajo como mago.",4,,0,1,"2013-01-24 20:25:12",NULL
+25124,5,6,34,3,,4,,4,,0,1,"2013-01-23 21:50:10",NULL
+25126,5,34,34,2,,3,"Falta mejorar en disciplina y distraerse menos.",4,,0,1,"2013-01-23 21:59:31",NULL
+25127,5,27,34,4,,4,,4,,0,1,"2013-01-23 21:59:41",NULL
+25128,5,23,34,3,,4,,4,,0,1,"2013-01-23 22:00:01",NULL
+25129,5,5,34,4,,4,,4,,0,1,"2013-01-23 22:00:18",NULL
+25130,5,7,34,4,,4,,4,,0,1,"2013-01-23 22:00:35",NULL
+25131,5,12,36,4,,4,,4,,0,1,"2013-01-24 18:39:52",NULL
+25132,5,36,36,3,,3,,4,,0,1,"2013-01-24 18:41:12",NULL
+25133,5,18,36,4,,4,,4,,0,1,"2013-01-24 18:41:19",NULL
+25134,5,29,36,4,,4,,4,,0,1,"2013-01-24 18:41:29",NULL
+25135,5,31,36,4,,4,,4,,0,1,"2013-01-24 18:41:34",NULL
+25136,5,40,36,4,,4,,4,,0,1,"2013-01-24 18:41:41",NULL
+25137,5,39,36,4,,4,,4,,0,1,"2013-01-24 18:41:48",NULL
+25138,5,41,36,4,,4,,4,,0,1,"2013-01-24 18:41:53",NULL
+25139,5,23,36,4,,4,,4,,0,1,"2013-01-24 18:42:05",NULL
+25140,5,14,36,4,,4,,4,,0,1,"2013-01-24 18:42:11",NULL
+25141,5,33,36,4,,4,,4,,0,1,"2013-01-24 18:42:33",NULL
+25142,5,8,36,4,,4,,4,,0,1,"2013-01-24 18:42:38",NULL
+25143,5,10,36,4,,4,,4,,0,1,"2013-01-24 18:42:46",NULL
+25144,5,44,36,4,,4,,4,,0,1,"2013-01-24 18:42:50",NULL
+25145,5,38,36,4,,4,,4,,0,1,"2013-01-24 18:42:58",NULL
+25146,5,7,36,4,,4,,4,,0,1,"2013-01-24 18:43:02",NULL
+25147,5,12,38,4,,4,,4,,0,1,"2013-01-26 04:21:08",NULL
+25148,5,36,38,2,,3,,2,,0,1,"2013-01-26 04:21:29",NULL
+25149,5,18,38,4,,4,,4,,0,1,"2013-01-26 04:21:44",NULL
+25150,5,29,38,4,,4,,4,,0,1,"2013-01-26 04:22:03",NULL
+25151,5,31,38,3,,3,,2,,0,1,"2013-01-26 04:22:13",NULL
+25152,5,40,38,3,,3,,3,,0,1,"2013-01-26 04:22:19",NULL
+25153,5,39,38,3,,3,,3,,0,1,"2013-01-26 04:23:00",NULL
+25154,5,41,38,4,,3,,4,,0,1,"2013-01-26 04:23:13",NULL
+25155,5,23,38,4,,4,,4,,0,1,"2013-01-26 04:23:18",NULL
+25156,5,14,38,4,,4,,4,,0,1,"2013-01-26 04:24:03",NULL
+25157,5,33,38,3,,2,,3,,0,1,"2013-01-26 04:24:18",NULL
+25158,5,8,38,4,,4,,4,,0,1,"2013-01-26 04:24:24",NULL
+25159,5,10,38,4,,4,,4,,0,1,"2013-01-26 04:24:50",NULL
+25160,5,44,38,4,,3,,4,,0,1,"2013-01-26 04:25:04",NULL
+25161,5,38,38,4,,4,,4,,0,1,"2013-01-26 04:25:09",NULL
+25162,5,7,38,4,,4,,4,,0,1,"2013-01-26 04:25:20",NULL
+25163,5,12,39,4,,4,"-Sabe dirigir a su equipo y orientarlo. Simpre esta dispuesto a proporcionar ayuda y aceptar comentarios de igual manera.",4,,0,1,"2013-01-24 18:41:26",NULL
+25164,5,36,39,4,,4,"-Se compormete a 100% al trabajo",4,,0,1,"2013-01-24 18:47:36",NULL
+25165,5,18,39,4,,4,,4,,0,1,"2013-01-24 18:59:37",NULL
+25166,5,29,39,4,,4,"-Entrega el trabajo a tiempo y como uno requiere.",4,,0,1,"2013-01-24 19:03:31",NULL
+25167,5,31,39,4,,3,"-En sí sabe trabajar en equipo aunque a veces le falta un poco de comunicacion con los demas. Fuera de eso sabe hacer su trabajo.",3,,0,1,"2013-01-24 19:06:55",NULL
+25168,5,40,39,4,,4,"-Siempre esta en cominicación y es activa, se concentra siempre en lo que esta haciendo.",4,,0,1,"2013-01-24 19:08:26",NULL
+25169,5,39,39,4,,4,,4,,0,1,"2013-01-24 19:17:36",NULL
+25170,5,41,39,4,,4,"-Se comunica muy bien con la gente y proporciona ayuda a quien se lo pide asi como el sabe recibir ayuda y consejos.",4,,0,1,"2013-01-24 19:23:02",NULL
+25171,5,23,39,4,,4,"-Tiene super buena actitud y ayuda al momento, sabe hacer extraordinariamente su chamba.",4,,0,1,"2013-01-24 19:25:35",NULL
+25172,5,14,39,4,,4,"-se compromete con su trabajo y ofrece ayuda con una actitud muy chida.",4,,0,1,"2013-01-24 19:31:07",NULL
+25173,5,33,39,3,,4,,4,,0,1,"2013-01-24 19:36:45",NULL
+25174,5,8,39,4,,4,,4,,0,1,"2013-01-24 19:37:02",NULL
+25175,5,10,39,4,,4,"trabaja muy bien y rapido, coopera con los demas y ayuda a quien se lo solicita.",4,,0,1,"2013-01-24 19:42:37",NULL
+25176,5,44,39,4,,4,"-Es buen artista aunque estaria bueno que dejara su ego en su casa",4,,0,1,"2013-01-24 19:47:25",NULL
+25177,5,38,39,2,,2,,2,,0,1,"2013-01-24 19:48:54",NULL
+25178,5,7,39,4,,4,,4,,0,1,"2013-01-24 19:49:18",NULL
+25179,5,12,40,3,,4,,4,,0,1,"2013-01-24 19:44:23",NULL
+25180,5,36,40,3,,4,,4,,0,1,"2013-01-24 22:17:19",NULL
+25181,5,18,40,3,,4,,4,,0,1,"2013-01-24 22:17:43",NULL
+25182,5,29,40,3,,4,,4,,0,1,"2013-01-24 22:18:05",NULL
+25183,5,31,40,3,,4,,4,,0,1,"2013-01-24 22:18:19",NULL
+25184,5,40,40,3,,4,,4,,0,1,"2013-01-24 22:22:13",NULL
+25185,5,39,40,3,,4,,4,,0,1,"2013-01-24 22:22:28",NULL
+25186,5,41,40,3,,4,,4,,0,1,"2013-01-24 22:22:33",NULL
+25187,5,23,40,3,,4,,4,,0,1,"2013-01-24 22:22:40",NULL
+25188,5,14,40,3,,4,,4,,0,1,"2013-01-24 22:22:46",NULL
+25189,5,33,40,3,,4,,4,,0,1,"2013-01-24 22:22:50",NULL
+25190,5,8,40,4,,4,,4,,0,1,"2013-01-24 22:23:06",NULL
+25191,5,10,40,3,,4,,4,,0,1,"2013-01-24 22:23:49",NULL
+25192,5,44,40,3,,4,,4,,0,1,"2013-01-24 22:23:53",NULL
+25193,5,38,40,3,,4,,4,,0,1,"2013-01-24 22:23:54",NULL
+25194,5,7,40,3,,4,,4,,0,1,"2013-01-24 22:24:04",NULL
+25195,5,12,41,3,,4,,4,,0,1,"2013-01-24 18:14:57",NULL
+25196,5,36,41,2,,4,,3,,0,1,"2013-01-24 18:15:13",NULL
+25197,5,18,41,4,,4,,4,,0,1,"2013-01-24 18:15:26",NULL
+25198,5,29,41,3,,4,,3,,0,1,"2013-01-24 18:21:39",NULL
+25199,5,31,41,4,,4,,4,,0,1,"2013-01-24 18:21:40",NULL
+25200,5,40,41,3,,3,,4,,0,1,"2013-01-24 18:21:40",NULL
+25201,5,39,41,4,,4,,4,,0,1,"2013-01-24 18:21:40",NULL
+25202,5,41,41,3,,4,,3,,0,1,"2013-01-24 18:21:40",NULL
+25203,5,14,41,3,,4,,4,,0,1,"2013-01-24 18:21:41",NULL
+25204,5,33,41,3,,4,,4,,0,1,"2013-01-24 18:21:41",NULL
+25205,5,8,41,4,,4,,4,,0,1,"2013-01-24 18:21:42",NULL
+25206,5,7,41,4,,4,,4,,0,1,"2013-01-24 18:21:42",NULL
+25207,5,10,41,3,,4,,3,,0,1,"2013-01-24 18:21:43",NULL
+25208,5,44,41,4,,3,,3,,0,1,"2013-01-24 18:21:43",NULL
+25209,5,38,41,3,,2,,4,,0,1,"2013-01-24 18:21:44",NULL
+25210,5,23,41,4,,4,,4,,0,1,"2013-01-24 18:21:44",NULL
+25211,5,30,44,3,,3,,4,,0,1,"2013-01-25 18:03:06",NULL
+25212,5,12,44,4,,4,,4,,0,1,"2013-01-25 18:03:57",NULL
+25213,5,36,44,2,,3,,3,,0,1,"2013-01-25 18:04:31",NULL
+25214,5,18,44,4,,4,,4,,0,1,"2013-01-25 18:04:44",NULL
+25215,5,29,44,3,,3,,4,,0,1,"2013-01-25 18:05:01",NULL
+25216,5,31,44,3,,3,,4,,0,1,"2013-01-25 18:05:16",NULL
+25217,5,40,44,2,,3,,4,,0,1,"2013-01-25 18:05:35",NULL
+25218,5,39,44,3,,3,,3,,0,1,"2013-01-25 18:06:07",NULL
+25219,5,41,44,3,,3,,4,,0,1,"2013-01-25 18:06:12",NULL
+25220,5,23,44,4,,4,,4,,0,1,"2013-01-25 18:06:20",NULL
+25221,5,14,44,3,,3,,4,,0,1,"2013-01-25 18:06:27",NULL
+25222,5,33,44,2,,2,,3,,0,1,"2013-01-25 18:07:00",NULL
+25223,5,8,44,4,,4,,4,,0,1,"2013-01-25 18:07:09",NULL
+25224,5,10,44,3,,3,,4,,0,1,"2013-01-25 18:07:17",NULL
+25225,5,44,44,3,,3,,4,,0,1,"2013-01-25 18:07:46",NULL
+25226,5,38,44,2,,2,,3,,0,1,"2013-01-25 18:07:57",NULL
+25227,5,7,44,4,,4,,4,,0,1,"2013-01-25 18:08:03",NULL
+25228,5,12,50,4,,4,,4,,0,1,"2013-01-25 11:40:43",NULL
+25229,5,50,50,4,,4,,4,,0,1,"2013-01-25 11:41:23",NULL
+25230,5,28,28,3,,3,"Quiero comentar que me siento muy bien ya que Kike me ha estado enseñando mucho en los últimos días. Soy una persona poco expresiva por lo que hay veces que la gente no descifra cómo me siento.   Soy consciente de que no he cubierto las horas en algunas ocasiones. A partir de hablar con producción he intentado mantener una comunicación más abierta con mi supervisor.   Tengo confianza para recurrir y pedirle tiempo cuando me encuentro en situaciones especiales.   Me comprometo a cumplir mis horas.",3,,0,1,"2013-01-25 00:18:57",NULL
+25231,5,19,28,4,,4,,4,,0,1,"2013-01-25 00:19:09",NULL
+25232,5,8,28,4,,4,,4,,0,1,"2013-01-25 00:20:18",NULL
+27892,6,34,34,2,,3,"Recientemente tuve un retraso en el trabajo realmente injustificado, pero he hecho lo posible por corregir el error para evitar esos contratiempos.",4,,0,1,"2013-08-05 16:21:10",NULL
+27893,6,27,34,4,,4,,4,,0,1,"2013-08-05 16:21:13",NULL
+27894,6,23,34,-1,,-1,,-1,,0,1,"2013-08-05 16:21:16",NULL
+27895,6,54,34,3,,4,,4,,0,1,"2013-08-05 16:21:54",NULL
+27896,6,52,34,4,,4,,4,,0,1,"2013-08-05 16:22:06",NULL
+27897,6,7,34,-1,,-1,,-1,,0,1,"2013-08-05 16:22:09",NULL
+27898,6,6,36,-1,,-1,,-1,,0,1,"2013-08-05 16:38:48",NULL
+27899,6,48,36,4,,4,,4,,0,1,"2013-08-05 16:39:40",NULL
+27900,6,12,36,4,,4,,4,,0,1,"2013-08-05 16:39:49",NULL
+27901,6,36,36,3,,3,,3,,0,1,"2013-08-05 16:39:55",NULL
+27902,6,53,36,4,,4,,4,,0,1,"2013-08-05 16:39:57",NULL
+27903,6,49,36,-1,,-1,,-1,,0,1,"2013-08-05 16:40:02",NULL
+27904,6,29,36,4,,4,"Sólo me ha tocado trabajar de cerca con memo en área de roto, aún no mucho en comp, pero creo que tiene mucha disposición a ayudar",4,,0,1,"2013-08-05 16:51:13",NULL
+27905,6,31,36,4,,4,,4,,0,1,"2013-08-05 16:51:59",NULL
+27906,6,40,36,4,,4,,4,,0,1,"2013-08-05 16:52:00",NULL
+27907,6,39,36,4,,4,,4,,0,1,"2013-08-05 16:52:01",NULL
+27908,6,41,36,4,,4,,4,,0,1,"2013-08-05 16:52:02",NULL
+27909,6,14,36,4,,4,,4,,0,1,"2013-08-05 16:52:03",NULL
+27910,6,50,36,4,,4,,4,,0,1,"2013-08-05 16:52:04",NULL
+27911,6,8,36,4,,4,,4,,0,1,"2013-08-05 16:52:06",NULL
+27912,6,7,36,4,,4,,4,,0,1,"2013-08-05 16:52:17",NULL
+27913,6,10,36,4,,4,,4,,0,1,"2013-08-05 16:52:24",NULL
+27914,6,38,36,-1,,-1,,-1,,0,1,"2013-08-05 16:52:52",NULL
+27915,6,51,36,4,,4,,4,,0,1,"2013-08-05 16:53:03",NULL
+27916,6,60,36,-1,,-1,,-1,,0,1,"2013-08-05 16:53:08",NULL
+27917,6,23,36,4,,4,,4,,0,1,"2013-08-05 16:53:15",NULL
+28018,6,6,41,3,,4,,4,,0,1,"2013-08-05 16:23:51",NULL
+28019,6,48,41,2,,3,,3,,0,1,"2013-08-05 16:24:05",NULL
+28020,6,12,41,3,,4,,4,,0,1,"2013-08-05 16:24:07",NULL
+28021,6,36,41,3,,3,,3,,0,1,"2013-08-05 16:24:08",NULL
+28022,6,53,41,4,,3,,4,,0,1,"2013-08-05 16:24:12",NULL
+28023,6,49,41,-1,,-1,,-1,,0,1,"2013-08-05 16:24:19",NULL
+28024,6,29,41,2,,2,,2,,0,1,"2013-08-05 16:24:21",NULL
+28025,6,31,41,3,,4,,4,,0,1,"2013-08-05 16:24:45",NULL
+28026,6,40,41,3,,4,,4,,0,1,"2013-08-05 16:24:46",NULL
+28027,6,39,41,4,,4,,4,,0,1,"2013-08-05 16:24:47",NULL
+28028,6,41,41,3,,4,,4,,0,1,"2013-08-05 16:24:48",NULL
+28029,6,14,41,3,,3,,4,,0,1,"2013-08-05 16:24:49",NULL
+28030,6,50,41,2,,3,,4,,0,1,"2013-08-05 16:24:50",NULL
+28031,6,8,41,4,,4,,4,,0,1,"2013-08-05 16:24:52",NULL
+28032,6,7,41,3,,3,,2,,0,1,"2013-08-05 16:24:54",NULL
+28033,6,10,41,3,,4,,4,,0,1,"2013-08-05 16:25:01",NULL
+28034,6,38,41,2,,2,,4,,0,1,"2013-08-05 16:25:04",NULL
+28035,6,51,41,2,,4,,4,,0,1,"2013-08-05 16:25:06",NULL
+28036,6,60,41,2,,3,"Integrandose bien al equipo de trabajo, necesita desarrollar mas sus habilidades para desempeñar su area. Va bien",4,,0,1,"2013-08-05 16:25:07",NULL
+28037,6,23,41,4,,4,,4,,0,1,"2013-08-05 16:25:16",NULL
+28074,6,6,50,4,,4,,4,,0,1,"2013-08-06 15:45:30",NULL
+28075,6,48,50,3,,3,,3,,0,1,"2013-08-06 15:56:48",NULL
+28076,6,12,50,4,,4,,4,,0,1,"2013-08-06 15:46:43",NULL
+28077,6,36,50,4,,4,,4,,0,1,"2013-08-06 15:46:44",NULL
+28078,6,53,50,4,,4,,4,,0,1,"2013-08-06 15:46:45",NULL
+28079,6,49,50,3,,3,,3,,0,1,"2013-08-06 15:47:30",NULL
+28080,6,29,50,3,,3,,3,,0,1,"2013-08-06 15:47:31",NULL
+28081,6,31,50,4,,4,,4,,0,1,"2013-08-06 15:47:33",NULL
+28082,6,40,50,4,,4,,4,,0,1,"2013-08-06 15:47:34",NULL
+28083,6,39,50,4,,4,,4,,0,1,"2013-08-06 15:47:35",NULL
+28084,6,41,50,4,,4,,4,,0,1,"2013-08-06 15:47:36",NULL
+28085,6,14,50,4,,4,,4,,0,1,"2013-08-06 15:47:37",NULL

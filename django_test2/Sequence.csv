@@ -1,0 +1,1001 @@
+SequenceID,SequenceName,ProjectID,SequenceNickname
+219,,13,NULL
+220,"Lightning Sequence",13,lgt
+230,"Butterfly Sequence",17,bfs
+231,"Painwall Sequence",17,pws
+233,"Lightning Sequence",17,lgt
+234,"Chinesse Restaurant",13,chr
+236,"Sparks sequence",13,spk
+237,"San Francisco Sequence",13,sfo
+238,"White Light Sequence",17,wlg
+241,"Sparks Sequence",17,spk
+242,"Town in Distance Sequence",17,tds
+243,,17,NULL
+244,,18,NULL
+245,"Helicopter Sequence",18,hcp
+246,"Black Smoke Sequence",18,bks
+247,"Woods Fire",17,wfr
+249,"Irak Sequence",13,irk
+254,"Window Sequence",13,wdw
+255,"Window Sequence",17,wdw
+256,"Camera Sequence",17,cam
+260,"Satelite Sequence",19,sat
+261,"Crane Sequence",13,crn
+264,"Refelction Sequence",13,rfl
+265,"Paint out Sequence",13,pnt
+266,"Darken Sequence",13,drk
+289,asset,17,asset
+290,asset,18,asset
+292,asset,13,asset
+296,"Cabin Bee Sequence",19,cbs
+297,"Janet Bee Sequence",19,jbs
+298,"egg sequence",19,egg
+299,"bottle sequence",19,bot
+300,"Bee Sequence",19,bee
+310,"Painwall Hand Sequence",17,pwh
+320,"Slats Sequence",18,slt
+324,"Monitor Sequence",53,mon
+325,"Painwall Sequence",53,pws
+326,"Burned Sequence",53,brn
+327,"Paint Out Sequence",53,pnt
+334,"Space Ship Sequence",56,ssh
+335,"Desert Ship Sequence",56,dsh
+336,"Vegas Sequence",56,vgs
+337,"Robot Sequence",56,rbt
+339,"Vegas Hotel Sequence",56,vht
+341,"Blood Sequence",57,bld
+342,"Bullet Seqeunce",57,bul
+344,"Eye Sequence",57,eye
+345,"Flash Sequence",57,fsh
+346,"Ghost Sequence",57,ght
+347,"Gun Sequence",57,gun
+348,"Robot Sequence",57,rbt
+349,"Reflection Sequence",57,rfl
+350,"Shadows Sequence",57,sdw
+351,"Wire Removal Sequence",57,wir
+352,"Cats Sequence",57,cat
+353,"Cut Sequence",57,cut
+371,asset,19,asset
+378,"sky sequence",19,sky
+382,"bottle sequence",56,bot
+383,"explosion sequence",56,exp
+415,asset,57,asset
+455,"Armory Fitting Sequence",78,arm
+457,Asset,78,asset
+488,"Ext/Int Safe House Sequence",78,shs
+489,"Freeway Chase Sequence",78,fws
+490,"Sam's Apartment Sequence",78,sas
+491,"Safe House Sequence",78,sfh
+496,"Wall Sequence",92,wal
+497,"Wire Removal Sequence",92,wir
+501,"Clean Up Sequence",92,cus
+506,"End Of Line Club Sequence",78,elc
+507,"Ending LA Sequence",78,ela
+534,Asset,103,asset
+535,"Flynn's Arcade Sequence",78,fas
+551,Asset,105,asset
+552,Asset,106,asset
+573,"Snow Sequence",110,snw
+574,"Prosthetic Enhancement Sequence",110,pst
+575,"CG Breath Sequence",110,bth
+578,"Wound Sequence",110,wnd
+580,"TV Monitor Sequence",110,tvi
+581,"Set Extension Sequence",110,ses
+582,"Rig Removal Sequence",110,rig
+583,"Face Enhancement Sequence",110,fes
+584,"CG Girl Sequence",110,grl
+585,"CG Debris Sequence",110,dbr
+586,"Train Sequence",110,trn
+587,"Eye Enhancement Sequence",110,eye
+588,"Fire Sequence",110,fir
+589,"Blood Sequence",110,bld
+590,"Window Sequence",110,wdw
+591,"WallMart Sign Sequence",110,sgn
+592,"Crowd Sequence",110,cwd
+593,Asset,110,Asset
+602,"Crowd Sequence",78,cwd
+603,"Wire Removal Sequence",113,wir
+605,"Tea Shop Sequence",113,tea
+608,"Aeromexico Animation Sequence",103,amx
+609,"Chip Sequence",115,chp
+610,"Factory Sequence",116,fct
+611,"Shoe Sequence",117,sho
+612,"Ice Cream Sequence",118,ice
+613,"World Sequence",119,wld
+617,Asset,119,asset
+618,Asset,117,asset
+619,Asset,118,asset
+620,Asset,116,asset
+621,Asset,115,asset
+624,"Private Room Sequence",78,prs
+626,Asset,113,asset
+627,"Dragon Sequence",113,dra
+629,"Fire National Colony Sequence",113,fnc
+634,"Black Guard Fight",78,bgf
+635,"Nat Set Sequence",113,nat
+636,"Safe House Search",78,hss
+637,"Factory Sequence",92,fct
+638,"Gun Shot Sequence",92,sht
+639,"Stabilize Sequence",92,stb
+640,"CG Vapor Sequence",92,vap
+641,"Fire Distortion",92,fir
+642,"Sign Sequence",92,sgn
+643,"Day for Night Sequence",92,dfn
+644,Train_Sequence,92,trn
+645,Asset,92,asset
+646,"Sky Storm Sequence",92,sky
+647,"Agaves Sequence",92,agv
+648,"Crane Sequence",92,crn
+649,Asset,120,asset
+650,Asset,121,asset
+651,"In The Wood",110,itw
+653,"Mountain Road",110,mtr
+654,Hallway,110,haw
+655,Hallway,110,haw
+656,"2D BG comp ",110,bgc
+657,"Fence Extension",110,fee
+658,"Demonic Vision",110,dmv
+659,YMCA,110,ymc
+660,Ambulance,110,amb
+661,Hospital,110,hos
+662,"Owen`s Apartment",110,oap
+663,"Abby's Apartment",110,aap
+664,Courtyard,110,cty
+665,Courtyard,110,cty
+666,tal,3,tal
+667,Auditorium,110,aud
+668,"Train Underpass",110,tun
+669,"Frozen Lake",110,lak
+670,Bathroom,110,btr
+671,Pool,110,pol
+672,Arcade,110,arc
+673,gym,110,gym
+674,Basement,110,bas
+675,Street,110,str
+676,"Inside car",110,car
+677,"Cambio de Voz",123,voz
+678,"Polka Baile",123,plk
+679,"Cambio Outfit Tutu",123,tut
+680,"Empaque Voz",123,pkv
+681,"Empaque Polka",123,pkp
+682,"Empaque tutu",123,pkt
+683,"Assets Personajes",122,AssetsPersonajes
+684,"Ext. Quad -Night ",128,qua
+685,"Ext. Harvard Yard - Night ",128,hvd
+686,"Ext. Auditorium - Night ",128,aud
+687,"Int. Window - Day",128,wdw
+688,"Int. NY Taxi cab - Night ",128,tax
+689,"Ext. Sorority House ",128,sor
+690,"Car Railroad Sequence",110,crs
+691,"German Airfield",130,gaf
+692,"Junior Hit",130,jht
+693,"Victory Rolls ",130,vtr
+694,"Junior Ambulance ",130,amb
+695,"Pentagon Report ",130,pen
+696,"Junior Medical ",130,med
+697,"Luntz Screening",130,zsc
+698,"First Kiss ",130,kis
+699,"Lightning Village ",130,lgv
+700,"Officers Club",130,ofc
+701,"Bullard Arrives ",130,bul
+702,"Football Game ",130,gam
+703,"Lightning Scolded",130,lsc
+704,"Tent Apology",130,tap
+705,"Bomber Briefing",130,bom
+706,"New plane 51",130,npn
+707,"Paint Tails ",130,pnt
+708,"Easy Flask ",130,efk
+709,Prayer,130,pry
+710,"Junior Prison",130,jpn
+711,"Destroyer Film",130,des
+712,"German Prision ",130,gpn
+713,"Deacon Hospital",130,dhs
+714,"Silent Meeting ",130,sil
+715,"Sofia Window",130,swd
+716,"Lightning Drives",130,lgd
+717,"Chester Invite",130,chr
+718,"The Proposal",130,pro
+719,"Junior Escapes",130,jes
+720,"Bomber Ramitelli",130,bmr
+721,"Bryce Stays",130,bry
+722,"Fix Bomber ",130,fxb
+723,"Bombers Mess Tent",130,bss
+724,"Bombers Leave",130,blv
+725,"Paper Plane",130,pap
+726,"Mechanics Tent",130,mec
+727,"Wounded Bomber",130,wou
+729,"Robe Transition ",131,rob
+730,"Shoe Transition ",131,sho
+731,"Afternoon Transition ",131,aft
+732,"Night Transition ",131,nig
+733,"Hair Transition",131,har
+735,"End Logo",131,"fin "
+736,"Body and extras",131,ext
+737,Galveston,132,gal
+738,"Family Shack ",132,fam
+739,"Beth's House ",132,bet
+740,"Crane House ",132,crn
+741,"Train ",132,trn
+742,"Chicago ",132,chg
+743,"Flats ",132,fla
+744,Anchor,132,anc
+745,Beach,132,bch
+746,Road,132,roa
+747,Gymnasium,132,gym
+748,"Stein House",132,stn
+749,"Tree House ",132,tre
+750,"Clock Tower ",132,clk
+751,Trineo,135,tri
+752,Reno,135,ren
+753,Guirnalda,135,gui
+754,Tarjeta,135,tar
+755,Mesa,135,mes
+756,Pantallas,135,pan
+757,Regalo,135,reg
+758,Santa,135,san
+760,Maniquies,135,man
+761,fachada,135,fac
+762,Casita,135,cas
+763,"Oso ",135,oso
+764,Globo,135,glo
+765,pruebass,136,pru
+766,"Transformers ",137,tra
+767,"Pirates of C",137,pir
+768,sequence01,3,s01
+769,sequence02,3,s02
+770,sequence03,3,s03
+771,Mermaid,138,mer
+773,Asset,130,asset
+774,"Night Club",130,ncb
+775,"New Graduates",130,neg
+776,Asset,138,asset
+777,Fountain,138,ftn
+778,"Stairs Sequence",139,str
+779,"Entrance to fountain",138,etf
+780,Sky,141,sky
+781,Bottle,141,bot
+782,Cucu,141,ccu
+783,Crowd,141,crw
+784,Product,141,pdt
+785,Asset,141,Asset
+786,Windmill,142,wnd
+787,Asset,142,Asset
+788,Dance,142,dnc
+790,Bottle,142,bot
+791,Product,142,pdt
+792,Flying_Transition,141,fly
+793,Retoque,141,ret
+794,Town,142,twn
+795,Retoque,142,ret
+796,Supervision,142,sup
+797,Supervision,141,sup
+798,Hollywood,144,hwd
+799,Sunset,144,sun
+800,Transition,144,trn
+801,TBD,144,tbd
+802,LA,144,lar
+803,Lonely,144,lhg
+804,Asset,144,Asset
+805,"Hollywood Sign",145,hwd
+806,Asset,145,Asset
+807,NWS,3,nws
+808,Rabbits,146,rab
+809,Bunnies,146,bun
+810,Asset,146,Asset
+811,Juggernaut,147,jug
+814,ASDASD,3,asd
+815,SecuenciaDIEZMIL,3,abc
+817,Ship_Graveyard,147,shp
+818,Intro_Umbilico,147,umb
+819,New_San_Diego_streets,147,san
+820,Wreck_Site,147,wre
+822,Craig_Contemplates_Zorro,147,cra
+823,Kai_selling_the_sword,147,swo
+824,Arashi_fight,147,ara
+825,Review_Arashi_Death,147,rev
+826,Kronauer_Fight,147,kro
+827,Zorro_Repairs_Kai,147,kar
+828,Who_is_Zorro,147,who
+829,City_goes_Dark,147,cty
+830,Chaos,147,chs
+831,Umbilico_Chase,147,umc
+832,The_Final_Duel,147,fin
+833,The_City_Rebuilds,147,reb
+834,Zorro_Leaves,147,zor
+836,Kais_Dome_Building,147,kai
+838,Asset,147,Asset_Characters
+839,Asset,147,Asset_environments
+840,Asset,147,Asset_FX_Objects
+841,Allowance,147,all
+842,X-Men,148,men
+843,Day,148,dyn
+844,Cruce,146,cru
+845,Parado,146,par
+846,Centrado,146,cen
+847,Standing,146,std
+848,"Top View",146,top
+849,Prep,146,pre
+850,Hilton,149,hlt
+851,Aeropuerto,149,psl
+852,Asset,149,asset
+853,Asset,3,asset
+854,"Leviticus Numbers Fixes",151,num
+855,Asset,151,asset
+856,Institucional,152,ins
+857,Impregnantes_barnices,152,bar
+858,Goltex_antihongos,152,gol
+859,Sur_fastyl,152,sur
+860,Corrostyl_corrostop,152,cor
+861,Latex,152,lat
+862,Asset,152,asset
+863,Asset,153,Asset
+864,Kinder,153,kin
+865,Product_Shot,153,pdt
+866,"Infinite Monkey Theorem",155,mon
+867,"Trolley Problem",155,tro
+868,"Ignorant Bliss Paradox",155,ign
+872,"Plague's Lair",151,pla
+873,"London Bank",151,lon
+874,"Milton Security Checkout",151,mil
+875,"Tom Tom",151,tom
+876,"Sony Vaio",151,son
+877,Torture,151,tor
+878,"Armansky's Office",151,arm
+879,"Blomkvist's Apartment",151,blo
+880,Hospital,151,hos
+881,"Vanger's Study (1966)",151,stu
+882,"The Bridge",151,bri
+883,"Vanger's Manor (1966)",151,man
+884,Animacion,158,anm
+885,Asset,155,asset
+886,"Police Station",151,pol
+887,"Wennerstrom's Crimes",151,wen
+888,"Baja Playa 1916",156,baj
+889,"Cielo Baja",156,cie
+890,"Bajo Agua",156,agu
+891,"Baja Playa Hoy",156,pla
+892,"Casa Ian",156,ian
+893,Alaska,156,ala
+894,Reloj,156,rel
+895,Asset,156,asset
+896,"Salander's Apartment",151,sal
+897,"Harald's Den",151,har
+898,Park,151,par
+899,"Vamger Greet Harriet",151,gre
+900,"Vanger's Cottage",151,cot
+901,"Bank Hausen General",151,ban
+902,"Bank Dorfmann",151,dor
+903,"Milennium's Offices",151,ofi
+904,"Palmgren's Apartment",151,pal
+905,"Martin's House",151,mar
+906,"Polaroid Photos",151,pho
+907,Basement,151,bas
+908,"Bus Station",145,bus
+909,"Sunset Blvd",145,sun
+910,"Bourbon Room",145,bou
+911,"Dennis Office",145,den
+912,"Fantasy Arena",145,fan
+913,"Mayor's Office",145,may
+914,"Venus Club",145,ven
+915,"Paul Gill Lobby",145,gil
+916,"Chateu Patio",145,cha
+917,"Dodger Stadium",145,dgr
+918,"Flash Frames",145,fsh
+919,"Tower Records",145,tow
+920,Connection,151,coe
+921,"Scanned Photos",151,sca
+922,"Charret Cat",151,cat
+923,"Harald with Hasselblad",151,hsb
+924,"Vanger Industries Archives",151,ind
+925,"Prep School Emblem",151,emb
+926,"Lisbeth's Monitors",151,lbh
+927,Blood,151,bld
+928,MacJesus,151,mac
+929,"Police Database Search",151,dat
+930,"Homepage Screen",161,hom
+931,"Boss's Announcement",161,bos
+932,Kraken,161,kra
+933,"Logo Ending",161,log
+934,Asset,161,asset
+935,Screens,151,scr
+936,"Trailer Sequence",162,tra
+937,asset,162,asset
+938,Temple,155,tmp
+939,Bunker,155,bun
+940,"Wedding Play",163,wed
+941,"Final Battle",163,fin
+942,Asset,163,Asset
+943,"Back of Bourbon Room",145,bac
+944,Office,145,ofi
+945,"Niño Gel",165,gel
+946,"Niño Shampoo",165,sha
+947,"Niña Manzanilla",165,man
+948,"Niña 3 en 1",165,uno
+949,Asset,165,asset
+950,Flecha,166,fle
+951,Vaqueros,167,vaq
+952,Ninjas,167,nin
+953,Mama,167,mam
+954,Asset,167,Asset
+955,BluRay,151,blu
+956,"la nueva secuencia",3,nva
+957,Transicion,167,tra
+958,Desert,155,des
+959,Beach,155,bea
+960,"Girls bra",145,bra
+961,"Lily's Apartment",170,apa
+962,"The Lily Pad",170,pad
+963,"Main Street",170,str
+964,"Hotel Hallway",170,hal
+965,"Hotal Room",170,rom
+966,"Garbage Chute",170,chu
+967,"Trash Room",170,tra
+968,"Hotel Alley",170,ale
+969,"Hotel Roof",170,rof
+970,Hotel,170,hot
+971,"Masamota Edamame's Green House",170,mas
+972,"Nichols Estate",170,est
+973,"Nichols Mansion",170,nic
+974,"Rural Street",170,rur
+975,Asset,170,asset
+976,Otisa,172,oti
+977,Bebe,173,beb
+978,"Cerro de Guadalupe",174,gpe
+979,"Teatro - Opera de Paris",174,par
+980,"Castillo de San Juan",174,jua
+981,"Barco Francés",174,bar
+982,Zócalo,174,zoc
+983,Selva,174,sel
+984,"Cerros de Veracruz",174,cve
+985,"Puerto de Veracruz",174,pto
+986,"San Andrés",174,and
+987,"Posada de Chicomula",174,chi
+988,"Colectura en Chalchicomula",174,col
+989,"Pendiente Arroyo",174,aro
+990,"Pueblo de la Sierra",174,pds
+991,"Campo Mexicano",174,cam
+992,"Cuetzalan - Sierra de Puebla",174,cue
+993,"Cumbres Acutzingo",174,acu
+994,"Iglesia - Cementerio",174,cem
+995,"Cerro Cascada",174,cas
+996,"Valle de Puebla",174,val
+997,"Cerro Loreto",174,lor
+998,"Valle Cerca de Puebla",174,vcp
+999,"Hospital Militar",174,hos
+1000,"Caserio Atlixco",174,atl
+1001,"Cañaverales Atlixco",174,cvs
+1002,"Fuerte de Guadalupe",174,fue
+1003,"Campamento Francés",174,cfr
+1004,"Campo de Batalla",174,cba
+1005,"Fuerte de Loreto",174,flo
+1006,"Suburbios Puebla",174,sub
+1007,"Iglesia de los Remedios",174,rem
+1008,"Cerros San Juan y Loreto",174,cjl
+1009,"Paseo de la Reforma",174,ref
+1010,Despacho,174,des
+1011,"Ciudad USA",174,usa
+1012,Asset,174,asset
+1013,"Pantallas Computadora",175,pan
+1014,"Animacion Ciudad",175,ciu
+1015,Mascaras,166,msk
+1016,Supervision,166,set
+1017,Frizzy,145,fri
+1018,Bandera,174,ban
+1019,Familia,178,fam
+1020,Producto,178,pro
+1021,Asset,178,asset
+1022,tal,176,tal
+1023,AOY,176,aoy
+1024,"Ruinas de una Hacienda",174,hac
+1025,"Military Ship",179,mil
+1026,Asset,179,asset
+1027,Gota,180,got
+1028,Asset,180,asset
+1029,"Video Clip",145,vid
+1030,Asset,176,asset
+1031,Crecimiento,182,cre
+1032,"Barco Telescopio",174,bat
+1033,"Puerto de Veracruz",174,ver
+1034,"Colectura de Chalchicomula Explosión",174,cex
+1035,"Hospital Chalchicomula",174,hch
+1036,"Pto Veracruz retirada",174,vre
+1037,"Chalchicomula Apocalíptica",174,apo
+1038,Exodo,174,exo
+1039,"Perdida División Oaxaca",174,div
+1040,"Jinete Emisario",174,jin
+1041,Emisario,174,emi
+1042,"Poblado Abandonado",174,pob
+1043,"Encontron bayonetas",174,enc
+1044,"Artemio desmembrado",174,art
+1045,"Paraje Tetrico",174,tet
+1046,"Cañada de Atlixco",174,cda
+1047,"Torres Fuerte de Guadalupe",174,tor
+1048,"Cañada de Atlixco Batalla",174,cat
+1049,"Fuerte de Guadalupe Torres Iglesia",174,fug
+1050,"Iglesia del Fuerte",174,igl
+1051,"Explosión Torres Iglesia a lo lejos",174,tex
+1052,"Explosion Torres desde campamento Frances",174,tof
+1053,"Zaragoza ve las torres",174,toz
+1054,"Zaragoza se prepara para batalla",174,zab
+1055,"Batallones de soldados Mexicanos",174,bam
+1056,"Desplazamiento Artilleria Francesa",174,daf
+1057,"Batalla de Puebla",174,bap
+1058,"Pierna de Fauvet",174,fau
+1059,"Pico de Orizaba",174,ori
+1060,"Juan agradece a Citlali",174,juc
+1061,"Encuentran torso de Artemio",174,toa
+1062,"Conservadores Muertos",174,mue
+1063,"Explosiones en el cerro",174,ece
+1064,"Orilla de la ciudad de Puebla",174,opu
+1065,"Calles de Puebla",174,pue
+1066,"Fauvet muerto",174,fam
+1067,"Soldados festejando",174,fes
+1068,pingaloca,3,png
+1069,"Version Educacion",183,edu
+1070,"Ted's eyes",184,eye
+1071,Prueba,174,pru
+1072,BEC,185,bec
+1073,"Ciudad de Puebla",174,cip
+1074,"Ataque al cuartel general",174,cua
+1075,"Grupo de Vanguardia Ataca",174,van
+1076,"Festejo Zaragoza y Diaz",174,zar
+1077,Card,184,car
+1078,Metro,186,met
+1079,"Estudio TV",186,etv
+1080,"Fabrica de Aviones",186,avi
+1081,Parque,186,par
+1082,Universidad,186,uni
+1083,"Camara Diputados",186,dip
+1084,Mundial,186,mun
+1085,Laboratorio,186,lab
+1086,Junta,186,jun
+1087,Final,186,fin
+1088,Asset,186,asset
+1089,Cave,179,cav
+1090,Teaser,174,tsr
+1091,ONU,186,onu
+1092,Captura,174,cap
+1093,"Obstacle Course",179,opb
+1094,Color_Pipeline_Test,179,tst
+1095,"Washington Herald",190,was
+1096,Restaurant,190,res
+1097,"TV Transmition",190,tra
+1098,"Meeting Room",190,met
+1099,"Luca's Office",190,luc
+1100,"Split Episode 1",190,sp1
+1101,"Split Episode 2",190,sp2
+1102,Woods,179,wod
+1103,Forrest,179,for
+1104,Ship,179,shi
+1105,"Blair house",190,bla
+1106,was,136,was
+1107,Roto,194,rot
+1108,"Wire Removal",194,wir
+1109,"Paint Clean Up",194,pai
+1110,"Match Move",194,mat
+1111,Asset,195,asset
+1112,Matchmove,195,mat
+1113,Animation,195,ani
+1114,Compositing,195,com
+1115,SFX,195,sfx
+1116,"Cleanup Allowance",195,cle
+1117,"Screens Episode 3",190,sc3
+1118,Running,196,run
+1119,"Screens Episode 4",190,sc4
+1120,"Fire Escape",190,fir
+1121,"Birch Office, Ep:4",190,bo4
+1122,Comunication,179,com
+1123,Dying,179,die
+1124,Nest,179,nes
+1125,Raft,179,raf
+1126,"Running away",179,run
+1127,"Tilden Car",190,4cr
+1128,Asset,198,asset
+1129,"Capsulas 1 minuto 30 segundos",198,min
+1130,"Capsulas 30 segundos",198,seg
+1131,"CNN Debate Ep6",190,6db
+1132,Trailer,179,trl
+1133,"Galloway Hotel",190,4ho
+1134,"Motocycle Seq",199,mot
+1135,"Crater Seq",199,cra
+1136,"Desert seq",199,des
+1137,"Library Seq",199,lib
+1138,"Memorial Service",190,3me
+1139,"Slugline Offices",190,sl9
+1140,Textos,174,txt
+1141,Mapas,174,map
+1142,Fusilamiento,174,fus
+1143,Trailer,174,tra
+1144,"Screens Episode 5",190,sc5
+1145,"Wrap around",190,wr5
+1146,"Screens & Splits Episode 6",190,sc6
+1147,"Blood Episode 6",190,bl6
+1148,"CNN Screens Episode 6",190,cn6
+1149,"Rifle Artemio",174,rif
+1150,"Batalla de Puebla Final",174,baf
+1151,"Driving Sequence",190,d10
+1152,"Photos of Zoe",190,zo5
+1153,"Razor Sequence",190,rz5
+1154,"Slugline Offices Episode 12",190,s12
+1155,"Roto Test",202,tes
+1156,"Wrap Around Ep 11",190,w11
+1157,"Episode 13 Various",190,e13
+1170,"Marshall motors",204,mot
+1171,"Kisco Drive In",204,kis
+1172,"CESSNA SKYHAWK COCKPIT",204,ces
+1173,Cars,204,car
+1174,"Little Pete's 944",204,pet
+1175,"SHELBY MUSTANG",204,she
+1176,"DINO'S KOENIGSIGG",204,din
+1177,"Route 76",204,rte
+1178,"TOBEY'S KOENIGSIGG",204,tob
+1179,"FREEDOM PARKWAY",204,fre
+1180,"180 West",204,wes
+1181,"FINN'S CUBICLE",204,fin
+1182,"ROADWAYS OF DETROIT",204,det
+1183,"NEWS HELICOPTER",204,hel
+1184,"CHANNEL 4",204,cha
+1186,.I-375,204,i35
+1187,I-94,204,i94
+1188,"REGIONAL AIRPORT",204,air
+1189,"THE BEAST",204,bea
+1190,"DINO'S OFFICE",204,dof
+1192,"SUPER STALLION HELICOPTER",204,sta
+1193,"REDWOOD FOREST",204,red
+1194,PCH,204,pch
+1195,"DIRT ROAD SUMMIT",204,dir
+1196,"MERCEDES SPRINTER VAN",204,mer
+1197,KOENIGSIGG,204,koe
+1198,"POLICE HELICOPTER",204,pol
+1199,"ROLLING HILLS OF NOCAL",204,rol
+1200,"FARMLAND ROAD",204,far
+1201,I-96,204,i96
+1202,"Allowance for Sparks",204,spa
+1203,"allowance for monitor comps & graphics",204,mon
+1204,Baño,205,ban
+1205,Mesa,205,mes
+1206,Sofa,205,sof
+1207,"TV Room",205,tvr
+1208,"Raige Rescue",179,rai
+1209,"Finding Transport",179,tra
+1210,"iFly sky diving simulator",206,fly
+1211,Asset,206,asset
+1213,Capitulos,208,cap
+1214,"Music Hall",206,mus
+1215,"Finding Nova Prime",179,fin
+1216,"RAIGE APARTMENT",179,apa
+1217,"Hog Hole",179,hog
+1218,Overtime,174,ove
+1219,Logo,174,log
+1220,Lluvia,174,llu
+1221,"Wire Removal",174,wir
+1222,"Condor Nest Attack",179,con
+1223,"Shenshi Dies",179,she
+1224,"Sunshine Roto",206,rot
+1225,"MT Stuttering Lights",179,lig
+1226,"Gala Films",174,gal
+1227,"Mechanical Wing",209,win
+1228,"Lisa's Anatomical way",209,lis
+1229,"Astrology signs",209,ast
+1230,"Medici's Mural",209,mur
+1231,"Leonardo jumps inside painting",209,jum
+1232,"Mural on fire",209,fir
+1233,"Flying machine",209,fly
+1234,"Leonardo flying",209,lef
+1235,"Paintings overlapping",209,ove
+1236,"Helicopter runaway",209,hel
+1237,"Flying machine crashes",209,cra
+1238,"Carretera México - Cuernavaca",210,car
+1239,"Zanates Ciudad México",210,vue
+1240,Parque,210,par
+1241,"Casa Pedregal",210,cas
+1242,"Recamara Casa Porfiriana",210,rec
+1243,"Pedregal amanecer",210,ama
+1244,"Espacio Escultórico",210,esc
+1245,"Hemeroteca CU",210,hem
+1246,"Carretera Ajusco",210,aju
+1247,Electrocardiograma,210,ele
+1248,"Hospital Cuarto Daniel",210,hos
+1249,"Sala Casa Pedregal",210,sal
+1250,"Sala y jardín Pedregal",210,jar
+1251,"Luna Casa Pedregal",210,lun
+1262,"Sueño Casa Porfirinana",210,sue
+1263,"PORCHE/SALA. CASA PEDREGAL.",210,por
+1264,"Fiesta de Niños",210,fie
+1265,"Zanates por la ventana",210,ven
+1266,"Cuarto Sangreinto",210,san
+1267,"Casa Porfiriana",210,pof
+1268,"Silueta Hombre Misterioso",210,sil
+1269,"Puerta de maqueta",210,maq
+1270,"Noticia Hospital",210,not
+1271,Bosque,210,bos
+1272,"Estudio Daniel",210,est
+1273,"Teo se asoma a la ventana",210,teo
+1274,Cocinando,210,coc
+1275,"Interaccion con Teo",210,int
+1276,"Sebastian frente a maqueta",210,mta
+1277,"Carla llega con Sebastian",210,cal
+1278,"Juego Palitos Chinos",210,chi
+1279,"Mosca sale de maqueta",210,mos
+1280,"Teo en techo",210,tec
+1281,"Cochecito de juguete",210,jug
+1282,"Daniel en garage con mujer",210,gar
+1283,"Teo observa",210,obs
+1284,"Pájaro muerto",210,paj
+1285,"Carla en casa profiriana",210,cap
+1286,"Carloa entra en casa porfiriana",210,caf
+1287,"Mirna mata a su hijo y marido",210,mir
+1288,"Zanates vuelan a marco ventana",210,vum
+1289,"Zanates atacan a Carla",210,ata
+1290,"Ana y Sebastian visitan casa porfiriana",210,vis
+1291,"Fentre casa porfiriana",210,fre
+1292,"Reflejo Teo",210,ref
+1293,"Mujer Misteriosa",210,mis
+1294,"Buscador Internet",210,bus
+1295,"Ana encuentra  a Carla muerta",210,mue
+1296,"Cuerto de Tele",210,tel
+1297,"Roario y Ana hablan de Zanates",210,ros
+1298,"Ana en la tina",210,tin
+1299,"Techo humedad",210,hum
+1300,"Teo come a Sebastian",210,com
+1301,"Ana camina lento en la ciudad",210,len
+1302,"Mujer misteriosa en cruce",210,cru
+1303,"Velas y santos en cuarto Sebastian",210,vel
+1304,"Cabello muje rmisteriosa",210,cab
+1305,Atico,210,ati
+1306,"Encuentro entre Ana Daniel y Sebastian",210,enc
+1307,"Mujer entra al atico",210,mat
+1308,"Ana afuera de la maqueta",210,ana
+1309,"Casa del sueño",210,suo
+1310,"Reflejo Ana",210,rel
+1311,"Ana llega al primer piso",210,pis
+1312,"Techo atico",210,tat
+1313,Disparo,210,dis
+1314,"Ana desapareceen la luz",210,des
+1315,"Rosario corre a ventanal",210,rov
+1316,"Rosario en maqueta",210,rom
+1317,"Parque final",210,fin
+1318,Asset,210,asset
+1319,"Dino's Date Apartment",213,apa
+1320,"Carnival Grounds",213,car
+1321,"Birthday Cake",213,cak
+1322,"Foreign Battkefield",213,bat
+1323,"Criminal Associate Kill",213,cri
+1324,"Los Angeles Landscape",213,ang
+1325,"UV paint scrawl",213,uvp
+1326,"Edge of woods",213,wod
+1327,Townhome,213,tow
+1328,"Upscale Health Club",213,hea
+1329,"Cementery - Dominick Fillici",213,dom
+1331,"Lake Inlet",213,lak
+1332,"Trendy Jazz Club",213,jaz
+1333,"Figure in Army Overcoat",213,fig
+1334,"L.A.P.D. Homicide Division",213,lap
+1335,"Grave's Apartment",213,gra
+1336,Bridge,213,bri
+1337,"Bridge and city",213,cit
+1338,"Hollywood BLVD",213,hol
+1339,Nghtclub,213,nig
+1340,"Vince's name",213,vin
+1341,"Front Gates Vince's",213,fro
+1342,"Vince's Door",213,dov
+1343,Verandah,213,ver
+1344,"Billy's Corpse",213,bil
+1345,"Howard's dead",213,how
+1346,"Shaving Bodyguard",213,sha
+1347,"Carlos comes in",213,cal
+1348,"Carlos Die",213,die
+1349,"Vince's Grounds",213,gro
+1350,"Vince's Death",213,vid
+1351,"Asset Sequence",213,Asset
+1352,"Color Correction",214,Col
+1353,Conform,214,Con
+1354,Operator,214,Ope
+1355,"Owl Transformation",215,owl
+1356,"Silhouette in Barn",215,bar
+1357,"Vines stop truck",215,vin
+1358,"Justin's Dead",215,jus
+1359,"River boils",215,boi
+1360,"Horse Attack",215,hor
+1361,"Llorona at river",215,llo
+1362,"Kidnapper Darts out",215,kid
+1363,"Kidnapper turns into dog",215,dog
+1364,"Ghost gets into Xochitl",215,xoc
+1365,"Gabriela becomes Llorona",215,gab
+1366,"Llorona lifts Rosio",215,ros
+1367,Asset,215,asset
+1369,Gimnasio,216,gim
+1370,Cafe,216,caf
+1371,"Teo sale al jardín",210,jat
+1374,Pantallas,217,pan
+1375,"HDR Tone Mapping",217,ton
+1376,"Multiplicacion Extras",217,mul
+1377,"Flare y estabilizacion",217,fla
+1378,Gelatina,217,gel
+1382,Tiotepec,218,tep
+1383,"Hector's Exorcism",218,hec
+1384,Orphanage,218,orp
+1385,Morgue,218,mor
+1386,"Hector's Church",218,chu
+1387,Bedroom,218,bed
+1388,"Rio Muerto",218,rio
+1389,"CHURCH OF RIO MUERTO",218,mue
+1390,"Mexico's Highway",218,hig
+1391,"Mexivo Montage - Past",218,mon
+1392,"SPANISH MISSION",218,spa
+1393,"Motel Room",218,mot
+1394,Cave,218,cav
+1395,"Mountains - Past",218,mou
+1396,"Desert - Past",218,des
+1397,"Spanish Galeon - past",218,gal
+1398,"Shore - Past",218,sho
+1399,"BUDDHIST TEMPLE - Past",218,bud
+1400,"The Den",218,den
+1401,"Shipping Yard",218,shi
+1402,"The Pit",218,pit
+1403,"Stolen Truck",218,sto
+1404,"Stripped club",218,clu
+1405,"Narco Mansion",218,nar
+1406,"Revenant's attack",218,rev
+1407,"CEREMONIAL CHAMBER",218,cer
+1408,Asset,218,asset
+1411,aep,3,aep
+1435,"JJ WATT",220,wat
+1436,"RUSSELL WILSON",220,rus
+1437,"ADRIAN PETERSON",220,pet
+1438,Asset,220,asset
+1451,Cortinillas,222,cor
+1453,Prueba,210,pru
+1463,Beach,226,bea
+1464,"Basalt columns",226,bas
+1466,"Water Fall",226,fal
+1467,Volcano,226,vol
+1468,Scarab,226,sca
+1469,Prairie,226,pra
+1475,"Cielo en Circo",228,cie
+1476,"Campers Circo",228,cam
+1477,"Carretera Costa Pacifico",228,car
+1478,"Angela observa cielo",228,ang
+1479,"Gira cielo",228,gir
+1480,Envejecimiento,228,env
+1481,"Elvira Vuela",228,vue
+1482,"Acto Valentina",228,val
+1483,"Acto Angela a caballo",228,cab
+1484,"Tigre enjaulado",228,tig
+1485,Allowance,228,all
+1486,"Valentina observa cielo",228,civ
+1487,"Erizar Espalda",228,eri
+1488,Asset,228,asset
+1489,Test,228,tes
+1490,Jungle,227,jun
+1491,Bunker,227,bun
+1492,"Military Offices",227,ofi
+1493,"Bunk room",227,rom
+1494,Jeep,227,jep
+1495,"Poppy field",227,pop
+1496,"Dock Mazatlan",227,doc
+1497,"Skid Row",227,ski
+1498,"Establishing Mazatlan",227,est
+1499,Warehouse,227,war
+1500,"Ismae'ls poppy field",227,fie
+1501,"Growing flieds",227,gro
+1502,"Pier Warehouse",227,pie
+1503,Sierra,227,sie
+1504,"Movie Theater",227,mov
+1505,Road,227,roa
+1506,"Cantina Plaza Machado",227,can
+1507,"Highway Mazatlan",227,hig
+1508,"Downtown Mexico City",227,dow
+1509,"Downtown Street",227,ste
+1510,"Agents car",227,age
+1511,"Poppy fields community",227,com
+1512,Truck,227,tru
+1513,"Forzen pond",227,pon
+1514,Asset,227,asset
+1515,Dublin,229,dub
+1516,"Tienda Discos",229,dis
+1517,"Playa Virgen",229,pla
+1518,"Santa Fe",229,san
+1519,Carretera,229,car
+1520,Bodega,229,bod
+1521,"Recamara de Lucía",229,luc
+1522,"Centro Comercial",229,cen
+1523,Farmacia,229,far
+1524,Antro,229,ant
+1525,"El Plaza",229,elp
+1526,Hospital,229,hos
+1527,Hotel,229,hot
+1528,"Foro Sol",229,sol
+1530,Asset,229,asset
+1531,"VFX Set Sup",229,sup
+1532,"VFX Set Supervision",227,sup
+1533,"Estadio Dallas 2002",230,dal
+1534,"Chucho profesional Estadio 1977",230,pro
+1535,"Chucho Espejo",230,esp
+1536,Monitores,230,mon
+1537,"Bosque tenebroso",230,bos
+1538,Vaho,230,vao
+1539,Ranchotongo,230,ran
+1540,"Estadio Lima",230,lim
+1541,Asset,230,asset
+1542,Arenero,230,are
+1543,Final,230,fin
+1544,"Es una moto",231,mot
+1545,"Explociónn de cheetah y jet",231,che
+1546,"Es accion",231,act
+1547,"Sinfonía de metal",231,met
+1548,"Leyenda Urbana",231,urb
+1549,Vidrio,231,vid
+1550,"Es lo que manejan - rampa",231,ram
+1551,Helipuerto,231,hel
+1552,Psicodelia,231,psi
+1553,"Red Carpet",231,red
+1555,Asset,231,Asset
+1556,"Set Supervision",231,sup
+1557,Allowance,231,all
+1558,"Color Correction",231,col
+1559,Conform,231,con
+1560,"Sert Supervision",230,sup
+1571,"Clinches teeth",233,cli
+1572,"Date in Restaurant",233,res
+1573,"Fight in the Salon",233,sal
+1574,"Country Fair",233,fai
+1575,"Shooting Cans",233,can
+1576,"Shooting melon",233,mel
+1577,"Eating Watermelon",233,wat
+1578,Towers,233,tow
+1579,"The valley",233,val
+1580,"Valley Stagecoach",233,sta
+1585,Won108_005,234,wo5
+1586,Won108_007,234,wo7
+1587,Won108_023,234,w23
+1588,Won108_001,234,wo1
+1589,Won011,234,w11
+1590,Won108_016,234,w16
+1591,Won108_020,234,w20
+1592,Won108_026,234,w26
+1594,Won108_033,234,w33
+1596,Castle,237,cas
+1597,Volleyball,238,vol
+1599,"Neto Walking outside prision",239,pri
+1600,"Blow out window",239,win
+1601,"Hitting Speed Ramp",239,hit
+1602,"Bedroom wall cross",239,bed
+1603,"Parking lot",239,par
+1604,Motel,239,mot
+1605,"Street American Signs",239,str
+1606,"Bar shooting",239,bar
+1607,"Cholos waiting for Neto",239,cho
+1608,"Strip club",239,clu
+1609,"Motel's TV",239,tvs
+1610,"Motel's Parking lot",239,pam
+1611,"Security Cameras",239,sec
+1612,"Kitchen execution",239,kit
+1613,"Car Shots",239,car
+1614,"Boxing Gym Sign",239,box
+1615,"car persecution",239,per
+1616,Jail,239,jai
+1620,Asset,239,asset
+1647,SOL,240,SOL
+1648,HOLOGRAMA,240,HOL
+1651,CUCARACHAS,240,CUC
+1654,"Julio's Tattoo",239,tat
+1655,"Car lights",239,lig
+1656,"Julio´s Picture",239,pic
+1657,Driveway,239,way
+1658,Text,239,tex
+1659,"Neto driving",239,net
+1660,"Driving to the club",239,dtc
+1661,"Driving with girl",239,dwg
+1662,"Mall's Security Video",239,vid
+1671,"Cam Processing",239,pro
+1674,"Inez butt",239,but
+1675,"Demo Shot",210,dem
+1676,"Netos blood",239,blo
+1679,"LA ESPERANZA. 1936 - DIA",241,esp
+1680,"VISTA DEL PUEBLO EN DIRECCIÓN A LA MINA",241,vis
+1681,"ESTACIÓN DEL TREN",241,est
+1682,TEMPLO/PATIO,241,tem
+1683,TALLER,241,tal
+1684,LOMA,241,lom
+1685,Cabina,241,cab

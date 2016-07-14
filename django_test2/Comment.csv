@@ -1,0 +1,1001 @@
+CommentID,userID,Date,comment,EntityTypeID,EntityID
+1,dgollas,"2008-05-12 22:32:28","This is a new comment for this test file, thisis the new comment",3,1037
+2,dgollas,"2008-05-12 22:40:11","Esa es la sobrina de Wendy",3,1008
+3,dgollas,"2008-05-12 22:59:26","this is the ssh library",3,1036
+4,wpirotte,"2008-05-13 11:47:23","Presento a Mila!!!!! ",3,1117
+5,mlizarraga,"2008-05-16 11:24:17","matte paint de prueba de cicatriz en seno ",3,1350
+6,dgollas,"2008-05-16 19:04:14","comentario de prueba",3,1145
+7,citurriaga,"2008-05-16 20:20:13","Se ve super bonito!!",3,1353
+8,citurriaga,"2008-05-19 20:30:55","Low res approved. Wait for Simon to approve low res and send DPX to Co3",3,1368
+9,citurriaga,"2008-05-19 20:34:13","Low res approved. Wait for Simon to approve low res and send DPX to Co3",3,1367
+10,citurriaga,"2008-05-19 20:40:23","I need to see this in high res before submitting to Co3. Cyn please post final DPX in the PM. Wait also for Simon aproval for the lineups.",3,1366
+11,citurriaga,"2008-05-19 20:54:57","I need a meeting with Mariana for checking feedback from GA. Let's do a Jefecheck Session tomorrow with this file and the previous version. ",3,1365
+12,citurriaga,"2008-05-19 21:00:29","I have new feedback from GA. Also a review session. We need to upload again this with different gamma settings and linearized.",3,1364
+13,dgollas,"2008-05-19 21:21:27","este es un comentario de prueba para mariana",3,1356
+14,citurriaga,"2008-05-19 21:43:04","Debemos de probar con las manchas negras en un gris muy obscuro. Se ve muy marcadas. Tambien a lo mejor podemos darles como un ""emboss"" o algun tipo de cambio en las orillitas. Tal vez solo con un poquito de blur funciona, pero hay que checar. Si quieren checamos maniana varias opciones. Tambien crecerlas, para que sean de diferente escala que las blancas ayudaria. Si las crecemos igual probar crecerlas un poco, o crederlas un chingo... (50%??)",3,1369
+15,citurriaga,"2008-05-19 21:50:45","We need to fix the middle glass in the window. It should be smooth and transparent. This applies to both shots. Do a version before sending DPXs",3,1362
+16,citurriaga,"2008-05-19 21:53:24","We need to fix the middle glass in the window. It should be smooth and transparent. This applies to both shots. Do a version before sending DPXs",3,1361
+17,citurriaga,"2008-05-19 21:58:49","If Simon approves, let's send DPXs to Co3",3,1360
+18,citurriaga,"2008-05-19 22:00:47","If Simon approves, let's send DPXs to Co3",3,1359
+19,citurriaga,"2008-05-19 22:03:30","If Simon approves, let's send DPXs to Co3",3,1358
+20,citurriaga,"2008-05-19 22:04:51","If Simon approves, let's send DPXs to Co3",3,1357
+21,citurriaga,"2008-05-19 22:06:57","We have some changes and feedback. Let's have a meeting tomorrow early so GA can see changes in the afternoon.",3,1355
+22,citurriaga,"2008-05-20 13:09:28","Listo! vamos a postearlo en el pix. Mientras estaria bueno hacer una prueba con los scratches un 25% mas grandes...",3,1465
+23,citurriaga,"2008-05-20 18:13:30","We need to see this projected, as the hand looks to present in the quicktime. Let's have a look tomorrow in Mexico.",3,1468
+24,citurriaga,"2008-05-28 17:16:11","Aplanar por completo la chichi. Quitarle casi todo lo rojo (que apenas se vea una linea). quitarle la ""voluptuosidad"" alrededor de la cortada, que quede plana como el modelo. ponerle unos ""puntos"" de las puntadas que en teoria le quedo.",3,2443
+25,citurriaga,"2008-05-28 19:01:47","Aumentar 20% la velocidad de entrada del avion",3,3307
+26,citurriaga,"2008-05-28 20:54:14","Listo! nomas checar en alta resolucion la calidad del recorte del pelo en DPX y lo podemos sumitir.",3,3313
+27,citurriaga,"2008-05-28 20:57:12","Mike: Si bajale un poco mas la forma curva que se ve contra la playera, aunque tengas que reconstruirle mas la telita. De la cortada solo hay que ponerle unas marcas de ""puntadas"" a la orilla. Voy a poner un dibujito de todas maneras.",3,3311
+28,citurriaga,"2008-05-29 00:29:57","Aprobado, checar en High Rez...",3,3319
+29,citurriaga,"2008-05-29 14:06:06","Super! Velocidad se ve correcta.",3,3549
+30,citurriaga,"2008-05-29 15:04:58","Low rez Ok, checar en alta.",3,3548
+31,citurriaga,"2008-05-29 18:44:36","Listo. Checar en High Rez el parche, para ver si no brinca. Que pepe le de el VObo",3,3556
+32,citurriaga,"2008-05-29 21:29:30","Ponles muchisimo mas peso, que caigan a la tierra. Tambien habra manera de que NUNCA se vean ""pelotitas"" o ""puntos""...",3,3573
+33,citurriaga,"2008-05-30 14:30:07","Esta bueno. Un poco rosa. Si quieres ahorita lo platicamos por el msn.",3,3576
+34,citurriaga,"2008-05-30 14:55:50","Listo. A GA le gusto. Nada mas quiere que se noten un poquitito mas las marcas de las puntadas. un 20% mas.",3,3572
+35,citurriaga,"2008-06-02 12:10:38","Creo que con el polvo ya estamos!Las sombras en el piso creo que siguen muy opacas en comparacion a la transparecia del ""spray"". creo que si las hacemos un 35-40% mas translucidas quedan listas. Ojala podamos tener una version en high res alreadedor de las 4 para enseniarselo a GA.",3,3577
+36,citurriaga,"2008-06-02 13:04:18","El fondo del pecho, el que se va al fondo de la playera debe de curvearse antes, parece un Corset ahora, que sea mas ""pegado"" al cuerpo.La camisa debe de ""warpearse"" mas para que no se vea la curvatura.",3,3578
+37,dgollas,"2008-06-03 12:14:27","este es un comment",3,595
+38,citurriaga,"2008-06-03 12:22:58","Esta bueno Mike! Podemos hacer una version 2 con la linea un poco mas gruesa (el doble) y en el centro con una linea delgadita clara? Capish??",3,3582
+39,cnavarro,"2008-06-03 15:51:10",,3,3608
+40,dgollas,"2008-06-03 16:21:09","new comment from real server",3,1037
+41,citurriaga,"2008-06-03 18:48:16","En el cuadro 70 le sale como un ""brinquito"" en la manga. Como que le ""engorda"" la manita...",3,3610
+42,citurriaga,"2008-06-03 19:28:13","Del cuadro 78 al 80 la frente de Charlize parece que se hace de concava a convexa. Como ven que se pueda arreglar? y porfa confirmar que es del plate original.",3,3314
+43,citurriaga,"2008-06-03 22:55:32","En general va bien. 2 cosas importantes:-Utilizar el ultimo MP de Mike-Hay que jugar con algo de ""warps"" en el parche. necesitamos ver un poco de respiracion y de deformacion en la piel mientras se mueve, para que no paresca un ""corset""Comentarios generales:-La camisa tiene que estar un poquito mas ""warpeada"" al momento de abrirse por completo, para que no se vea que hay algo que falta alli.-tracking supongo no esta terminado.Porfas pongan comentarios del artista cuando sumitan, para ver que veo y que no.",3,3624
+44,citurriaga,"2008-06-04 00:48:02",Great!!,3,3625
+45,citurriaga,"2008-06-05 02:24:16","Arpobado. ",3,3647
+46,citurriaga,"2008-06-05 02:44:58","Listo Aprobado",3,3647
+47,citurriaga,"2008-06-12 03:25:46","Primaa! Se ve bien.... En High Rez el track habria que checarlo, pero si tu lo vez bien... let's see it!",3,5030
+48,citurriaga,"2008-06-12 03:33:55","Todavia menos presente, y mas estiradito horizontal., muy difuminado.",3,5031
+49,citurriaga,"2008-06-15 01:27:50","-Creo que sigue muy gris el humo, hay que empezar a meterles el amarillismo. Aunque al princiopio, hasta el cuadro 85 esa intensidad esta padre-El track tiene una deslizada rara en diferentes puntos-Necesitamos que el polvo se expanda cuando cae al piso-Avisame Mariana si quieres que platiquemos...",3,5309
+50,citurriaga,"2008-06-17 03:51:31","-Del cuadro 12 al cuadro 29 el track del humo parece que se levanta-el cuadro 39 es el mas afortunado. Asi deberia de empezar la toma-Cuadro 91, aqui ya se hizo muy transparente, el lado erecho inclusive no se nota que esta saliendole humito...-Cuadro 123 - habra que acentuar mas aqui las particulas del rig de la derech1-Cuadro 145 - seguimos viendo muchos puntitos...",3,5352
+51,citurriaga,"2008-06-17 11:33:14",Chacador,3,5346
+52,citurriaga,"2008-06-17 11:33:25",Chacador,3,5296
+53,dgollas,"2008-06-17 17:20:11","This is a new comment for this thingy.",3,5363
+54,dgollas,"2008-06-17 18:45:45","This is another Comment",3,5363
+55,citurriaga,"2008-06-17 22:19:25","1.- que no se note la linea pa nada de el chorro del centro con la de los lados, es decir, blurear un poco el outline de la del centro para que se mezclen mas... tal vez con un mate del ""outline""2.- recuperar algo de la transparencia, para que no se vea tan ""bloque"" el final del chorro? que parezca mas dicipado?",3,5391
+56,citurriaga,"2008-06-18 13:35:01","Mariana: Si ves en la referencia el humo cae o se corta con el piso, deberiamos de lograr eso al principio.Tambien a partir del cuadro 145 hay una linea en el polvo. Yo creo que desde este cuadro podriamos casi llenar la pantalla de textura amarilla. No color amarillo, pero textura amarilla.",3,5404
+57,citurriaga,"2008-06-19 18:47:09","Sigue Creciendo, El cuadro 37 es un buen ejemplo de como deberia de empezar el recorte. si lo comparas con el cuadro 1 o el 24, hay un espacio verde debajo del polvo que hace notar que esta ""flotando"" y no que esta cayendo. Siempre deberia de estar en contacto con la tierra como el cuadro 37, Para el cuadro 67 ya el polvo bajo demaciado, debemos de mantener relativamente la distancia en la que se mete al crop.",3,5441
+58,cnavarro,"2008-06-19 19:57:32","Es este el del pix.",3,5440
+59,cnavarro,"2008-06-19 19:57:38","Es este el del pix.",3,5440
+60,cnavarro,"2008-06-19 19:57:44","Es este el del pix.",3,5440
+61,citurriaga,"2008-06-20 21:54:45","creo que las gotas se ven un poco grandes, y sobretodo es el look que se ve como de aluminio reflejado. Creo que haciendo las gotitas un poco mas pequenias, y dando menos refraccion, o detalle en la refraccion, ayudaria a perder ese efecto. El reflejo tambien falta.",3,5465
+62,citurriaga,"2008-06-20 21:55:33","Tambien creo que la profundidad de campo esta demasiado exagerada, Un poco mas de contraste en el fondo ayudaria.",3,5465
+63,citurriaga,"2008-06-21 22:11:14","-Esta mucho mejor la parte de arriba del polvo-La parte de abajo del polvo tambien tiene un brinco, del cuadro 12 al 25. Se sube y vuelve a bajar-Los puntitos de los sorgos no se si funcionan-Se puede poner mas textura ""transparentosa"" como el que se puso en el CD010?",3,5468
+64,citurriaga,"2008-06-22 01:31:14","ok, vamos a mandar DPX...",3,5470
+65,citurriaga,"2008-06-22 17:15:07","Cuadro 130 - La explosion de la izquierda esta un poquito mal traqueada en los primeros cuadros. Tambien la saturacion y definicion esta muy intensa para la distancia en la que estaTambien podriamos bajar la saturacion de las sonas menos ""calientes"" de la explosion central. Podriamos dejar la zona brillante asi, pero el fuego que sale bajarle un poco de saturacion.Cuadro 10- La explosion y su cara se ven super padres!!",3,5471
+66,citurriaga,"2008-06-22 20:49:47","-Del cuadro 1 al 18 la parte de abajo del polvo (la que esta cayendo en el sorgo) crece. Ver dibujo-De alli se mantiene mas o menos a nivel, hasta el cuadro 48 que vuelve a empezar a crecer hasta el cuadro 71. Mantener el nivel igualSi lo ven en reversa se nota un poco mas.",3,5472
+67,citurriaga,"2008-06-23 03:40:36","veamos los DPX",3,5475
+68,wpirotte,"2008-06-23 13:24:26","Se proyectó el shot con Pepe, y estos fueron los comentarios:- En la parte del humo, al incio del shot, se ve un halo verde alrededor del éste.- Cuando el avión despega, este halo se convierte en blanco- Hay detallitos y errores en el tracking del dust (revisar parte externa del ala izquierda del avión y la parte izquierda del ala derecha)- Al final de la toma, cuando sólo queda el humo del avión, está todo blureado pero se observa una línea blanca muy marcada y el humo que queda ahí está como muy espeso y estático",3,5475
+69,citurriaga,"2008-06-24 14:03:23","Funciona mejor! plis re-deliver. Hay que transferir esta nueva version.",3,5479
+70,cnavarro,"2008-06-30 17:32:32",,3,5503
+71,cnavarro,"2008-06-30 17:39:51",,3,6047
+72,cnavarro,"2008-06-30 17:40:08",,3,6047
+73,cnavarro,"2008-06-30 17:41:14",,3,6031
+74,cnavarro,"2008-06-30 17:42:07",,3,6031
+75,cnavarro,"2008-06-30 17:43:18",,3,6031
+76,cnavarro,"2008-06-30 17:43:30",,3,5919
+77,cnavarro,"2008-06-30 17:43:51",,3,5945
+78,cnavarro,"2008-06-30 17:43:59",,3,6065
+79,cnavarro,"2008-06-30 17:44:13",,3,5984
+80,cnavarro,"2008-06-30 17:44:25",,3,6066
+81,cnavarro,"2008-06-30 17:44:44",,3,6047
+82,dgollas,"2008-07-07 12:12:30","la pinga",3,5363
+83,citurriaga,"2008-07-11 02:11:41","Falta el Follaje y los postes de luz que habiamos platicado. un poquito para quitar lo lindo del encuadre de afuera.",3,11767
+84,citurriaga,"2008-07-11 02:16:26","Hay que poner en las ventanas de la izquierda algo mas ""caotico"". A lo mejor unas cortinas, o algun mueble que rompa la repeticion en los 3 rectangulos. Que distancia hay entre la esqiuina del fondo y el dinner??",3,11766
+85,citurriaga,"2008-07-11 02:21:24","No se mueven las hojitas de los arboles. Es mi imaginacion o de pronto se movian??",3,11764
+86,vlizarraga,"2008-07-11 08:58:53","Ok, puede ser colocar algunas cortinas como dices y/o apagar una de las ventanas(extrema izquierda). Lo checo con Lluis. La distancia de la esquina del fondo (pared) al dinner es de 18 metros (57.6 pies) aproximadamente.",3,11766
+87,citurriaga,"2008-07-15 05:50:35","El efecto motion blur es mas o menos asi. Es posible hacer un motion blur real? parece que es nada mas como un efecto 2D. Las balas tienen una forma muy similar una con la otra.. Como lo estan generando? son particulas reales? creo que hay que obtener el efecto en 3D como si fuera real. Necesitamos mas al fondo. porque no ponemos en 3D emisores que generen balas reales con humo y que salgan de diferentes lugares fuera de cuadro? tal vez asi tendriamos mejor look y motion blur tanto de camara como del movimiento de las balas.",3,11814
+88,citurriaga,"2008-07-15 05:52:50","Un poco mas de luz en las paredes, similar al nivel de luz del 110. a lo mejor del lado izquierdo podriamos poner una alberca de luz que venga de una lampara exterior. Aplican todas las notas del screening de ayer.",3,11788
+89,vlizarraga,"2008-07-15 09:05:41","Las balas se estan generando en 3D con particulas y estas particulas tienen una instancia asignada la cual tiene forma como de ovni delgado, es decir, las puntas son alargadas y en medio es mas gruesa. Las calculamos con motion blur, pero solo muy poco(no real), es decir, la forma alargada la define mas la instancia que el motion blur, por lo que podemos hacer una prueba en donde la bala sea mas chica(no tan alargada) y ponerle parametros de motion blur mas reales(180 grados) y colocar 4 instancias distintas, pera que no sea la misma forma, aunque el barrido de motion blur va a ser mas cilindrico que ovalado. Respecto al back con mas balas, lo que habiamos platicado Pepe y yo es que la limitante seria el trabajo de roto que habria que hacer, es decir, yo puedo emitir mucho mas de balas, el problema seria rotear todos los elementos que estan en frente de ellas. De hecho el sistemita de balas es un emisor disparandolas a diferentes distancias respecto a la camara. ",3,11814
+90,citurriaga,"2008-07-16 12:25:13","Le falta muchisimo verde y por consecuencia le sobra magenta al exterior. Checar como referencia el reflejo de la derecha sobra la columna de la chimenea. El arbol de la derecha se ve un poquito trsite sin tantas hojas. deberiamos de cambiar la cantidad de hojas dependiendo de la progresion de la secuencia, ya que pasan mas o menos como 5 semanas de que empieza. Creo que podemos sacart un poquito mas de foco el fondo, un 15 % mas",3,11818
+91,citurriaga,"2008-07-16 12:32:56","la espalda de BP todavia tiene detalles. Se siente magenta el fondo, meter mas amarillo/verde.progresion de las hojas.-un poquito mas de contraste, los negros mas abajo-de3 nuevo, aguas con el magenta",3,11816
+92,citurriaga,"2008-07-16 12:35:31","Mismos comentarios del 190.Esta padre que se ve que es maniana y estamos viendo al norte.",3,11817
+93,citurriaga,"2008-07-16 12:53:49","El faro todavia mas amarillento. hay manera de poner el reflejo azul del coche mas presente en toda esa area? incluyendo el piso? este ya casi esta.",3,11819
+94,citurriaga,"2008-07-16 13:52:53","Subir los emisores mas, casi al doble de alturaBajar el numero de disparos todavia, como 1/3 menosaumentar la luz en ellos como al doble",3,11822
+95,citurriaga,"2008-07-17 00:57:21","Me mandaron este archivo como DVCPro HD. no lo puedo ver :(",3,11830
+96,citurriaga,"2008-07-17 01:19:14","Algo raro con los blurs, el blur mas intenso es correcto. checar un poco el trackcolor y posicion correcto, nomas dar un poquitito mas de contraste, casi nada",3,11832
+97,citurriaga,"2008-07-17 01:32:09","-Mas fuera de foco el fondo, un 20% mas-El lado derecho de las persianas necesitan tener una mascarilla que simule que recibe sombras del arbol, se ven muy prendidas y parejas como para que tengan un arbol atras.-un 5 a 8% mas obscuro. Balance de color correcto",3,11826
+98,citurriaga,"2008-07-17 13:59:22","Ya casi estamos. 2 cosas:Podriamos poner algunos emisores haciendo fuego cruzado? ea decir, rotandolos en Y en direccion a la camara. Solo 3 o 4 disparos asi-Vamos a aumentar la intensidad un 20%",3,11833
+99,citurriaga,"2008-07-17 19:06:05","Ok, mandemos DPXs",3,11838
+100,citurriaga,"2008-07-17 19:47:31","bien! podemos aumentar el contraste un poco mas en las sombras de las persianas del lado derecho?",3,11839
+101,citurriaga,"2008-07-17 19:49:40","Lsito! Vamos a mandarlo asi!",3,11844
+102,citurriaga,"2008-07-17 20:11:12","El lado inferior derecho de la ventana, el exterior esta muy contrastado como para tener tanta influencia de reflejo. Bajar ese contraste en este cuadrante unicamente y listo!",3,11840
+103,citurriaga,"2008-07-17 20:24:40","Bajar contraste en el arbol del lado derecho. Ojala eso ayude, sino, le faltara un ""key light"" del sol, y entonces tener sombras duras entre las hojas...La zona azul del cielo, asi como el edificio rojo atraz del arbol estan muy saturados. El rojo es mejor el que se deja ver al centro de la ventana, menos saturado y un poquitito mas obscuro. El azul creo que puede ser un poco mas brillante y mas amarillento/verdoso",3,11841
+104,citurriaga,"2008-07-17 20:41:35","Listo para mandar!",3,11842
+105,citurriaga,"2008-07-17 22:37:01","Listo para mandar!",3,11849
+106,citurriaga,"2008-07-17 22:42:48","Listo para mandar!",3,11848
+107,citurriaga,"2008-07-18 11:03:55","Tienes razon pepillo, se ve raro. Vamos a bajarle la saturacion un 50% y ver como se ve asi... Me recomendo ayer Peter el postroductor de CCBB que si es posible enseniemos otros encuadres aparte/en lugar de este... porque sino podemos (DF y yo) estarnos obsesionando con una sola ventana. Just food for thought...",3,11856
+108,citurriaga,"2008-07-18 15:10:36","Ya estamos con este! Podriamos en el cuadro 11 nada mas hacer un poco de interaccion en ese cuadro del balazo con el cuerpo del tipo?",3,11859
+109,citurriaga,"2008-07-18 15:18:24",Listo!,3,11860
+110,citurriaga,"2008-07-18 15:28:44","Podriamos poner los highlights mas intensos aun? aguanta?? como si le estuviera cayendo el sol directo a esas zonas. Tambien el negro del arbol un poco mas levantado",3,11861
+111,citurriaga,"2008-07-18 17:37:56",Listo!,3,11863
+112,citurriaga,"2008-07-18 18:09:06",Listo!,3,11852
+113,citurriaga,"2008-07-18 18:42:10","HIjoles pepe, si necesitamos balancearlo mas...ahora en lugar de quitarle saturacion, le quite un 2% de verde y un 4% de azul... a ver como se ve. Creo que lo que nos delata es la luz sobre las persianas que no estan igual que entintadas que el exterior... :scomo ves?",3,11869
+114,citurriaga,"2008-07-18 19:28:00",Aprobado!,3,11868
+115,citurriaga,"2008-07-18 20:42:17","Listo para poster",3,11882
+116,citurriaga,"2008-07-18 20:43:09","Listo para poster",3,11881
+117,citurriaga,"2008-07-18 20:43:54","Listo para poster",3,11880
+118,citurriaga,"2008-07-18 20:45:12","Listo para poster",3,11879
+119,citurriaga,"2008-07-18 20:48:08","Vamos a poner en Pix",3,11870
+120,citurriaga,"2008-07-18 20:54:41","Vamos a poner en Pix!!",3,11875
+121,citurriaga,"2008-07-18 20:56:34","Hay una sombra en la ventanda de la derecha de Cate que se ve una sombra de adentro que se mueve. Eso esta increible siempre y cuando no sea el mismo movimiento en todos los encuadres donde se ve. Vamos a publicarlo al Pix todos los que tengan este encuadre.",3,11872
+122,citurriaga,"2008-07-18 20:57:42",Aprobado!,3,11876
+123,citurriaga,"2008-07-18 20:58:38",Aprobado!,3,11877
+124,citurriaga,"2008-07-21 15:37:42","Listo vamos a publicarlo. Que era lo que DF puso que estaba ""frizeado""? yo no puedo verlo porque no tengo mac :s",3,11883
+125,aarce,"2008-07-21 19:51:57",,3,11890
+126,aarce,"2008-07-21 19:53:26",,3,11870
+127,aarce,"2008-07-21 19:55:42",,3,11887
+128,aarce,"2008-07-21 19:56:13",,3,11888
+129,aarce,"2008-07-21 19:56:42",,3,11889
+130,citurriaga,"2008-07-21 20:14:53","Listo hay que postearlo. Pepe, que tan fuerte estamos suprimiendo el azul en toda la escena? porque ya ves que DF es susceptible a eso",3,11885
+131,citurriaga,"2008-07-21 20:15:08","Listo hay que postearlo. Pepe, que tan fuerte estamos suprimiendo el azul en toda la escena? porque ya ves que DF es susceptible a eso",3,11885
+132,citurriaga,"2008-07-21 20:47:57","No se si el azul me encanta, pero veamos que dice DF de el. en general no es muy de colores pasteles pero puede ser que funcione aqui. Vamos a posterlo.",3,11889
+133,citurriaga,"2008-07-21 20:52:15","Hay un poco de spill en el humo, y en la parte norte/oeste de la ventana tambien... aunque si es reflejo en la ventana igual y podemos vivir con el. Necesitamos aniadir humo digital o de algun ""plate"" de por alli... estamos perdiendo mucha textura en el recorte. Aunque sea exagerarlo un poquito para que se vea mas interesante.",3,11889
+134,citurriaga,"2008-07-21 21:34:14","Great! Let's post",3,11891
+135,cnavarro,"2008-07-21 21:54:25","-Hair detail a bit noisy.-Window blind noisy too.-There are a few shot patches on the left sidem and a bit of noise there too.-There is also a bit of a ""glow"" in the matte around the shoulders.Thanks, ",3,11896
+136,citurriaga,"2008-07-22 20:55:52","Les apuesto lo que quieran a que el color azul nos lo van a mandar a la fruta... igual deberiamos de irlo cambiando.... el resto es correcto. Hay que postearlo.",3,11887
+137,citurriaga,"2008-07-22 21:10:49","Mas blur afuera, como el doble. Bajarle un poco la intensidad a los brillos, un 5%.. Subir los negros de las estructuras para que no sean ""super negro"" mas des-lavado.",3,11901
+138,citurriaga,"2008-07-22 21:13:24","Listo vamos a postear",3,11904
+139,citurriaga,"2008-07-22 21:17:46","Un poco magenta/rosa la parte superior de la ventana. Entre mas veo, creo que no solo el azul sino el hecho de que haya 2 piquitos en el fodo esta bien raro :( creo habra que incluso quitar toda la segunda casa... en general el humo funciona ya muy bien! Quitar el foco del reflejo de la esquina norte/oeste de la ventana.",3,11903
+140,citurriaga,"2008-07-22 21:18:44","No manches esa pared se ve radioactivisima... El matte paint esta correcto. Postear.",3,11905
+141,citurriaga,"2008-07-22 21:19:19","Aguas con el rosa nomas.",3,11905
+142,citurriaga,"2008-07-22 21:30:55","Creo que la lluvia esta muy intensa para ser el inicio de la tormenta. Hay que acordarnos que tiene que ir ""in crecendo"" dependiendo la hora. porfa chequen la edicion y marquen cue's de 4 o 5 diferentes ""estados"" que les parescan logicos basados en la situacion. Chequenlo con Adrian  para que les ensenie la secuencia completa. De todas maneras hay que postear para enseniarle a DF temas de densidad y contraste. Porfa poner la nota que bajaremos mas la lluvia para machar mas el progreso de la tormenta.",3,11900
+143,citurriaga,"2008-07-22 21:31:57","Creo que la lluvia esta muy intensa para ser el inicio de la tormenta. Hay que acordarnos que tiene que ir ""in crecendo"" dependiendo la hora. porfa chequen la edicion y marquen cue's de 4 o 5 diferentes ""estados"" que les parescan logicos basados en la situacion. Chequenlo con Adrian  para que les ensenie la secuencia completa. De todas maneras hay que postear para enseniarle a DF temas de densidad y contraste. Porfa poner la nota que bajaremos mas la lluvia para machar mas el progreso de la tormenta. Tambien hay que decir que la camara la borraremos",3,11900
+144,citurriaga,"2008-07-22 21:33:47","Mismos comentarios de los revisados hoy.",3,11898
+145,citurriaga,"2008-07-22 21:37:04","Lets post!",3,11899
+146,citurriaga,"2008-07-22 21:39:00","Lets post!",3,11902
+147,citurriaga,"2008-07-22 21:55:38","Checar si el balance cambiaria dependiendo de lo que hagamos con las demas tomas. En general listo para postear si no es por eso.",3,11906
+148,citurriaga,"2008-07-22 22:01:25","Mismos comentarios. En caso de que haya un cambio de balance en general en la secuencia para hacer el exterior similar al interior, aplicaria aqui. En caso contrario esta listo para postearl",3,11907
+149,citurriaga,"2008-07-22 22:05:06","Ok, listo para postear.",3,11909
+150,citurriaga,"2008-07-23 14:01:19","listo posteemos.",3,11910
+151,citurriaga,"2008-07-23 18:36:12","Ok, vamos a postear.",3,11912
+152,citurriaga,"2008-07-23 18:42:37","Ok, vamos a postear.",3,11913
+153,citurriaga,"2008-07-23 18:46:19","Ok, vamos a postear.",3,11914
+154,citurriaga,"2008-07-23 20:15:26","Hay que tambien hacer un MP del fondo a la derecha que muestre que estamos en Nueva Orleans.",3,11915
+155,citurriaga,"2008-07-23 20:20:34","Ok, vamos a postearlo",3,11916
+156,citurriaga,"2008-07-23 20:57:48","Yo creo que ya esta mas cerca. Si le ponemos un poco mas de verde para que no se vaya al magenta, y subimos los brillos (no los negros, solo los highlights) un poquito, creo que ya llegamos.",3,11917
+157,citurriaga,"2008-07-23 22:47:27","Listo para postear",3,11918
+158,citurriaga,"2008-07-23 22:52:24","Listo para postear",3,11919
+159,citurriaga,"2008-07-23 22:53:41","Super bonito! listo para postear",3,11919
+160,citurriaga,"2008-07-25 14:29:40","Si esta padre! ponganle una luz un poco mas intensa en la parte obscura del balcon del fondo del segundo piso, para que se note mas la estructura de madera y el detalle del balcon... y con eso esta listo.",3,11950
+161,ldelagarza,"2008-07-28 14:29:23","ok tu post",3,11966
+162,ldelagarza,"2008-07-28 14:29:46","ok tu post",3,11956
+163,ldelagarza,"2008-07-28 14:31:50","checar amarillo de la ventana de la parte inferior izquierda sea igual de intenso que en las otra secuelas",3,11954
+164,ldelagarza,"2008-07-28 14:32:48","ok tu post",3,11965
+165,ldelagarza,"2008-07-28 14:36:54","checar que la saturacion de color de las ventanas del fondo sean similares a lo que se pidio la semana pasada",3,11964
+166,ldelagarza,"2008-07-28 14:37:33","ok el post",3,11957
+167,ldelagarza,"2008-07-28 14:38:07","ok el post",3,11955
+168,ldelagarza,"2008-07-28 14:38:38","ok el post",3,11958
+169,ldelagarza,"2008-07-28 14:39:16","ok el post",3,11953
+170,ldelagarza,"2008-07-28 14:39:55","ok el post",3,11961
+171,ldelagarza,"2008-07-28 14:40:20","ok el post",3,11962
+172,ldelagarza,"2008-07-28 14:41:05","quitar el blue spil de la ventana de atras",3,11963
+173,ldelagarza,"2008-07-28 21:40:02",ok,3,11980
+174,ldelagarza,"2008-07-28 21:40:55","checar que el amarillo de la ventana este dentro de parametros y sea igual plate original",3,11979
+175,ldelagarza,"2008-07-28 21:45:25","borrar mano de crew atras de la silla. la imagen de la tele se ve pixeleada. reencuadrar la image de los beatles para no cortarle la cabeza al beatle de la derecha. Distorcionar las orillas redondeadas de la tele, para acentuar lo convexo del cristal. deslavar las orillas redondeadas de la tele. añadir reflejo a la parte inferior izquierda de la tele",3,11975
+176,ldelagarza,"2008-07-28 21:47:23","hacer los highlights verdes mas verdes como las luz fria arriba del dinner. Màs blur en los barandales",3,11974
+177,ldelagarza,"2008-07-28 21:53:35","subir contraste en exterior (de 15 a 20%). mover el coche y toma de agua de afuera para atras (de medio metro a un metro). a la toma de agua cambiar el shading porque el especular esta demasiado cerrado. ",3,11973
+178,ldelagarza,"2008-07-28 21:54:38","mismo comment que el anterior. ",3,11976
+179,ldelagarza,"2008-07-28 21:55:48","mismo comment que el anterior.  el cuadro 51, en el cuello de la camisa de BP hay un punto azul. checar el spill azul de la puerta detras de KB",3,11976
+180,ldelagarza,"2008-07-28 21:59:04","de la ventana de la izquierda en fondo, apagar todas las luces de adentro y poner una lampara de piso prendida pegada a la ventana de una temperatura de color un poco mas verde. Checar que la cortina no tenga exactamente la misma posicion que la ventana de en medio. checar tonos de reflejo, nada mas checar el gorro del reflejo del cocinero si es correcto",3,11973
+181,ldelagarza,"2008-07-28 21:59:51",ok,3,11977
+182,ldelagarza,"2008-07-28 22:01:36","checar aspectos tecnicos",3,11972
+183,ldelagarza,"2008-07-28 22:10:53","colibri tiene que pelear mucho mas contra la lluvia. Movimientos tienen que tener mas reaccion, movimiento secundario. sU cola debe vibrar mas agitada por la lluvia y debe estar utilizandola mas para balancearse, esta muy fija. los puntos donde el colibri se para y esta estatico deben vibrar un poco mas por efecto de la lluvia y cuando el colibri cambia de punto estatico a punto estatico lo hace penduleando, debe ser en lineas mas rectas.del cuadro 129 a 136 hay una linea negra en la ultima persiana de la derecha arriba. El agua ya esta lista",3,11978
+184,ldelagarza,"2008-07-28 22:11:18","colibri tiene que pelear mucho mas contra la lluvia. Movimientos tienen que tener mas reaccion, movimiento secundario. sU cola debe vibrar mas agitada por la lluvia y debe estar utilizandola mas para balancearse, esta muy fija. los puntos donde el colibri se para y esta estatico deben vibrar un poco mas por efecto de la lluvia y cuando el colibri cambia de punto estatico a punto estatico lo hace penduleando, debe ser en lineas mas rectas.del cuadro 129 a 136 hay una linea negra en la ultima persiana de la derecha arriba. El agua ya esta lista.aplicar color en la siguiente version",3,11978
+185,ldelagarza,"2008-07-28 22:13:47",ok,3,11981
+186,ldelagarza,"2008-07-28 22:14:58",ok,3,11982
+187,ldelagarza,"2008-07-30 04:51:50","el tercer reflejo de derecha  a izquierda de la mesa tiene todavia un tinte azul.los tonos del color cyan de las persianas de la derecha en el cuarto del fondo deben matchear exacto con el tono de cyan del cielo del exterior del mate paint.checar que el blue spil no este quitando valores de azul en las zonas no compuestas, estan afectando a la correccin de color.limpiar artefactos de superblancos de luces altas de las lamparas.",3,11939
+188,ldelagarza,"2008-07-30 04:53:34","ok.pero chacar artefactos en luces altas de las lamparas y quitarlos",3,11904
+189,ldelagarza,"2008-07-30 04:54:20","ok y mismo comentario de la anterior",3,11937
+190,ldelagarza,"2008-07-30 04:55:16","ok y mismo comentario de la anterior",3,11918
+191,ldelagarza,"2008-07-30 04:55:49","ok y mismo comentario de la anterior",3,11904
+192,ldelagarza,"2008-07-30 04:57:13","ok y mismo comentario de la anterior",3,11937
+193,ldelagarza,"2008-07-30 04:58:38","ok y mismo comentario de la anterior. checar artecfactos de luces altas en todas",3,11938
+194,ldelagarza,"2008-07-30 05:02:44","checar nivel de magenta en la parte superior de la ventana, el nivel de grano. en general checar toda la parte norte donde el humo esta presente para que se sienta bien adaptado el compuesto.checar con diferentes valores de gamma por el contraste en proyeccion hace que el detalle del humo se vea extraño.En general toda la secuencia se tiene que eliminar las dos casas y cualquier detalle de construccion en el centro del cuadro",3,11914
+195,ldelagarza,"2008-07-30 05:08:00","principalmente checar el spill del azul en la imagen. restaurar lo mas que se pueda. el comol magenta del reflejo es deamsiado intenso. hcer un match mucho mas cercano a luz de dia. Checar que no estemos afectando ninguna zona alrededor de la ventana para tener el color mas neutro posible similar a la pared del fondo del cuarto de la derecha y de la pared de la cocina.checar invasiond de magenta en la parte noroeste de la ventana donde empieza la columna y la invasion azul en esta misma columna. en general asegurase que no estemos afectando ningun color fuera de las partes que componemos. La pate superior del marco de la cocina hacer un match de los tonos azules del exterior",3,11935
+196,ldelagarza,"2008-07-30 05:12:41","En general pedir que se chequen toma por toma para eliminar el tatuaje de BP enla espalda baja. Eliminar casas y cualquier construccion del centro y dejar puro cielo y arboles. inculso eliminar postes de luz y cables de electricidad.En general checar que afectemos lo menos posible el balance de color de la toma con la supresion de azul del croma del fondo, ya que esta afectando la correccion de color",3,11940
+197,ldelagarza,"2008-07-30 05:14:39","quitar las casas y es final",3,11948
+198,ldelagarza,"2008-07-30 05:16:07","balance de color del mate paint de la izquirda en el mismo tono que la luz extrior de las persianas del cuarto del fondo",3,11926
+199,ldelagarza,"2008-07-30 05:17:09","igual que en la anerior",3,11926
+200,ldelagarza,"2008-07-30 05:21:21",aprobada,3,11891
+201,ldelagarza,"2008-07-30 05:22:36",aprobada,3,11944
+202,ldelagarza,"2008-07-30 05:24:38","quitar las dos casas de atras y en generl todas estructura que este en el centro del cuadro, pero dejar el edificio que esta a la deche del centro del cuadro. borrar foco del noroeste de la ventana",3,11887
+203,ldelagarza,"2008-07-30 05:36:17","el tercer reflejo de derecha a izquierda de la mesa tiene todavia un tinte azul. los tonos del color cyan de las persianas de la derecha en el cuarto del fondo deben matchear exacto con el tono cyan de ciele exterior del mate paint.Checar que el blue spill no este quitando valores de azul en las zonas compuestas, estan afectando la correcion de color.Limpiar artefactos de superblancos de luces altas de las lamparas",3,11937
+204,ldelagarza,"2008-07-30 05:37:20","COMENTARIO ANTERIOR EQUIVOCADO!!!!ESTE ESTA APROBADO",3,11939
+205,ldelagarza,"2008-07-30 05:39:17","Balance de color del cielo de la izquierda hacer un match con el cielo del cuarto del fondo. checar el reflejo en la mesa",3,11946
+206,ldelagarza,"2008-07-30 05:39:53",Aprobado,3,11946
+207,ldelagarza,"2008-07-30 05:40:03",Aprobado,3,11933
+208,ldelagarza,"2008-07-30 05:41:44","checar supresion de blue screen porque esta afectando correccion de color. hacer un diference matte",3,11942
+209,ldelagarza,"2008-07-30 05:42:43",Aprobado,3,11902
+210,ldelagarza,"2008-07-30 05:51:27","No tengo numero de cuadros. Pero los primeros 40 cuadros el casco tiene un halo blanco alrededor, frente al humo digital.Cuando el esta en frente del arbol caido en forma de V inversa  hay una bala que pasa detras del tronco que deberia estar en frente. no tengo numero de cuadro",3,11928
+211,ldelagarza,"2008-07-30 05:54:49","Checar casco durante toda la secuencia esta demasiado suave y brillante el mate. en la segunda explosion, el mate de la espalda y la mochila tiene un halo negro",3,11909
+212,ldelagarza,"2008-07-30 06:14:07","Temperatura de color de las diferentes ventanas del exterior de frio a calido en cuatro variaciones distintas, teniendo la version calida identica al valor de color de la luz de las lamparas de la puerta derecha.Reflejo de la marquesina de la puerta de la cocina con valores de brillos similares a los que hay en el exterior teniendo algunos reflejos brillantes iguales a los que estan en la esquinas del marco de la cocina. Checar reflejo e el piso que no tenga ningun magenta. hcer un deference matte para checar que la supresion de azul no haya variado de colo ya que esta afectando la correccion de color.eliminar artefactos de los highlights de la lampara detras de BP",3,11919
+213,ldelagarza,"2008-07-30 07:23:05","quitar las casas. Poner un poco mas de humo suave alrededor del humo duro sobre la ventana",3,11986
+214,ldelagarza,"2008-07-30 07:25:17","bajar la intensidad de luz un 30% Checar perspectiva de la parte superior del barandal que va hacia camara",3,11983
+215,ldelagarza,"2008-07-30 07:26:02","bajar la intensidad de luz un 30% Checar perspectiva de la parte superior del barandal que va hacia camara",3,11985
+216,ldelagarza,"2008-07-30 07:28:49","checar supresion del azul para balance de color de los amarillos. Bajar 5% el contraste en el exterior",3,11987
+217,ldelagarza,"2008-07-30 07:30:03","ok para publicar",3,11982
+218,ldelagarza,"2008-07-30 19:35:43","es correcto. hay que mandar los dpx a warner directo para que cheque si la correccion de artefactos de la lampara es suficiente o necesitamos limpiarla mas.copiar en ese mail a robin y a peter",3,12023
+219,ldelagarza,"2008-07-30 19:37:15","listo. aprobado",3,12024
+220,ldelagarza,"2008-07-30 19:38:28","quitar casa, los postes y cualquier detalle de estructuras en la ventana",3,12019
+221,ldelagarza,"2008-07-30 19:39:18","ok. listo",3,12025
+222,ldelagarza,"2008-07-30 19:40:02","ok. listo",3,12022
+223,ldelagarza,"2008-07-30 19:41:01","ok. listo",3,12021
+224,ldelagarza,"2008-07-30 19:42:00","ok. listo",3,12018
+225,ldelagarza,"2008-07-30 19:46:27","poner mas fuera de foco la lluvia (30%), un 5% mas de contraste afuera. checar si estamos iguales en el tono de cyan que tenemos en otras tomas, parece mas gris",3,12020
+226,ldelagarza,"2008-07-31 14:39:21","del cuadro 1 al 32 todavia hay un halo blanco en el casco del personaje principal",3,12032
+227,ldelagarza,"2008-07-31 18:50:07","ok. listo",3,12045
+228,ldelagarza,"2008-07-31 18:57:01","ok. listo",3,12044
+229,ldelagarza,"2008-07-31 18:58:15","ok. listo",3,12046
+230,ldelagarza,"2008-07-31 19:07:26","poner reflejo en la parte inferior de la tele, parecido al del lazo izquierdo",3,12047
+231,ldelagarza,"2008-07-31 19:07:56","y un 8% mas fuera de foco a la imagen de la tele",3,12047
+232,ldelagarza,"2008-07-31 19:08:20","ok. listo",3,12037
+233,ldelagarza,"2008-07-31 19:08:59","ok. listo",3,12039
+234,ldelagarza,"2008-07-31 19:09:45",ok.listo,3,12038
+235,ldelagarza,"2008-07-31 19:12:52",ok.listo,3,12040
+236,ldelagarza,"2008-07-31 19:13:41",ok.listo,3,12034
+237,ldelagarza,"2008-07-31 19:14:19","ok. listo",3,12035
+238,ldelagarza,"2008-07-31 19:15:01","ok. listo",3,12041
+239,ldelagarza,"2008-07-31 19:17:36","checar reflejo en la parte de abajo de la ventana. la mostaza esta muy blureada",3,12042
+240,ldelagarza,"2008-07-31 20:17:49","checar brincoteo de las hojas del arbol",3,12060
+241,ldelagarza,"2008-07-31 20:20:18","checar tonos de amarillos tanto de la mitad para abajo del matte painting tanto como la ventana del cuarto de atras",3,12050
+242,ldelagarza,"2008-07-31 20:21:33","ok. listo",3,12051
+243,ldelagarza,"2008-07-31 20:22:04","ok. listo",3,12054
+244,ldelagarza,"2008-07-31 20:23:02","checar que los niveles de amarillo no se hayan reventado",3,12052
+245,ldelagarza,"2008-07-31 20:24:02",ok.listo,3,12049
+246,ldelagarza,"2008-07-31 20:24:35",ok.listo,3,12048
+247,ldelagarza,"2008-07-31 20:25:30","ok.listo para postear",3,12058
+248,ldelagarza,"2008-07-31 20:26:57","el lut debe estar mal, sebe muy rosa y esta anamorfizada",3,12055
+249,ldelagarza,"2008-08-01 20:32:10","entintar un como mas cyen similar al reflejo de la tele y poner un poco de flicker",3,12070
+250,ldelagarza,"2008-08-01 20:33:36",ok.listo,3,12066
+251,ldelagarza,"2008-08-01 20:36:13","mover un poco mas el humo de arriba de la puerta",3,12069
+252,ldelagarza,"2008-08-01 20:37:18","pero unicamente si el humo el digital",3,12069
+253,ldelagarza,"2008-08-01 20:46:01",ok.listo,3,12067
+254,ldelagarza,"2008-08-01 21:07:10","regresar el poste con los cables a ver si hay una mejor composicion en el fondo",3,12063
+255,ldelagarza,"2008-08-01 21:07:56",ok.listo,3,12064
+256,ldelagarza,"2008-08-01 21:09:46","el amarillo esta demasiado prendido. checar si es correcto.el tono de afuera debe tener el mismo balance que el reflejo de luz de la pared derecha",3,12065
+257,ldelagarza,"2008-08-01 21:11:06","mismo comentario del poste y checar amarillos que esten en normas. checar el tatuaje de bp",3,12071
+258,ldelagarza,"2008-08-01 21:11:53","mismo comentario del poste",3,12073
+259,ldelagarza,"2008-08-01 21:12:57","mismo comentario del poste",3,12072
+260,ldelagarza,"2008-08-01 21:14:31",ok.listo,3,12062
+261,ldelagarza,"2008-08-01 21:16:17",ok.listo,3,12075
+262,ldelagarza,"2008-08-01 21:24:12","necesito ver el render de el colibri solo que mandaron de asylum. la animacion parece correcta. el agua quedo muy bien felicidades",3,12074
+263,ldelagarza,"2008-08-01 21:25:30","super bien. vamos a mandarlo",3,12061
+264,ldelagarza,"2008-08-01 21:26:28","otra vez mandaron el lut incorrecto y el squeze incorrecto",3,12076
+265,citurriaga,"2008-08-04 14:32:11",ok,3,12078
+266,citurriaga,"2008-08-04 14:35:50","ok funciona. postear y explicar que regresamos el posto por temas de composicion visual. para aprobacion",3,12079
+267,citurriaga,"2008-08-04 18:56:33",OK,3,12085
+268,citurriaga,"2008-08-04 18:59:11","OK todo, menos que las hojas del arbol derecho tiene un loop en el ciclo alrededor del cuadro 52",3,12082
+269,citurriaga,"2008-08-04 19:00:40",ok,3,12083
+270,citurriaga,"2008-08-04 19:02:45",ok,3,12084
+271,citurriaga,"2008-08-04 19:07:22",ok,3,12086
+272,citurriaga,"2008-08-04 19:09:09","Super bonito. Ok",3,12091
+273,citurriaga,"2008-08-04 19:10:43",Ok,3,12092
+274,citurriaga,"2008-08-04 19:12:10",Ok,3,12092
+275,citurriaga,"2008-08-04 19:12:27",Ok,3,12093
+276,citurriaga,"2008-08-04 19:14:08",Ok,3,12094
+277,citurriaga,"2008-08-04 19:15:39",Ok,3,12095
+278,citurriaga,"2008-08-04 19:20:44",Ok,3,12097
+279,citurriaga,"2008-08-04 19:24:42","Poner el tono del brillo igual al de reflejo del piso de la parte derecha. esta muy amarillo, mas cyan/verdoso",3,12099
+280,citurriaga,"2008-08-04 19:29:52","Ajustar edificios en estas tomas como lo platicado por el msn con pepe. Sombra negra al final de la toma cae en la parte superor del matte paint.",3,12100
+281,citurriaga,"2008-08-04 19:47:37","frame 56 - Linea en la espalda azul136 - blur de casco",3,12115
+282,ldelagarza,"2008-08-05 22:20:15","se nota el loop en las hojas del arbol",3,12080
+283,ldelagarza,"2008-08-05 22:20:52","ok listo",3,12168
+284,ldelagarza,"2008-08-05 22:27:03","checar cropeado en la parte superior.obscurecer mas hacia las orillas y desaturardisminuir el reflejo que viene de la parte de arriba y disminuir distorcion de orillas 25%.poner un poco de refejo de luz en la tele en el marco inferior de la pantalla similiar al que esta en el marco izquirda",3,12170
+285,ldelagarza,"2008-08-05 22:28:22","bajar un 25% luma",3,12167
+286,ldelagarza,"2008-08-05 22:30:24",ok.,3,12165
+287,ldelagarza,"2008-08-05 22:35:50","los highlights amarillos sobre el coche se ven muy saturados al igual que esta dentro de la ventana de el fondo a la derecha",3,12165
+288,ldelagarza,"2008-08-05 22:36:14","los highlights amarillos sobre el coche se ven muy saturados al igual que esta dentro de la ventana de el fondo a la derecha",3,12158
+289,ldelagarza,"2008-08-05 22:38:24","los highlights amarillos sobre el coche se ven muy saturados al igual que esta dentro de la ventana de el fondo a la derechachecar si la calle tiene lineas pintadas y detalle en la textura",3,12166
+290,ldelagarza,"2008-08-05 22:40:07","los highlights amarillos sobre el coche se ven muy saturados al igual que esta dentro de la ventana de el fondo a la derechachecar reflejos magenta en el coche y textura en la calle.checar calidad del key de la cabeza de bp",3,12155
+291,ldelagarza,"2008-08-06 18:27:38","aprobado por fincher",3,12064
+292,ldelagarza,"2008-08-06 18:28:08","aprobado por fincher",3,12024
+293,ldelagarza,"2008-08-06 18:28:25","aprobado por fincher",3,12045
+294,ldelagarza,"2008-08-06 18:28:39","aprobado por fincher",3,12051
+295,ldelagarza,"2008-08-06 18:28:56","aprobado por fincher",3,12054
+296,ldelagarza,"2008-08-06 18:29:14","aprobado por fincher",3,12044
+297,ldelagarza,"2008-08-06 18:29:27","aprobado por fincher",3,12172
+298,ldelagarza,"2008-08-06 18:30:13","aprobado por fincher",3,12172
+299,ldelagarza,"2008-08-06 18:30:31","aprobado por fincher",3,12043
+300,ldelagarza,"2008-08-06 18:30:51","aprobado por fincher",3,12078
+301,ldelagarza,"2008-08-06 18:33:34","limpiar la lampara de arriba a la derecha en todos los shots",3,12025
+302,ldelagarza,"2008-08-06 18:35:37","del cuadro 49 al 53 tidy whities",3,12084
+303,ldelagarza,"2008-08-06 18:40:31","meter colores diferentes en la iluminacion del mate paint y luz hasta el fondo del balcon.utilizar mas valores de luz de tuxteno.en general iluminar mas el balcon.meter una luz incidente de televisor en la ventana noroeste de la imagen",3,12022
+304,ldelagarza,"2008-08-06 18:57:16","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verde",3,12176
+305,ldelagarza,"2008-08-06 18:58:44","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verde",3,12037
+306,ldelagarza,"2008-08-06 18:59:01","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verde",3,12039
+307,ldelagarza,"2008-08-06 18:59:22","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verde",3,12039
+308,ldelagarza,"2008-08-06 18:59:38","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verde",3,12039
+309,ldelagarza,"2008-08-06 19:02:15","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verdetoda la secuencia de cate hay que darle prioridad para entregarlo antes para que lola fx pueda trabajar en la cara",3,11957
+310,ldelagarza,"2008-08-06 19:02:41","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verdetoda la secuencia de cate hay que darle prioridad para entregarlo antes para que lola fx pueda trabajar en la cara",3,12038
+311,ldelagarza,"2008-08-06 19:03:00","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verdetoda la secuencia de cate hay que darle prioridad para entregarlo antes para que lola fx pueda trabajar en la cara",3,11955
+312,ldelagarza,"2008-08-06 19:03:49","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verde",3,11930
+313,ldelagarza,"2008-08-06 19:04:02","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verde",3,12040
+314,ldelagarza,"2008-08-06 19:04:37","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verdechecar tracking",3,11958
+315,ldelagarza,"2008-08-06 19:05:00","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verde",3,12034
+316,ldelagarza,"2008-08-06 19:05:45","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verdechecar blue screen arriba de la cabeza si es spill o un reflejo",3,11961
+317,ldelagarza,"2008-08-06 19:06:06","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verde",3,12035
+318,ldelagarza,"2008-08-06 19:07:02","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verde",3,11962
+319,ldelagarza,"2008-08-06 19:07:30","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verde",3,11962
+320,ldelagarza,"2008-08-06 19:08:46","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verdechacr el blue screen arriba de la cabeza.la banqueta que tenga mas detalle y mas contraste, esta muy clara",3,11963
+321,ldelagarza,"2008-08-06 19:09:21","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verde",3,12075
+322,ldelagarza,"2008-08-06 19:09:35","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verde",3,12049
+323,ldelagarza,"2008-08-06 19:10:11","cambiar temperatura de color de las luces, bajar reflejo 1/3. balancear el tono de la pared de afuera mas verdechecar track",3,12049
+324,ldelagarza,"2008-08-06 19:10:50","aprobado por fincher",3,12048
+325,ldelagarza,"2008-08-06 19:11:37","correccion de color igual que en la secuencia anterior",3,12021
+326,ldelagarza,"2008-08-06 19:12:34","aprobado por fincher",3,12058
+327,ldelagarza,"2008-08-06 19:12:45","aprobado por fincher",3,12061
+328,ldelagarza,"2008-08-06 19:24:42",ok,3,12171
+329,ldelagarza,"2008-08-06 19:27:13","ok. listo",3,12173
+330,ldelagarza,"2008-08-06 19:30:10","reflejo mas oscuro similar al que esta arriba en la cabeza de john en el canto izquierdo de la imagen",3,12174
+331,ldelagarza,"2008-08-06 19:31:34",ok.listo,3,12175
+332,ldelagarza,"2008-08-07 17:25:22",ok,3,12177
+333,ldelagarza,"2008-08-07 17:26:49","reflejo magenta en el marco de la puerta",3,12178
+334,ldelagarza,"2008-08-07 17:28:16",ok,3,12202
+335,ldelagarza,"2008-08-07 17:31:34","hacer un poco mas contrastado la parte superior del balcon se ve como si hubiera humoque cyn haga el post como esta",3,12203
+336,ldelagarza,"2008-08-08 13:19:56",ok,3,12206
+337,ldelagarza,"2008-08-08 13:20:39",ok,3,12208
+338,ldelagarza,"2008-08-08 18:47:14","esta muy duro el recorte del humo...checar blue spill en las persianas",3,12211
+339,ldelagarza,"2008-08-08 18:48:07","chcar el rosa del reflejo del marco",3,12214
+340,ldelagarza,"2008-08-08 18:54:47",ok,3,12212
+341,ldelagarza,"2008-08-08 19:17:02","ok. listo",3,12217
+342,ldelagarza,"2008-08-08 22:43:44",ok,3,12218
+343,ldelagarza,"2008-08-11 22:39:50","bajar un 35% los highlights y en general la luz.Aumentar contraste en el balcon para que no parezca humo.en general ningun brillo puede tener el mismo valor que la lampara de la calle al menos que sea un foco dando directo a la camara.cmbiar el balance de color de alguna de las luces similar al reflejo de las vnetanas del primer piso",3,12221
+344,ldelagarza,"2008-08-11 22:41:09",ok,3,12219
+345,ldelagarza,"2008-08-11 22:48:58","en toda esta secuencia hay que oscurecer la banqueta, que matche con el mismo color de banqueta exterior",3,12220
+346,ldelagarza,"2008-08-11 22:52:15",ok,3,12228
+347,ldelagarza,"2008-08-11 23:03:24","en general bien, checar que el balance de color sea igual al resto de la secuencia. checar el blur del recorte de las flores se ve un poco duro",3,12222
+348,ldelagarza,"2008-08-12 02:07:53","magenta en la parte luminosa del exterior, verde en el exterior de la puerta en la parte de la cortina, barandal y piso",3,12079
+349,ldelagarza,"2008-08-12 02:09:01",aprobado,3,12177
+350,ldelagarza,"2008-08-12 02:11:06","hacer un degradado de color azul en la parte superior del cielo igual al degradado que hay en el bms 040",3,12064
+351,ldelagarza,"2008-08-12 02:11:47","supresion de blue spill en la pared de la izquierda a un lado de la puerta",3,12171
+352,ldelagarza,"2008-08-12 02:12:13",aprobado,3,12095
+353,ldelagarza,"2008-08-12 02:12:52",aprobado,3,12024
+354,ldelagarza,"2008-08-12 02:13:17",aprobado,3,12019
+355,ldelagarza,"2008-08-12 02:13:44","aprobado final",3,12025
+356,ldelagarza,"2008-08-12 02:13:57","aprobado final",3,12045
+357,ldelagarza,"2008-08-12 02:15:44","humo mas oscuro solo en el techo similar a la zona izquierda del bms 130",3,12080
+358,ldelagarza,"2008-08-12 02:16:15","humo mas oscuro solo en el techo similar a la parte izquierda",3,12094
+359,ldelagarza,"2008-08-12 02:16:51","rosa en la parte brillante del cielo",3,12217
+360,ldelagarza,"2008-08-12 02:17:18","aprobado final",3,12084
+361,ldelagarza,"2008-08-12 02:17:50","rosa en la parte brillante del cielo",3,12218
+362,ldelagarza,"2008-08-12 02:18:55","eliminar tidy whities del cuadro 50 y 51",3,12084
+363,ldelagarza,"2008-08-12 02:20:22","quitar el tatuaje a bp y viñeteo azuloso oscuro en la parte suoerior del mate painting dejar tono brillante la parte clara de la imagen",3,12085
+364,ldelagarza,"2008-08-12 02:21:29","aprobado final. utilizar como referencia de balance de color general",3,12168
+365,ldelagarza,"2008-08-12 02:22:18","aprobado final. ",3,12083
+366,ldelagarza,"2008-08-12 02:22:48","aprobado final",3,12101
+367,ldelagarza,"2008-08-12 02:23:27","aprobado final",3,12081
+368,ldelagarza,"2008-08-12 02:23:40","aprobado final",3,12044
+369,ldelagarza,"2008-08-12 02:24:48","no estaba en la proyeccion",3,12082
+370,ldelagarza,"2008-08-12 02:25:51","aprobado final",3,12206
+371,ldelagarza,"2008-08-12 02:26:21","aprobado final",3,11965
+372,ldelagarza,"2008-08-12 02:26:38","aprobado final",3,12046
+373,ldelagarza,"2008-08-12 02:27:03","aprobado final",3,12173
+374,ldelagarza,"2008-08-12 02:27:58","aprobado final",3,12086
+375,ldelagarza,"2008-08-12 02:28:25","no estaba en proyeccion",3,12208
+376,ldelagarza,"2008-08-12 02:29:46","añadir mas flickr y ¨video hum¨",3,12202
+377,ldelagarza,"2008-08-12 02:31:37","aprovado final...tomar como referencia de toda la secuencia",3,11825
+378,ldelagarza,"2008-08-12 02:32:21","aprovado final",3,12091
+379,ldelagarza,"2008-08-12 02:32:49","aprovado final",3,12092
+380,ldelagarza,"2008-08-12 02:33:01","aprovado final",3,12212
+381,ldelagarza,"2008-08-12 02:34:20","aprobado final",3,12067
+382,ldelagarza,"2008-08-12 02:37:46","quicktime no existe todavia. aprobado, pero se necesita un ¨re delivery¨porque habia un cuadro mal",3,277
+383,ldelagarza,"2008-08-12 02:38:20","quicktime no existe todavia. aprobado final",3,277
+384,ldelagarza,"2008-08-12 02:38:33","quicktime no existe todavia. aprobado final",3,5019
+385,ldelagarza,"2008-08-12 02:39:04","aprobado final",3,12115
+386,citurriaga,"2008-08-12 13:25:23","esta bueno! Solo que esta en hold este shot por razones editoriales",3,12169
+387,ldelagarza,"2008-08-13 06:33:30",ok,3,12318
+388,ldelagarza,"2008-08-13 06:34:06",ok,3,12319
+389,ldelagarza,"2008-08-13 06:34:36",ok,3,12320
+390,ldelagarza,"2008-08-13 06:35:22",ok,3,12317
+391,ldelagarza,"2008-08-13 06:36:04",ok,3,12303
+392,ldelagarza,"2008-08-13 06:37:29","checar mate de la izquierda y falta poste",3,12309
+393,ldelagarza,"2008-08-13 06:38:24",ok,3,12310
+394,ldelagarza,"2008-08-13 06:39:17",ok,3,12305
+395,ldelagarza,"2008-08-13 06:39:48",ok,3,12316
+396,ldelagarza,"2008-08-13 06:40:29",ok,3,12307
+397,ldelagarza,"2008-08-13 06:41:37",ok,3,12306
+398,ldelagarza,"2008-08-13 06:42:09",ok,3,12304
+399,ldelagarza,"2008-08-13 06:42:47",ok,3,12308
+400,ldelagarza,"2008-08-14 02:10:13","checar posicion de poste, contraste si matcha con las otras tomas y spill azul en la chimenes",3,12324
+401,ldelagarza,"2008-08-14 02:12:50","halo blanco en el pelo de JB.sacar de foco un poco mas las gotas, checar magenta y o violeta del fondo en los oscuros y bajar contraste en el exterior.el fuera de foco un 15 a 20% mas",3,12323
+402,ldelagarza,"2008-08-14 02:14:59","cambiar contraste de la ventana como si tuciera un reflejo degradado de izquierda a derecha empezando de la persiana no. 7 contande de izquierda a derechay acabando en la persiana no.3 con una diferencia de contraste de un 20 %",3,12321
+403,ldelagarza,"2008-08-14 02:17:43","sacar mas de foco las gotas un 30%. subir brillo de exterior un 15%.checar patron en el movimiento y repeticion de las gotas, se ven  muy similares.el key esta muy bien hecho",3,12322
+404,cnavarro,"2008-08-14 20:19:06",,3,11967
+405,citurriaga,"2008-08-15 11:06:01",Final,3,12308
+406,citurriaga,"2008-08-15 11:06:58",Final,3,12306
+407,citurriaga,"2008-08-15 11:08:47",Final,3,12307
+408,citurriaga,"2008-08-15 11:10:52",Final,3,12094
+409,citurriaga,"2008-08-15 11:12:59",Final,3,12328
+410,citurriaga,"2008-08-15 11:16:11",Final,3,12305
+411,citurriaga,"2008-08-15 11:34:01",Final,3,12329
+412,citurriaga,"2008-08-15 11:40:25","Final, aunque la imagen de los beatles esta todavia siendo checada para el release, asi que es posible que se cambie.",3,12208
+413,citurriaga,"2008-08-15 11:41:44","Machar el balance de color con la 320",3,12202
+414,citurriaga,"2008-08-15 11:44:50","Mas obscuro y ""tenebroso"" como la parte de abajo, igual bajar la luz de las ventanas de adentro y bajar un 10% la luz de afuera. Se siente un poco suave, aumentar el sharpness para machar el resto. Tele de la izquierda lista.",3,12303
+415,citurriaga,"2008-08-15 11:47:19","El V5 que es el que se vio es final",3,12037
+416,citurriaga,"2008-08-15 11:50:25","El V3 que es el que se vio es final",3,12039
+417,citurriaga,"2008-08-15 11:53:13","El V3 que es el que se vio es final",3,12038
+418,citurriaga,"2008-08-15 12:02:53","esta machado el cambio de la banqueta?-DF menciona que ve mucha vibracion en la banquta, a lo mejor es solo grano, checar.siento menos grano aqui, pero checar de todas maneras",3,12220
+419,citurriaga,"2008-08-15 12:05:02","La v3 es final",3,11930
+420,citurriaga,"2008-08-15 12:10:00","La v5 es final",3,12040
+421,citurriaga,"2008-08-15 12:13:12","Checar track, color de banqueta y grano o ""vibracion""",3,12320
+422,citurriaga,"2008-08-15 12:22:15",Final,3,12034
+423,citurriaga,"2008-08-15 12:27:23","v3 final",3,11961
+424,citurriaga,"2008-08-15 12:29:23","Menos contraste en el exterior, mas reflejo para matchar la toma contra. bajar luz en marco de ventana (pepe sabe cual). Shading del poste izquierdo muy ""phong"" anadir un poco de mugre o cambiar shading",3,12155
+425,citurriaga,"2008-08-15 12:32:01",Final,3,12228
+426,citurriaga,"2008-08-15 12:34:07","Ruido en banqueta, color de banqueta",3,11962
+427,citurriaga,"2008-08-15 12:35:36",Final,3,12041
+428,citurriaga,"2008-08-15 12:36:57","Color banqueta checar... si macha con el exterior esta bien.",3,12319
+429,citurriaga,"2008-08-15 12:38:22",Final,3,12075
+430,citurriaga,"2008-08-15 12:39:56","Checar track al principio",3,12318
+431,citurriaga,"2008-08-15 12:41:07","Mismos comentarios del 05",3,12021
+432,citurriaga,"2008-08-15 12:42:28","Muy cyan y obscuro, aumentar brillo. Si se puede asemejar mas a las persianas.",3,12331
+433,citurriaga,"2008-08-15 12:45:29",Final,3,12326
+434,citurriaga,"2008-08-15 12:46:48","Final. no hay QT de la version 1",3,3877
+435,citurriaga,"2008-08-15 12:48:37","Final. ",3,12322
+436,citurriaga,"2008-08-15 12:50:06","Final. Falta la tele y reloj",3,343
+437,citurriaga,"2008-08-15 13:13:05","Checar banqueta y grano",3,12317
+438,citurriaga,"2008-08-15 14:14:56","puntito al lado derecho de camara de la cabeza de JB sobre el cristal.",3,12331
+439,citurriaga,"2008-08-15 14:16:50","Lo siento igual de obscuro y cyan como el que vimos en la proyeccion (040) aumentar luz si es posible para machar mas con las persianas y bajar un poquitin cyan",3,12330
+440,citurriaga,"2008-08-15 14:32:49","frame 180 - pelo raro atravez de ventanaCreo que podemos levantar mas la luz del fondo, tanto para machar con las cortinas como para justificar un poco mas lo que se come de superlo. Puede que de shot a shot la intensidad de luz del fondo cambie, porque hay que machar las persianas y las persianas y la iluminacion general tienen una graduacion de luz, porque en teoria catrina entra mas fuerte y con ella las nubes. Es importante ir armando una edicion general para evaluar estos cambios. Porfa confirmenme que lo estaran haciendo.",3,12327
+441,citurriaga,"2008-08-15 19:47:02","Creo que esta muy cyan, comparar con los shots de referencia aprobados.",3,12336
+442,citurriaga,"2008-08-15 19:48:12","aumentar el reflejo un 15%",3,12335
+443,citurriaga,"2008-08-15 20:02:17","Cuadro 5, cuadro 10 y cuadro 14 el pelo desaparece. Si se puede a mano restaurar eso estaria increible.",3,12337
+444,citurriaga,"2008-08-15 20:02:28","Cuadro 5, cuadro 10 y cuadro 14 el pelo desaparece. Si se puede a mano restaurar eso estaria increible.",3,12337
+445,citurriaga,"2008-08-16 01:30:33","Hay un par de cuadritos que se nota el spill en el pelo- 39,40,41Se nota un poquito mas obscuro aqui el exterior y creo que es correcto",3,12338
+446,citurriaga,"2008-08-16 01:34:43","un 30-35% mas fuera de foco. Matchar luz con el anterior",3,12339
+447,citurriaga,"2008-08-16 01:35:30","Hay una linea negra-gris que no se si sea del lut o del recorte. igual con el blur se mezcla.",3,12339
+448,citurriaga,"2008-08-16 01:38:15","Postear a DF en el pix a ver que opina.",3,12340
+449,citurriaga,"2008-08-16 01:39:47","Color correcto. Sacar un 5-10% mas fuera de foco",3,12341
+450,citurriaga,"2008-08-18 21:23:39",Final,3,12304
+451,citurriaga,"2008-08-18 21:24:45","ESTE SE MANDO SIN MIS COMENTARIOS!!!!!!!!!!!!!Checar el recorte del humo, nunca lo hubiera autorizados asi. Porfas no manden algo que no haya yo autorizado antes.",3,12211
+452,citurriaga,"2008-08-18 21:25:34",Final,3,12325
+453,citurriaga,"2008-08-18 21:26:15",Final,3,12082
+454,citurriaga,"2008-08-18 21:26:28",Final,3,12340
+455,citurriaga,"2008-08-18 21:31:16","Cuadrro 117-122 malPORFAVOR NO ME MANDEN MATERIAL ERRONEO!!!!! muchas veces no puedo revisar.La banqueta YA ESTA MACHADA??? porfa haganme un ""side by side"" con el reverso de brad. DF pide que tenga mas reflejo o se note mas como la contra.",3,12165
+456,citurriaga,"2008-08-18 21:34:06","DF quiere reflejo mas presente. Existe en el plate??LA BANQUETA YA ESTA MATCHADA???",3,12317
+457,citurriaga,"2008-08-18 21:34:23","DF quiere reflejo mas presente. Existe en el plate??LA BANQUETA YA ESTA MATCHADA???",3,12220
+458,citurriaga,"2008-08-18 21:34:58","DF quiere reflejo mas presente. Existe en el plate??LA BANQUETA YA ESTA MATCHADA???",3,12220
+459,citurriaga,"2008-08-18 21:36:52","DF siente que los reflejos no matchan con el anterior corte de BP. Hagamos un Side by side y me lo mandan.",3,12166
+460,citurriaga,"2008-08-18 21:37:46","Mas reflejo. checar banqueta",3,12320
+461,citurriaga,"2008-08-18 21:37:59","Mas reflejo. checar banqueta",3,12320
+462,citurriaga,"2008-08-18 21:40:28","Acaso me estan mandando una y otra vez las secuencias ya aprobadas??????????????????Esta estaba como final en el PM, pero la volvimos a checar hoy en el delivery. Ahora gracias a eso hay cambios. Si checamos una y otra vez el mismo shot vamos a tener mas y mas cambios y nunca vamos a TERMINAR!!!!Porfavor que alguien lleve el track de eso. Hay que aniadir mas reflejo si hay manera.",3,11961
+463,citurriaga,"2008-08-18 21:41:09","Mas reflejo, checar contra los otros cuando hagamos un side by side.",3,12335
+464,citurriaga,"2008-08-18 21:41:40","reflejo si es posible sacarlo en el vidrio",3,11962
+465,citurriaga,"2008-08-18 21:42:20","Checar azul en la ventana de atraz de cate. Reflejo en la ventana",3,12319
+466,citurriaga,"2008-08-18 21:43:42","Mas reflejo. Checar spill azul y bajar aun mas el brillo del marco de la ventana",3,481
+467,citurriaga,"2008-08-18 21:44:37","final. Checar este como buena referencia tambien de el ""two shot"" abierto de la contra. El reflejo se siente como ""mayor""",3,12318
+468,citurriaga,"2008-08-18 21:45:01","Final.... Que hacemos cuando no hay QT????",3,12021
+469,citurriaga,"2008-08-18 21:45:24","Final.... Que hacemos cuando no hay QT????",3,12341
+470,citurriaga,"2008-08-18 21:46:14","Speed change rarito, hacerlo mejor hecho. Checar fluidez",3,12336
+471,citurriaga,"2008-08-18 21:46:53","Final. Falta tele y reloj",3,12337
+472,citurriaga,"2008-08-18 22:16:21","Creo que podria tener un poco mas de luz para machar las persianas. Tambien menos saturacion??",3,12342
+473,citurriaga,"2008-08-19 18:36:09","Siento que le falta luz y un poco menos de saturacion para matchar las persianas",3,12406
+474,citurriaga,"2008-08-19 18:41:09","Me podrian dar una version un poquitito mas obscura (un 10%) el exterior para ver como se ve",3,12407
+475,citurriaga,"2008-08-19 18:42:26",Listo,3,12408
+476,citurriaga,"2008-08-20 12:12:25","No esta muy suave el recorte de la cara de BP?No hay un bluespill en el brazo izquierdo de BP, donde esta la camisa remangada?El reflejo se ve bien, postear a DF en el pix",3,12411
+477,citurriaga,"2008-08-20 14:00:51",ok,3,12416
+478,citurriaga,"2008-08-20 14:13:35","Halito azulito alrededor de cate.",3,12417
+479,citurriaga,"2008-08-20 14:14:23",ok,3,12413
+480,citurriaga,"2008-08-20 14:16:36","Esta un poquitito comiditas las persianas",3,12414
+481,citurriaga,"2008-08-20 14:17:36","Esta un poquitito comiditas las persianas",3,12412
+482,citurriaga,"2008-08-20 14:19:46","el compuesto esta increible. NO se si esta muy claro para el momento que es de la pelicula. Tal vez compararlo en la secuencia",3,12410
+483,citurriaga,"2008-08-20 14:21:33",ok,3,12415
+484,citurriaga,"2008-08-20 17:28:34",ok,3,12420
+485,citurriaga,"2008-08-20 17:28:46",ok,3,12420
+486,citurriaga,"2008-08-20 17:35:38",ok,3,12422
+487,citurriaga,"2008-08-20 17:40:50","Tengo muchas dudas de la intensidad... se ve bien pero de nuevo me gustaria verlo en contexto.",3,12423
+488,citurriaga,"2008-08-20 17:49:14","vamos a mandarlo a revision de todas maneras",3,12423
+489,citurriaga,"2008-08-20 18:14:42",ok,3,12418
+490,citurriaga,"2008-08-20 18:17:00",ok,3,12424
+491,citurriaga,"2008-08-20 18:28:15","se ve un poquito azulita la persiana... es el LUT?",3,12418
+492,citurriaga,"2008-08-20 19:09:56",OK,3,12425
+493,citurriaga,"2008-08-20 19:31:12",OK,3,12426
+494,citurriaga,"2008-08-20 19:53:05",ok,3,12427
+495,citurriaga,"2008-08-20 19:58:43",ok,3,12428
+496,citurriaga,"2008-08-22 13:25:36",final,3,12415
+497,citurriaga,"2008-08-22 13:28:36",final,3,12410
+498,citurriaga,"2008-08-22 13:30:49","Un poco mas brillante y machar mas el Cyan con el resto. muy monocromatico",3,12423
+499,citurriaga,"2008-08-22 13:32:08","Final. OJO!!!! tomar de referencia de intensidad y color!!!!!!",3,12408
+500,citurriaga,"2008-08-22 13:32:33","Final. ",3,12427
+501,citurriaga,"2008-08-22 13:33:04","Final. ",3,12428
+502,citurriaga,"2008-08-22 13:33:43","se necesita mas luz y mas Cyan, comparar con 640",3,12425
+503,citurriaga,"2008-08-22 13:34:02",Final,3,12422
+504,citurriaga,"2008-08-22 13:34:26",Final,3,12413
+505,citurriaga,"2008-08-22 13:34:46",Final,3,12426
+506,citurriaga,"2008-08-22 13:35:02",Final,3,12416
+507,citurriaga,"2008-08-22 13:36:26",Final,3,12341
+508,citurriaga,"2008-08-22 13:37:01",Final,3,12409
+509,citurriaga,"2008-08-22 13:38:24","En este shot necesito que me manden con el corte de la otra tele pegado. en HD ambos shots.",3,12202
+510,citurriaga,"2008-08-22 13:39:14","Final. Solo checar que estamos en el limite de falta de detalle en el lado derecho de la ventana. En este shot esta bien, pero a DF le gusta mucho mas el lado izquierdo en cuanto a nivel de detalle del exterior.",3,12424
+511,citurriaga,"2008-08-22 13:41:20","DF siente que de los 4 cuadrantes de la tele, el nor este tiene un nivel de sharpness correcto. pero los otros cuatro estan muy suaves, asi como igual siente demasiado vigneteo. Sera cosa de compararlo con el otro corte.",3,12202
+512,citurriaga,"2008-08-22 13:44:12","blue spill en el pelo de brad contra la pared, no en el MP. Mucho grano del lado izquierdo abajo en la baqueta del MP, asi como tonos azulosos. Matcha con la banqueta del exterior??? porfavor mandar este shot, con una contra del abierto de BP, con el exterior pegados para verlos. ",3,12158
+513,citurriaga,"2008-08-22 13:46:33","recorte cara de BP. muy brillante aun la madera de atraz de CB. muchisimo grano en la parte de izquierda abajo del MP. Banqueta parece matchar. Porfavor mandar edicion de esta, la 040, el exterior y una contra de BP",3,12411
+514,cnavarro,"2008-08-22 20:02:26","Esta es la secuencia con los shots que pediste!OJO* El dnr_040 ya se esta arreglando pero esta es la ultima version que se mando.",3,12442
+515,cnavarro,"2008-08-22 20:03:09","Estos son los 2 shots jutnos que pediste.",3,12443
+516,citurriaga,"2008-09-01 11:42:08","Esto esta bien",3,5390
+517,citurriaga,"2008-09-11 13:23:44","Tiene tatuaje, el mate esta malo. Checar!",3,2562
+518,citurriaga,"2008-09-11 13:24:15","Tiene tatuaje, el mate esta malo. Checar!",3,12019
+519,citurriaga,"2008-09-11 13:24:56","Tiene tatuaje, el mate esta malo. Checar!",3,12452
+520,citurriaga,"2008-09-11 13:25:16","Perdon. Ok por DF",3,12452
+521,citurriaga,"2008-09-11 13:25:31","Perdon. Ok por DF",3,12019
+522,citurriaga,"2008-09-11 13:25:56","Ok por DF",3,12456
+523,citurriaga,"2008-09-11 13:29:15","Ok, hay que quitar en todos los DW el grano en el marco y dejarlo super negro. Cotizar",3,5433
+524,citurriaga,"2008-09-11 13:29:45","Ok por DF",3,12091
+525,citurriaga,"2008-09-11 14:41:43","Mas detalle en exterior.",3,3586
+526,citurriaga,"2008-09-11 14:42:27","Ok by DF",3,55
+527,citurriaga,"2008-09-11 14:44:20","Menos blur. Checar si tenemos informacion de la distancia focal.",3,60
+528,citurriaga,"2008-09-11 14:44:52","Menos blur. Checar si tenemos informacion de la distancia focal.",3,12418
+529,citurriaga,"2008-09-11 14:45:10","Ok by DF",3,44
+530,citurriaga,"2008-09-11 14:45:22","Ok by DF",3,12487
+531,citurriaga,"2008-09-11 14:47:27","El edificio extraniamente creco muchisimo! Checar geografia",3,12450
+532,citurriaga,"2008-09-11 14:50:07","Ok by DF",3,53
+533,citurriaga,"2008-09-11 14:51:08","Ok by DF OJO! HERO!!!",3,3588
+534,citurriaga,"2008-09-11 14:55:27","Poner una sombra de nube pequenia del lado superior de la ventana. Checar dibujo. MUUUY sutil similar al cambio de textura del lado derecho.",3,12436
+535,citurriaga,"2008-09-11 14:57:47","Poner una sombra de nube pequenia del lado superior de la ventana. Checar dibujo. MUUUY sutil similar al cambio de textura del lado derecho. Negros tienen Magenta. Checar y machar con el heroe 115",3,12436
+536,citurriaga,"2008-09-11 14:58:19","Mismas notas del 140Poner una sombra de nube pequenia del lado superior de la ventana. Checar dibujo. MUUUY sutil similar al cambio de textura del lado derecho. Negros tienen Magenta. Checar y machar con el heroe 115",3,12489
+537,citurriaga,"2008-09-11 14:58:33","Mismas notas del 140Poner una sombra de nube pequenia del lado superior de la ventana. Checar dibujo. MUUUY sutil similar al cambio de textura del lado derecho. Negros tienen Magenta. Checar y machar con el heroe 115",3,12491
+538,citurriaga,"2008-09-11 14:58:43","Mismas notas del 140Poner una sombra de nube pequenia del lado superior de la ventana. Checar dibujo. MUUUY sutil similar al cambio de textura del lado derecho. Negros tienen Magenta. Checar y machar con el heroe 115",3,3600
+539,citurriaga,"2008-09-11 15:00:13","Ok by DF",3,12516
+540,citurriaga,"2008-09-11 15:01:14","Ok by DF",3,12441
+541,citurriaga,"2008-09-11 15:01:23","Ok by DF",3,3877
+542,citurriaga,"2008-09-11 15:04:17","Demasiado BW, poner un poco mas de color, matchar con el tono de la persiana de la izquierda, que tiene un poco de azulito/cyan",3,12061
+543,citurriaga,"2008-09-11 15:06:04","Ok by DF. el nivel de saturacion de los edificios le gusto!",3,12327
+544,citurriaga,"2008-09-11 15:06:50","Ok by DF",3,12429
+545,citurriaga,"2008-09-11 15:07:39","Ok by DF",3,12413
+546,citurriaga,"2008-09-11 15:07:50","Ok by DF",3,12432
+547,citurriaga,"2008-09-11 15:08:00","Ok by DF",3,12433
+548,citurriaga,"2008-09-11 15:08:24","Ok by DF",3,307
+549,citurriaga,"2008-09-11 15:08:48","Ok by DF",3,11902
+550,citurriaga,"2008-09-11 15:10:20","Ok by DF",3,12431
+551,citurriaga,"2008-09-11 15:11:26","Ok by DF",3,6069
+552,citurriaga,"2008-09-11 15:11:38","Ok by DF",3,319
+553,citurriaga,"2008-09-11 15:11:51","Ok by DF",3,12430
+554,citurriaga,"2008-09-11 15:12:07","Ok by DF",3,12414
+555,citurriaga,"2008-09-11 15:13:12","Saturacion y contraste un poquito, comparar con heroes. checar geografia",3,327
+556,citurriaga,"2008-09-11 15:18:08","Ok by DF. Solo quiere que chequemos si la geografia es correcta",3,231
+557,citurriaga,"2008-09-11 15:18:22","Ok by DF. Solo quiere que chequemos si la geografia es correcta",3,229
+558,citurriaga,"2008-09-11 15:21:36","Ok by DF. Solo quiere que chequemos si la geografia es correcta",3,237
+559,citurriaga,"2008-09-11 15:21:59","Hay perdon, el anterior no era asi.Ok, solo hay que borrar la cortina que entra del lado derecho",3,237
+560,citurriaga,"2008-09-11 15:25:43","Ok by DF. OJO HEROE!!!!!!! Checar colores, tonos y texturas.",3,12502
+561,citurriaga,"2008-09-11 15:28:25","Ok by DF",3,12212
+562,citurriaga,"2008-09-11 15:28:59","Ok by DF",3,12454
+563,citurriaga,"2008-09-11 15:31:25","Ok by DF",3,12428
+564,citurriaga,"2008-09-11 15:32:13","FAlta mas cyan. Checar contra heroes",3,12337
+565,citurriaga,"2008-09-11 15:34:47","Falta cyan y saturacion. Checar con heroes",3,285
+566,citurriaga,"2008-09-11 15:35:45","Ok by DF",3,12453
+567,citurriaga,"2008-09-11 15:35:59","Ok by DF",3,12449
+568,citurriaga,"2008-09-11 15:36:10","Ok by DF",3,11971
+569,citurriaga,"2008-09-11 15:36:23","Ok by DF",3,343
+570,citurriaga,"2008-09-11 15:36:41","Ok by DF",3,345
+571,citurriaga,"2008-09-11 15:36:53","Ok by DF",3,12469
+572,citurriaga,"2008-09-11 15:37:04","Ok by DF",3,12471
+573,citurriaga,"2008-09-11 15:42:52","Mas Cyan, mas saturacion. Checar con heroes",3,12546
+574,citurriaga,"2008-09-11 15:43:23","Ok by DF",3,12434
+575,citurriaga,"2008-09-11 15:43:43","Ok by DF",3,12415
+576,citurriaga,"2008-09-11 15:43:52","Ok by DF",3,12435
+577,citurriaga,"2008-09-11 15:44:56","Ok by DF",3,365
+578,citurriaga,"2008-09-11 15:45:16","El que se mando es incorrecto",3,368
+579,citurriaga,"2008-09-11 15:47:51","Matchar color con el mhs862. ",3,5061
+580,citurriaga,"2008-09-11 15:49:22","Ok by DF. OJO HEROE DE OBSCURO!!!!!",3,12438
+581,citurriaga,"2008-09-11 15:52:11","Muy BW, checar mas saturacion y cyan. DF dice que si lo machamos con los midtones de la cortina que esta justo a la derecha de la ventana puede funcionar.",3,12475
+582,citurriaga,"2008-09-11 15:54:41","El trueno 6 cuadros antes del apagon. Su descripcion de como tiene que ser el trueno es: ""Thunder behind clouds"" siente que es como un foco de frankenstein nada mas.",3,12451
+583,citurriaga,"2008-09-11 15:55:34","Ok by DF",3,12524
+584,citurriaga,"2008-09-11 15:55:41","Ok by DF",3,12536
+585,citurriaga,"2008-09-11 15:55:49","Ok by DF",3,12533
+586,citurriaga,"2008-09-11 16:08:49","Tono mas verde. Matchar aun",3,12165
+587,citurriaga,"2008-09-11 16:09:05","Tono mas verde. Matchar aun",3,12158
+588,citurriaga,"2008-09-11 16:10:04","ok by DF. Heroe",3,12444
+589,citurriaga,"2008-09-11 16:11:22","ok by DF. Heroe",3,12445
+590,citurriaga,"2008-09-11 16:17:49","Muy granuliento, el color no matcha aun",3,12166
+591,citurriaga,"2008-09-11 16:21:30","Le hace falta un poco mas de blur",3,12448
+592,citurriaga,"2008-09-11 16:24:24","Mucho grano, color no matcha",3,12411
+593,citurriaga,"2008-09-11 16:26:52","Siente DF que necesita menos contraste, un poquitito mas deslavados los negros",3,12447
+594,citurriaga,"2008-09-11 16:27:37","Siente DF que necesita menos contraste, un poquitito mas deslavados los negros",3,12446
+595,citurriaga,"2008-09-11 16:28:42","Mucho grano, color no matcha",3,481
+596,citurriaga,"2008-09-11 16:29:36","Ok by DF",3,12318
+597,citurriaga,"2008-09-11 16:36:42","Comenta DF que se siente un poco ""air brushed"" Tal vez moviendolo un poco mas a la izquierda hace que no veamos esas sombras tan difuminadas del edicio de la izquierda. subir un poquitito mas el contraste y tantitito mas sharp.  tambien hay que tratar de utilizar mas variacion de tonos de gris en el cielo para que no parezca que es una misma ""tinta"" de gris.Nos van a mandar referencias de los truenos que le gustan.La lluvia tiene que ser practicamente horizontal en este momento, y lo mas rapido que se pueda",3,12549
+598,citurriaga,"2008-09-11 17:35:10","Todo bien. Pepe es posible poner un poco de motion blur en la orilla de la cortina?",3,12554
+599,citurriaga,"2008-09-11 19:16:44",Listo,3,12564
+600,citurriaga,"2008-09-11 19:22:02",Listo,3,12565
+601,citurriaga,"2008-09-15 12:18:30",Ok,3,12570
+602,citurriaga,"2008-09-15 12:20:39",Ok,3,12571
+603,citurriaga,"2008-09-15 12:28:39","Pepillo. Acabo de notar que alrededor del cuadro 182 en la parte de abajo de su cabello de la nuca se ve un halo negro. Ojala se peuda quitar.",3,12569
+604,citurriaga,"2008-09-15 12:30:53",Ok,3,12569
+605,citurriaga,"2008-09-15 12:31:06","Pepillo. Acabo de notar que alrededor del cuadro 182 en la parte de abajo de su cabello de la nuca se ve un halo negro. Ojala se peuda quitar.",3,12572
+606,citurriaga,"2008-09-16 12:33:10","Nada mas checar continuidad de negros en el 7",3,12575
+607,citurriaga,"2008-09-16 12:36:17",ok,3,12573
+608,citurriaga,"2008-09-16 12:44:21","Hay que hacer el cielo menos nebuloso ymas definido. Con cortes de cambio de color mas que solo ""burbujas"" (Checar referencia)Tambien cuando aparezcan los rayos, aumentar el detalle en la zona donde hay luz, (Checar referencia)",3,12587
+609,citurriaga,"2008-09-16 12:51:05","Hacer la lluvia completamente horizontal en este shotOfsetear los truenos para que salgan no justo sobre la disolvencia, sino casi al final de esta.Me dejarian ver el cuadro 215 con un 30% menos de blur",3,12587
+610,citurriaga,"2008-09-16 13:06:05","Ok, mandarlo",3,12588
+611,citurriaga,"2008-09-16 16:00:53","Lista secuencia!",3,12590
+612,citurriaga,"2008-09-16 16:34:44","Subirle al 150 la profundidad de campo un 3 a 5%, mas blurositoSubir los negros en el 150 un 8-10%, para que se vea el asfalto igual en ambos, asi como la mayoria de los negros",3,12591
+613,citurriaga,"2008-09-18 04:29:59","Aun no. Yo creo que planeamos que vaya para Mexico para trabajar con Pepe en estos 2 shots...",3,12613
+614,citurriaga,"2008-09-18 04:39:37","mucho mejor! Esta padre!!mas blur en las gotas, como un 10 a 13%cada trueno tiene que ser una pintura diferente, 2 cuadros de luz en las nubes no pueden ser iguales cambiar direccion y textura en cada truenosi la luz del trueno viene detraz de los edificion, no se puede iluminar el lado derecho de ellos. la luz de donde venga. Me gusta los edificios se iluminen en la cara derecha, pero entonces que no haya rayos detraz al mismo tiempo. hay un mate sobre el doctor. Checar en el cuadro 130",3,12612
+615,citurriaga,"2008-09-18 19:29:13","OK by DF",3,12565
+616,citurriaga,"2008-09-18 19:29:44","OK by DF",3,12564
+617,citurriaga,"2008-09-18 19:30:02","OK by DF",3,5430
+618,citurriaga,"2008-09-18 19:30:20","OK by DF",3,5430
+619,citurriaga,"2008-09-18 19:31:01","Checar que no se vea en Slow motion, no sabemos si era el baselight o se ve demasiado alentado. Checar contra copia de trajo",3,5430
+620,citurriaga,"2008-09-18 19:31:31","ok by DF",3,5430
+621,citurriaga,"2008-09-18 19:31:39","ok by DF",3,5430
+622,citurriaga,"2008-09-18 19:32:24","ok by DF",3,5431
+623,citurriaga,"2008-09-18 19:32:47","Checar que la velocidad matche contra la copia de trabajo",3,5432
+624,citurriaga,"2008-09-18 19:33:01","Ok by DF",3,5434
+625,citurriaga,"2008-09-18 19:33:25","Ok by DF",3,12464
+626,citurriaga,"2008-09-18 19:34:20","Ok by DF",3,5427
+627,citurriaga,"2008-09-18 19:34:43","Ok by DF",3,5428
+628,citurriaga,"2008-09-18 19:34:56","Ok by DF",3,5429
+629,citurriaga,"2008-09-18 19:35:06","Ok by DF",3,5436
+630,citurriaga,"2008-09-18 19:35:15","Ok by DF",3,5435
+631,citurriaga,"2008-09-18 19:39:06","Color de television 5% menos de saturacion y un poquito menos de luma. Checar como referencia el mhs140",3,3586
+632,citurriaga,"2008-09-18 19:40:06","Ok by DF",3,11820
+633,citurriaga,"2008-09-18 19:40:39","Ok by DF",3,12569
+634,citurriaga,"2008-09-18 19:41:37","Ok by DF",3,12570
+635,citurriaga,"2008-09-18 19:42:03","Ok by DF",3,12571
+636,citurriaga,"2008-09-18 19:42:23","Ok by DF Hero del monitor",3,12571
+637,citurriaga,"2008-09-18 19:42:50","Ok by DF ",3,12489
+638,citurriaga,"2008-09-18 19:43:13","Ok by DF ",3,12491
+639,citurriaga,"2008-09-18 19:43:26","Ok by DF ",3,3600
+640,citurriaga,"2008-09-18 19:47:54","Color doesent Match the rest of the sequences.",3,12520
+641,citurriaga,"2008-09-18 19:48:10","Color doesent Match the rest of the sequences.",3,12511
+642,citurriaga,"2008-09-18 19:48:48","ok by df",3,12061
+643,citurriaga,"2008-09-18 19:50:31","Check sharpness de las gotas. demasiado definidas. Muy blureado el fondo. Falta tinte cyan. Poner unos focos mas definidos en el estacionamiento",3,289
+644,citurriaga,"2008-09-18 19:52:45","Check sharpness de las gotas. demasiado definidas. Muy blureado el fondo. Falta tinte cyan. Poner unos focos mas definidos en el estacionamiento",3,71
+645,citurriaga,"2008-09-18 19:52:56","Check sharpness de las gotas. demasiado definidas. Muy blureado el fondo. Falta tinte cyan. Poner unos focos mas definidos en el estacionamiento",3,12457
+646,citurriaga,"2008-09-18 19:53:09","Check sharpness de las gotas. demasiado definidas. Muy blureado el fondo. Falta tinte cyan. Poner unos focos mas definidos en el estacionamiento",3,329
+647,citurriaga,"2008-09-18 19:53:23","Check sharpness de las gotas. demasiado definidas. Muy blureado el fondo. Falta tinte cyan. Poner unos focos mas definidos en el estacionamiento",3,327
+648,citurriaga,"2008-09-18 19:56:13","Demasiado suave, aunque lo checamos despues en contexto antes de cambiarlo",3,231
+649,citurriaga,"2008-09-18 19:58:14","Ok by DF",3,232
+650,citurriaga,"2008-09-18 20:00:42","Quitar el trueno del cuadro 14, y ponerlo mas bien por el cuadro 19 pero con una forma mas alargada, checar dibujo",3,241
+651,citurriaga,"2008-09-18 20:04:57","ok by DF",3,253
+652,citurriaga,"2008-09-18 20:05:13","ok by DF",3,255
+653,citurriaga,"2008-09-18 20:06:06","ok by DF",3,12496
+654,citurriaga,"2008-09-18 20:06:21","ok by DF",3,263
+655,citurriaga,"2008-09-18 20:06:44","ok by DF",3,12412
+656,citurriaga,"2008-09-18 20:06:58","ok by DF",3,12494
+657,citurriaga,"2008-09-18 20:07:09","ok by DF",3,12498
+658,citurriaga,"2008-09-18 20:07:19","ok by DF",3,12500
+659,citurriaga,"2008-09-18 20:07:33","ok by DF",3,12337
+660,citurriaga,"2008-09-18 20:07:46","ok by DF",3,12322
+661,citurriaga,"2008-09-18 20:08:14","ok by DF",3,11896
+662,citurriaga,"2008-09-18 20:08:40","ok by DF",3,12419
+663,citurriaga,"2008-09-18 20:11:04","Mas cyan/azuloso como los otros shots. persianas mas obscuras",3,12617
+664,citurriaga,"2008-09-18 20:11:26","ok by DF",3,368
+665,citurriaga,"2008-09-18 20:12:12","ok by DF",3,5061
+666,citurriaga,"2008-09-18 20:12:23","ok by DF",3,374
+667,citurriaga,"2008-09-18 20:12:31","ok by DF",3,376
+668,citurriaga,"2008-09-18 20:13:08","ok by DFHEROE de softness y color para los abiertos!!!!!!",3,380
+669,citurriaga,"2008-09-18 20:14:01","Muy obscuro, subirlo un 5 a 10%, las persianas tienen un halito negro",3,382
+670,citurriaga,"2008-09-18 20:14:19","Muy obscuro, subirlo un 5 a 10%, ",3,12474
+671,citurriaga,"2008-09-18 20:14:36","ok by DF",3,12451
+672,citurriaga,"2008-09-18 20:16:09","estabilizar. checar detalle (softness) en contexto",3,12507
+673,citurriaga,"2008-09-29 13:17:55","Los truenos aun no gustan, tomar como referencia de nuevo los truenos de matte world y de encuentros cercanos. El objetivo es que se vea menos quemado, y mas como si fuera textura de adentro de las nubes.",3,12615
+674,citurriaga,"2008-10-02 17:26:55","Lo estoy comparando lado a lado con la referencia. Creo un par de cosas1.-La intensidad del brillo sigue estando muy alta comparada con la de la referencia2.- El color del ""blanco"" o el brillo, no es solo aumentarle el luma, hay un pequenio cambio de tono o color en los ""destellos"" me parece que se calientan un poco3.- La luz, tiene una ""Logica"" es decir, no es nada mas un Key del luma y brillo"" creo que lo que hacen es escojer detraz de que nube sale el trueno, y de ahi se ""pintan"" las nubes iluminadas para que se sienta que tienen un emizor en comun. Hay nubes que se iluminan que se siente que estan en el mismo plano, y las que estan mas en el foreground no. (Checar el cuadro 1256061 de la referencia)4.- Hay un cierto tipo de truenos que iluminan todo el cielo, y otros que nada mas iluminan la zona. debe de terer que ver con la profundidad del trueno. Checarlo con la referenciaSi quieren para no perder mucho tiempo pueden mandarme los truenos solos de la duracion de la secuencia, y los aprobamos asi.El trueno que mas me gusta de nuestra animacion es el 109, tal vez porque el doctor que pasa nunca deja ver la intensidad completa. Pero hay una variacion de tono y una intensidad interesante.",3,12625
+675,citurriaga,"2008-10-06 13:38:37","Del cuadro 133 al 135 hay un punto azul en el pelo de BPEl resto se ve super bien!!",3,12626
+676,citurriaga,"2008-10-07 02:40:26","En el 220:Cuadro 1-3 Azul en sus dedos y en el brazoCuadro 24 Azul en su barbillaCuadro 26-27-28 Azul en sus dedosCuadro 60 - Azul en la manga derechaCuadro 77 - Azul en chaquetaCuadro 82-83 - Azul en estomagoCuadro 245 a 246 hay un cambio de tono en el shot en general, checar de que no sea nada del compuestoLos otros dos cortes estan bien. ",3,12628
+677,citurriaga,"2008-10-07 18:45:38","Ok! creo que funciona!",3,12630
+678,citurriaga,"2008-10-07 19:58:42",Ok,3,12631
+679,dgollas,"2008-10-08 16:44:07","Comentario de prueba",3,12632
+680,dgollas,"2008-10-08 17:10:11","Otro Test",3,12632
+681,dgollas,"2008-10-08 17:12:13","uno mas",3,12632
+682,dgollas,"2008-10-08 17:12:30",otro,3,12632
+683,citurriaga,"2008-10-08 17:18:18",asdfasfd,3,12632
+684,citurriaga,"2008-10-09 16:29:18","Podemos quitarle el Tilt que tiene hacia la derecha el colibri en el cuadro 199? Con eso ya podemos postearlo en el pix",3,12637
+685,citurriaga,"2008-10-09 17:41:45",Ok!,3,12639
+686,citurriaga,"2008-10-09 19:08:11","Ok!! super bien",3,12638
+687,citurriaga,"2008-10-09 20:12:16","hay que bajarle el contraste en general a unos valores mas o menos como los del cuadro 33.el trueno del cuadro 190 bajarle un 30% la intensidad-El cuadro 351 iluminar un poco mas el resto de las nubes, es decir, en general el cielo subirlo un poquito de luz. No a la misma intensidad que el nucleo del trueno, solamente una ligera luz en las nubes-En el cuadro 70, la nube de enfrente subirle un poquito la luz. No a la misma intensidad que el core, solo como si hubiera ""Sub-surface Scattering"" en esa nube por la gran cantidad de luz detraz de ella. Una cosa similar a lo que le pasa a esa misma nube en el cuadro 102-215 este trueno no esta bonito, igual quitarlo",3,12641
+688,citurriaga,"2008-10-09 20:33:53","Chequen como referencia de tono obscuro y de contraste el 990 ya que es justo el corte que sigue",3,12641
+689,citurriaga,"2008-10-10 19:34:24",Listo!!,3,12654
+690,citurriaga,"2008-10-14 15:50:51","Los brillos funcionan bien. Hay que bajar los medios tonos de las zonams metalicas y dejar 90% los highlights y 10% el resto.Acuerdense de bajar el brillo del coche en general hacia la derecha de cuadro, como si no lellegara luz hacia la trompa del coche",3,12664
+691,citurriaga,"2008-10-14 21:22:56","Listo vamos a postearlo con la nota de que aniadimos reflejos con movimiento. Esta ya hecho el diference matte? porque le veo un halito obscuro a el alrededor de su playera, pero puede ser el LUT",3,12674
+692,dgollas,"2008-10-15 13:14:33","Este es un comentario para alvarock",3,12529
+693,dgollas,"2008-10-15 13:27:46","Este es un segundo comentario para alvarock",3,12529
+694,dgollas,"2008-10-15 13:47:43","Este es un tercer comentario para alvarock",3,12529
+695,citurriaga,"2008-10-15 17:20:14","Listo! Hay que publicarlo",3,12678
+696,dgollas,"2008-10-15 18:53:51","otro comentario para alvarock, es el 4to",3,12529
+697,citurriaga,"2008-10-16 14:52:01","Los movimientos ya estan lineares, pero les hace falta velocidad.Checar el minuto 5:28 del siguiente clip. Este ritmo de movimiento me gusta mucho.http://www.youtube.com/watch?v=X9uxYy_Na3wcomo pueden ver, el cambio de posicion a posicion es muchisimo mas rapido, y se detiene mas tiempo en cada posicion.El movimiento en el cuadrante superior define demasiado un triangulo perfecto, hay que alejar un poco las posicion del cuadro 192 a que sea mas a laizquierda de cuadro, en el siguiente espacio entre persianas.Ya con este clip que me mandaron, me pueden nada mas mandar una secuencia con mate o sobre azul y la compongo en jefecheck.",3,12702
+698,citurriaga,"2008-10-16 14:54:17","Chequen un cuadro que les mande. No se si la postura del colibri tiene que ser un poco mas erecta.",3,12702
+699,citurriaga,"2008-10-20 14:09:48","Trueno del cuadro 70-74: Mas ""Venas"" en la nube de enfrente.Cuadro 77 -78 : Quitar93-96 Quitar102-105 Quitar151-153 quitar211-212 quitar352-253 quitar",3,12754
+700,citurriaga,"2008-10-20 20:20:27"," cuadro 70 Eliminar el truenoCuadro 71 - subir un 3% el brillo de todo el fondo, sin modificar la intensidad de la textura del trueno como esta ahora. Es decir, aumentar la luz del fondo y luego poner el trueno tal cual como esta ahoraCuadro 72 - Bajar el brillo un 30% del truenoCuadro 73 - bajar el brillo un 50%, solo tener la nocion de cambio de pixels, que no se note practicamente",3,12783
+701,citurriaga,"2008-10-22 03:25:43","Mantenlo un poquitito mas en la posicion del cuadro 230, digamos unos 14 cuadros. La transicion del cuadro 237 al 243 esta muy rapida, en lugar de 6 cuadros haganla de unos 8-10 cuadros y con un poquitito de ""Easy out"" en el keyframe de la posicion final, es decir que se alente al final del movimiento un poquitito (empieza rapido y baja la velocidad en los ultimos 2 cuadros. La posicion final tambien levantala en Y un poquito, digamos medio cuerpo de colibri, para que no se vea que viaja en linea recta perfecta a su punto final, tambien el ""latigazo"" o el rebote, haganlo un poquito mas lento y ""organico"", es decir, muevanle un poquito la posicion en Y a manera de jitter, ya que parece que se desliza por un ""canal"" que esta armado. Mantenlo en la posicion final (la del cuadro 250) unos 4-6 cuadros mas peleando contra el viento y cuando salga, que su cabezita y su cuerpo no haga ""anticipacion"", osea que no voltee como que sabe que va a ir para alla, de hecho que voltee del lugar a donde viene, como diciendo ""Quiero quedarme ahi!""... Puedes mandarme un compuesto con mate para que yo lo componga en el jefecheck.",3,12789
+702,citurriaga,"2008-10-23 17:40:58","el agujero mas ""horizontal"" mas que sea una ""bola de luz"" mas razgadito.Mandenme  unicamente el cuadro 2 antes de que armen el shot para aprovacion please.",3,12813
+703,citurriaga,"2008-10-23 18:20:29","parece bueno pero podriamos ver un cuarito compuesto?",3,12816
+704,citurriaga,"2008-10-23 18:45:21","Sobre el nuevo cuadro ya que no lo pusieron en este shot:-PArece una nube blanca en lugar de un agujero en las nubes. tenemos que hacer como que las nubes que estan tienen un cambio de densidad y se deja ver el sol a travez de ellas.-Vamos a subir tambien un poquitito (un 5%) los highlight o luces altas del resto de las nubes.",3,12816
+705,dgollas,"2008-10-30 11:06:46","asdas d",3,11813
+706,citurriaga,"2008-11-05 14:09:40","Vicky, en cuanto regreses avisame para checar la anim. El path no debe de cambiar, solo metel un poquitin de jitter y rotacion para que vibre un poquitin.Gracias!",3,12892
+707,citurriaga,"2008-11-05 19:02:06","bajale la latitud otro 60% y mandenme el compuesto de thorsten de esos cuadritos nada mas para verlos.",3,12919
+708,citurriaga,"2008-11-05 21:18:36","La entrada del cuadro 34 al cuadro 101 porfavor bajenla para que se logre ver sobre la parte horizontal blanca del edificio del fondo y que se logre distinguir. Este ""offset"" puede ser simplemente 2D",3,12920
+709,citurriaga,"2008-11-05 21:30:00","Esta es la opcion que mas se acerca me parece a lo que buscan. Deberiamos de tener la opcion que las placas hagan el flip ""horizontal"" en lugar de vertical. El punto mas importante es que no debemos de tener nunca un ""specular"" sino debemos de dar la impresion del giro con una iluminacion constant, basandonos en motion blur y en el movimiento. Creo que si mas bien mapeamos los textos sobre los planitos y le damos la animacion, tal vez podriamos tener un resultado cercano a lo que quieren.Que opinan?",3,12942
+710,citurriaga,"2008-11-05 22:39:24","Este funciona muy bien, nada mas los cartones tienen que ser invertidos, es decir negro el fondo, blanco el texto. No esta complicadisimo hacerlo asi? o es como un script modificable? porque acuerdense que tenemos que hacer un BUEEEEN de numeros.",3,12953
+711,citurriaga,"2008-11-06 21:11:00","Benny:Realmente tendria que pararse un numero especifico de segundos en el numero (el 120 en tu ejemplo) y luego continuar. El reset esta bueno como feature, si podemos poner ese feature integrado estaria increible.",3,12989
+712,cnavarro,"2008-11-06 22:00:26","Prueba Matte Painting.",3,12993
+713,cnavarro,"2008-11-07 11:28:18","Prueba de la animación de los numeros.",3,12995
+714,dgollas,"2008-11-11 15:58:34","un comentario, la hora de mi máquina es 03:57PM y la del server también. ",3,12529
+715,citurriaga,"2008-11-11 18:51:56","Veo muy presente el colibri en la primer parte, como por ejemplo en el cuadro 90. Como que la distorcion del agua no lo afecta mas que en las gotas duras. No se si tendria que verse mas deslavado.Publiquemos ASAP a DF para que lo vea, con la nota de More rain added.",3,13024
+716,citurriaga,"2008-11-11 19:14:22","Mandemoslo con las siguientes notas:-se aniadira luz de coches en movimiento-las pantallas tendran una animacion en movimiento con motivos chinos sacadas de material libre de internet y diseniadas por nosotros. Si quieren algun motivo en especial, marca o logo en especifico, que nos lo hagan saber-parpadearan las luces rojas de los edificios (las seniales de avion)-Hay que iluminar un poco mas el ""haze"" del cielo, como respuesta de la luz de la ciudad sobre la bruma nocturna-Podremos una pequenia luz de un avion pasando-Todo esto diseniado para que no distraiga del plate originalNotas para nosotros:-OJO, hay que checar si alguien que sepa chino, coteje que lo que se ve no diga ninguna obsenidad, y que son letras chinas reales. eso esta dificil pero por ahi debe de haber alguien que nos lo cheque.-OJO, hay que ver como le hacemos para la profundida de campo, a lo mejor un Z depth medio inventado para dar mas suavidad a lo que esta en perspectiva. -Tenemos algo pre-compuesto entonces? me gustaria checar el disenio del rig de las ventanas",3,13026
+717,citurriaga,"2008-11-11 19:42:57","Todavia tiene rayita enmedio! se puede quitar? tambien noto un pequenio desface entre la parte superior e inferior... tendremos planeado arreglarlo eso en el comp.De todas maneras mandemoslo a CC y produccion para tener feedback, con estas notas ",3,13027
+718,citurriaga,"2008-11-11 19:43:32","Pregunta: Estos son los timings ya correctos??",3,13027
+719,citurriaga,"2008-11-11 20:09:07","Creo que el ""fade in/fade out"" de las letras tiene que ser de unos 15 cuadros en lugar de los 45 que tienen. Probemoslo y mandenmelo, este NO lo manden a CC y produccion.",3,13029
+720,citurriaga,"2008-11-12 13:07:17","Porfa manden a CC y Produccion para aprobacion final y preparar entrega a Coria",3,13033
+721,cnavarro,"2008-11-12 15:35:35",,3,13033
+722,citurriaga,"2008-11-13 01:26:25","-Necesitaria verlo en alta resolucion, pero creo que esta un poquito suave el foco en el fondo. Tal vez sea en este caso especifico la cantidad de ""glow"" en los letreros, ya que como no esta tan suave el fondo, los glows deberian de ser mas sharps. No aplica en los close ups, donde el defoco se aumenta en las zonas muy altas de la luz-Bajar la saturacion de los colores intensos un 10 a 15%-hay que bajar el matepaint compelto un 5%-10%, checar referencia que mando aparte-Bajar los negros del fondo un 8% de intensidad-Checar con diference matte las pieles y en general el plate, la siento un poco magenta, pero no se si sea que asi viene de origen-Quitar los tornillotes cotorros de vic, no funcionan. Tambien quitar la division de enmedio. El resto del marco se ve MUY bien-Cambiar el tono TAN MAGENTA de la pantalla central y cambiarlo por un calido, o azul, o amarillo. Algo un poco mas primario para que no distraiga tanto.-La unica luz/foco rojo de los edificios que veo que pulsa es la que esta a un lado de la division del cristal, y va como ""creciendo"" de brillo... La pulsacion debe de ser muchisimo mas lenta, digamos 1 segundo de fade in, un segundo de fade out, 15 cuadros en negro, y repetir ciclo. Podemos dejar un par de edificios siempre prendidos, pero todas tienen una pulsacion similar a la que les marco.-los coches horizontales se ven super bonitos, habria que hacer que los coches que estan ""en alto"" nada mas haya algunos de los pixels de luz que parpadeen... como cuando uno ve a lo lejos una ciudad, muchas de las luces parpadean, no porque prendan y apaguen, sino porque pasan objetos enfrente que la ocluyen, pueden ser otros coches o personas, pero tiene que haber foquitos que prenden y apagan en la calle muy ligeros. Lo mismo en algunas de las ventanas de los edificios del lado izquierdo (detraz de el) donde podemos hacer un ligerisimo parpadeo en algunas de las ventanas.-Seria un bonito detalle que alguna de las ventanas de alguno de los edificios del lado derecho, ya sea el rectangular del lado izquierdo inferior, o alguno de los altos, tuvieran algun movimiento adentro como si ""algo"" se mueve.. gente, cosas, etc. Nadamas un pequenio cambio de intensidad en alguna zonita.-Hay una parte de luz amarilla que vibra muy bonito, del lado derecho... (lo anoto en mi referencia de dibujo con tinta amarilla) Ese tipod de variacion de luz es la que nos hace falta en varias zonas.-Poner unos puntitititos blanquitos de estrellas, solo unos cuantos de estrellas intensas o planetas-El reflejo de ""EL"" esta muy a la derecha, habra que pegarlo mas a el como esta el de ella-El reflejo de la lampara bajarlo un 5%-Borrar del tapete una division que se ve en la pata derecha de la mesa-TODAVIA NO SE PUEDE ENSENIAR AL CLIENTE",3,13045
+723,citurriaga,"2008-11-13 01:39:36","Super bonito!! El glow de su cabello hace que el compuesto se integre increible!-5% mas fuera de focoRecorte increible, me gustaria checarlo en alta-mismas notas de focos rojos y pantalla morada-OJO... Aqui si noto ese cambio de brillo en las luces de los edificios que esta al lado derecho de ella. Los focos varian un poquito en unas de las ventanitas. Se ve super vien eso!-tal vez los negros podrian estar un poquitito mas aterrizados, digamos de 5-10%, del fondo, no del reflejo-Mandar a CC y produccion como referencia work in progress con mis notas.",3,13046
+724,citurriaga,"2008-11-13 01:47:28","Checar geografia, creo que el back tiene que moverse un 30% a la izquierda-El tono del ""Haze"" del fondo, (el brillo del cielo en la distancia) se ve muy blanco, tiene que ser del tono de luz de mercurio como el de las luces de la ciudad... mas amarillito-le falta un 10a15% de fuera de foco me parece-Del lado derecho,  arriba del letrero rojo que parpadea, se ve una ""trama"" tipo organo de iglesia bastante raro, buscar otro tipo de reflejo o referencia de reflejo-El bleeding de su hombro color magenta creo que es demasiado o necesita otro tratamiento en el momento de cambio del contorno.-Asi como el brillito amarillo del lado izquierdo sobre su hombro esta muy intenso.-El tono amarillo de esa ventana en particular, la que provoca el brillo en el hombro del lado izquierdo, tiene un color raro, matchar mas con el tono de luz de las ventanas del lado izquierdo, mas intenso y quemado.-Aplicar mismas notas generales del MP del tko010-matchar con tonos de negros cuando sean aprobados del tko020-No mandar al cliente aun.",3,13043
+725,citurriaga,"2008-11-13 01:48:10","Trabajar con mismas notas de tko030",3,13042
+726,cnavarro,"2008-11-13 13:47:21",,3,13046
+727,citurriaga,"2008-11-13 15:12:03","La entrada, del cuadro 75 al 94, parece que el colibri esta arriba de las gotas! Se nota perfecto del cuadro 83, si regresas, hasta las gotas se van y vuelvenEl resto se ve padre.",3,13050
+728,citurriaga,"2008-11-14 16:58:32","Este creo que geograficamente es incorrecto. Para que sea relativamente real a SFO, se tendrian que ver los dos picos colgantes. Atacho dibujito",3,13064
+729,citurriaga,"2008-11-14 17:04:07","Mismo caso que el anterior, la parte del ""cable tenso"" va al otro lado, sino seria como que los chamacos estan en alcatraz jajaja",3,13065
+730,citurriaga,"2008-11-14 18:34:46","Sip, el 4 esta super bien! este es otro a mandar...",3,13068
+731,citurriaga,"2008-11-15 01:21:00","ESTA INCREIBLE!!!!Se puede enseniar a CC, con los siguientes comentarios:-Siento que el foco del ""plate"" esta en la lampara, asi que el fondo, tomando como referncia su respaldo de la silla, tendria que estar un poquititito mas fuera de foco. Se que dije que lo hicieramos mas sharp, pero creo que ahora que no tiene los glows, podria funcionar muy bien un 5% mas fuera de foco para mimetizarlo con los contornos de los personajes-Las 2 estrellas/planetas (del lado izquierdo y derecho) no deben de pulsar. Son los unicos elementos que no pulsarian en cuanto a emisores de luz.-El cuadro del reflejo estaria bien una de dos opciones, o que se muchisimo mas grande, digamos 4 o 6 veces mas grande (ostentoso) o del mismo tamanio pero que sea un van gogh o un monet, algo que lleve ~150 anios-La division del cristal, tambien puede estar un poco mas fuera de foco, pero mas importante que eso, creo que serian 2 cosas: 1)Probar aumentar la luz/intensidad en esa area, digamos 1.5 veces, ya que la luz se concentra mucho en ese tipo de regracciones, y 2) agregar un efecto de ""refraccion"" o ""division de los colores de la luz"" para que se sienta mucho mas el efecto de cristal. Una aberracion cromatica. Tambien estaria bueno probar si aniadiendo un brillo o algo en la parte de arriba del corte del cristal podemos dar un efecto un poco mas ""cristaloso""-Tomando en cuenta lo magenta de sus caras y telas de la ropa, creo que podria el fondo ser un poco mas magenta, un poquitito mas ""desvalanceado"" ya que el fondo tanto en los negreos, como en los medios y los altos, se ve muy balanceado. Creo que si desbalanceamos hacia el magenta los negros y los medios podemos todavia integrarlo mas.Esta espectacular, felicidades!!",3,13074
+732,citurriaga,"2008-11-15 11:36:44","Creo que en ambos casos, el 20 y el 40. me gustaban mas los optical blurs circulares... Es mi imaginacion o cambio del anterior?-Lo que pasa en la rejilla de la silla esta un poquito demasiado intenso, se ve que es filtro digital. Tambien el azul creo que no es suficientemente intenso como para que tenga tanto bleeding sobre el, o lo hacemos un poco mas intenso o a ese tono le bajamos el bleeding sobre su nuca.-En el corte del vidrio necesitamos lo mismo que en el 10, eso es",3,13072
+733,citurriaga,"2008-11-15 11:42:51"," 1)Probar aumentar la luz/intensidad en esa area, digamos 1.5 veces, ya que la luz se concentra mucho en ese tipo de regracciones, y 2) agregar un efecto de ""refraccion"" o ""division de los colores de la luz"" para que se sienta mucho mas el efecto de cristal. Una aberracion cromatica. Tambien estaria bueno probar si aniadiendo un brillo o algo en la parte de arriba del corte del cristal podemos dar un efecto un poco mas ""cristaloso""-Creo que asi como es probar mas intensidad, los negros en la zona de refraccion de la union del cristal podrian ser muy muy negros...-Su pelito del lado derecho se nota un poco blureadito y raro. Podemos, si eso les funciona, mover tantito el fondo para que no tenga algo tan obscuro en esa parte y poner algo brillante.",3,13072
+734,citurriaga,"2008-11-15 11:45:12","sip... los hexagonos no me laten... :SEs mi imaginacion o no estaban... tambien es muy raro que en las luces puntuales esten, y en las alargadas se vean tan ""smooth""-Si presentamos esto a CC, hay que checar que no le vayan a gustar las ""luces navidenias"" hay que especificar que es un error, a menos que me digan que asi lo pidio el o hay alguna razon para ponerlas...",3,13076
+735,cnavarro,"2008-11-15 21:03:34","Estos son las notas para CC del shot:El shot sigue en status WORK IN PROGRESS.-El foco del ""plate"" esta en la lampara, asi que el fondo tomando como referencia el respaldo de la silla, tendria que estar un poco mas fuera de foco. 5% mas fuera de foco para mimetizarlo con los contornos de los personajes.-Las 2 estrellas/planetas (del lado izquierdo y derecho) no deben pulsar. Son los únicos elementos emisores de luz que no deben pulsar.-El cuadro del reflejo estaria bien una de las siguientes opciones: *muchicimo mas grande 4 o 6 veces más grande (ostentoso) o del mismo tamaño pero que sea un Van Go o un Monet algo de mas de 150 años,-La división del cristal también puede estar un poco más fuera de foco. 1) Probar aumentar la luz/intensidad en esa área, 1.5 veces, ya que la luz se concentra mucho en ese tipo de refracciones. 2) Agregar un efecto de ""refracción) o ""división de los colores de la luz"" para que se sienta mucho mas el efecto de cristal. Una aberración cromática. Probar también añadir brillo o algo en la parte de arriba del corte del cristal para dar un efecto un poco más ""cristaloso""-Tomando en cuanta lo magenta de sus caras y telas de la ropa, el fondo podría ser un poco mas magenta un poco más ""desbalanceado"" ya que el fondo tanto en los negros como en los medio y los altos se ve muy balanceado, si se balancea hacia el magenta los negros y los medios se puede integrar más.",3,13073
+736,citurriaga,"2008-11-19 14:20:53","Podemos mostrar a CC.Estos son mis comentarios:-Hace falta grano, aunque me gustaria verlo en DPX para evaluar esto correctamente, en los jpegs le falta bastante-El reflejo de la pantalla azul/cyan del fondo no tiene el ""corte"" del cristal reflejado-Los aviones que viajen a la mitad de velocidad, y uno de ellos un poquititito mas rapido-Un Poquititito mas fuera de foco el fondo, digamos un 3%",3,13082
+737,citurriaga,"2008-11-19 14:36:05","Hay un halo blanco en algunas zonitas de su pelo. Tambien creo que el fondo, tomando en cuenta la cantidad de magenta que tiene el plate original en las zonas obscuras, deberia de tener los tonos obscuros mas magentas.Mando cuadro de referencia.Mandar a CC",3,13081
+738,citurriaga,"2008-11-19 14:44:57","La linea de la derecha del corte del cristal todavia no funciona...Hay varias cosas que me brincan:-Una es el ancho, creo que en relacion a la toma abierta, que muestra unos cristales como los que Obama tenia en su toma de presidencia, este parece que tiene unos cristales del ancho de la mesa... checar uno contra otro. A mi en lo personal se me hacia que los cristales de la toma abierta estaban muy gruesos, pero por otro lado nunca he estado en un edificio tan alto con un ventanal tan grande... y creo que asi como yo me lo trago, es tragable. Lo que no esta padre es que no matche este con la 10-Hay un halo obscuro a la derecha del corte, ese que se supone que es?-En general se ve como muy suave y sobrepuesto, deberia de tener una linea que es la que esta expuesta a la camara, luego el resto siempre lo estamos viendo ""detraz"" del vidrio de enfrente.-Si aparece un tono verde en el corte, que sea muy liguero y sutil, ya que no hay muchos tonos verdes en el fondo, y supongo seria resultado de la aberracion cromatica. Si es asi, es simplemente un destellito.El resto funciona muy bien, mandemos a CC porfas",3,13080
+739,citurriaga,"2008-11-19 18:16:21","Super! este creo que ya es final. Dejenme checar nada mas los DPX para ver la textura del grano y lo finalizamos. Si Pepe y Nat pueden echarle un ojo en la sala de proyeccion estaria padre tambien. ",3,13089
+740,citurriaga,"2008-11-19 19:51:27","Se ve super bonito! La division del cristal aqui se ve bien padre, aunque delgada, pero funciona. Voy a checar las nuevas versiones de los demas. Tambien me gustaria checar todo corriendo para ver continuidad... Cyn cuando me mandas eso??",3,13090
+741,citurriaga,"2008-11-19 20:02:16","Me encantaria verlo editado, ya que la animacion del fondo es identica al 50. Porfa pidan la edicion final para poderlo ver... de todas maneras supongo que habra que desfasar un poquito el fondo si existe materialEl compuesto se ve muy bien",3,13091
+742,citurriaga,"2008-11-19 20:08:08","Listo! Solo quiero checar continuidad de la cortada con el edit. Cyn: Tambien plis mandame dpx de todo lo que apruebe...",3,13092
+743,citurriaga,"2008-11-19 20:13:13","Final, super bonito. Mandenme porfas dpx para checar pero creo que este ya esta finalizado.",3,13093
+744,citurriaga,"2008-11-20 16:45:29","Su pelito del lado derecho no me gusta. el ""gallito"" que tiene. No habiamos igual quedado en que poniamos algo atraz para que tuviera luz e igual asi ocultar un poquito?",3,13099
+745,citurriaga,"2008-11-20 16:53:45","Si pelito izquierdo se ve vibrosito sobre el rojo... :S",3,13101
+746,citurriaga,"2008-11-20 16:57:58","No le hace falta el ""flare"" o bleeding de las luces del fondo sobre su pelo? veo los cortes super duros.",3,13100
+747,dgollas,"2008-11-25 11:32:49",pipo,3,12529
+748,dgollas,"2008-11-25 11:34:07",pipo,3,12529
+749,dgollas,"2008-11-25 11:37:21","pipo la pinga",3,13038
+750,citurriaga,"2008-11-28 16:28:53","Vamos a mandarle un QTcito a CC para su aprobacion",3,13159
+751,citurriaga,"2008-12-01 18:21:26","Esta muy raro porque primero aparece el 1900 y el numero acaba en 1032... Tiene que permanecer el 0 hasta que lleguemos al 1000",3,13175
+752,citurriaga,"2008-12-01 18:44:09","Hay que preguntarle a CC si quiere que se desaparezcan las letras... ya que creo que si se quedan seria mas entendible y bonito-Podemos subir un 4% el numero con relacion al aniuo? se ve muy cargado hacia abajo.",3,13174
+753,citurriaga,"2008-12-02 13:04:26","Va muy bien. Hay un par de cosas que habria que checar:-La textura procedural no sirve tanto, creo que seria mejor pintarla dependiendo de las zonas donde deberia de haber mugre/polvo (digamos mas en la parte de abajo, alrededor de las helices, etc.-Estaria bueno pintar tambien ""escurridas"" como en las uniones de piezas grandes, o en el timon. Como que llueve y se escurre aceite/liquido por ahi-Los especulares se ven demasiado ""phong""-Las llanatas no parecen de goma, tambien creo que les falta grabado-la parte que mejor funciona es la parte de las helices, supongo por el motion blur. Hagamos en cualquiera de los stills/pruebas de animacion siempre un ""jitter"" de camara leve para tener algo de motion blur. O a lo mejor jiter en el propio helicoptero.-Tratemos de poner una foto de fondo un poquito mas a alta resolucion-Probemos como se ve con el LUT del proyecto, yo tengo uno para jefecheck, si no lo tienen se los mando-Las areas ""polvosas"" o con la textura de tierra no pueden tener specular, de hecho deberian de tener un ""diffuse"" diferente.",3,13178
+754,citurriaga,"2008-12-02 14:26:53","Esta bueno! solo mencionen a CC que creo estaria padre dejar las letras todo el rato-Veo una linea rarita de la sombra... habria que hacer un gaussian blur o algun otro tipo de blur en la sombra",3,13181
+755,citurriaga,"2008-12-02 14:32:00","el ultimo cuadro tiene un detallito en la sombraEl resto OK",3,13182
+756,cnavarro,"2008-12-03 20:33:00","Para Revisión - Se agregó el drop shadow y se hicieron cambios en la animación de acuerdo a los comentarios recibidos el 02/12/2008.",3,13186
+757,dgollas,"2008-12-04 12:24:07","come pinga",3,13149
+758,citurriaga,"2008-12-04 16:31:57","Ambas opciones estan padres, pero Pep me dijo que prefieren mostrar las que no estan tan padres porque CC y Tlaca no quieren cambiarlo.Como ven?",3,13191
+759,citurriaga,"2008-12-04 16:43:16","Creo que el color esta muy prendido, habria que bajarle saturacion un poquitito, no es tan rojo es un poquito mas magentita-Aunque es super flat, creo que sobretodo en las ""coyunturas"" podria tener algo mas de mugre. Podriamos tal vez hacer una especie de oclusion pass muy extendido que sirva de esto. Voy a mandarles unas fotos que tome donde muestro eso.-El specular esta muy prendido, blanco y puntual. Tiene que ser practicamente del color del diffuse, muy abierto y de un 15% mas de intensidad en comparacion con el diffuse.",3,13190
+760,dgollas,"2008-12-15 17:25:29","este es un comentario",3,13208
+761,citurriaga,"2008-12-22 18:15:22","Podremos ver una prueba con menos fuera de foco?CI",3,13260
+762,citurriaga,"2008-12-22 20:32:49","Listo! se ve super bien. Ahora nada mas como detalle hay que checar la toma anterior para ver si la continuidad del cielo funciona.",3,13261
+763,citurriaga,"2008-12-22 21:42:58","ahi va... me gustaria menearle a la escena de vue... es posible que me la manden o requiere de muchos assets??",3,13265
+764,citurriaga,"2008-12-29 12:57:58","Creo que el blur del mate esta muy duro... el motion blur de los personajes  se ven diferentes cuando estan sobre un fondo ""no green"" a cuando estan en el fondo green.Creo que el back deberia de bajar un 15%Siento tambien que le falta un poquito de ""light bleeding"" de las luces altas.... como las de Backyard... comparen lo que sucede con el neon verde de la izquierda... si podemos replicar ese efecto a diferentes escalas dependiendo la frecuencia de color del fondo estaria increible.Siento que las luces calientes del fondo estan un poquitito magentas....aunque con el LUT de ellos se ve bien...",3,13279
+765,citurriaga,"2008-12-29 13:13:43","El fondo lo veo fijo contra el movimiento del plateHay que checar consistencia de color entre los diferentes shots, este lo veo mas cyanel compuesto se ve bien",3,13275
+766,citurriaga,"2008-12-29 13:43:02","Esta super padre! lo unico tal vez es bajar el mate al igual que en el chn10",3,13274
+767,citurriaga,"2008-12-29 16:15:54","No se que le hicieron pero no encontre nada... asi que supongo esta bien!",3,13271
+768,citurriaga,"2008-12-30 13:09:04","-El pueblo esta sobre los arboles, supongo sera algo de mates... eso le ayudara a no verse que se resbala-Alrededor del pueblo hay que hacer una textura un poquito mas ""desgastada"" o ""vivida"" como pasitos, tierra de diferente textura, etc-Tambien hay que poner algunos ""spot lights"" en el vue para simular la luz que sale del pueblo que ilumina los arboles y el piso alrededor del pueblo-El render 3D se siente un poquito mas ""soft"" que el plate... sera subirle el ""sharpness"" al render? o en comp... sera profundidad de campo? esto es lo que me mencionabas pepillo?-Los faros y en general las luces altas deberian de matchar mas con el plate... habra que buscarle una manera para simular las aberraciones que le suceden a la f35 en cuanto a luces altas, tal y como lo platicamos en la secuencia del restaurant chino-hay que renderear hasta el cuadro 550, para dejar unos 45 cuadros de ""colita"" para que editen sobre eso-Estoy de acuerdo en quitar las ""MetaClouds"" que cruzan camara-Las texturas/arboles/geometria del vue se ve muy bien-veo algo chistoson en el motion blur del cielo... igual no me molesta pero esta raro... asi es el motion blur de vue?-Me gustaria que jugaramos con un POQUITITO de movimiento en las nubes, sobretodo cuando esta la camara estatica al final. un detalle minimo.",3,13325
+769,citurriaga,"2009-01-02 01:36:43",Ok!,3,13349
+770,citurriaga,"2009-01-02 02:01:51",Ok!!!,3,13347
+771,citurriaga,"2009-01-02 02:40:04","-Del primer corte al segundo la continuidad esta rara, en el cuadro 174 el Helicoptero tiene que estar mas adelante, lo que le corresponderia del tiempo avanzo lo que dura el corte anterior.-La salida del cuadro 241 esta muy cerca, que se acerque menos-Cuadro 702 el giro esta muy rapido. Hay que hacer un ""Hold"" de unos 24 cuadros, y empieza poco a poco a girar y a moverse para atras, no necesariamente completamente ""girado"" dando la espalda a la camara, con que este a 140/120 grados de la cara esta bien-911 - Ahora si esta dando la espalda a camara, se detiene unos 20 cuadros, y empieza lentamente a rotar a camara de nuevo. Otra vez no es necesario ver el giro completo, solo con la intencion y mostrar que viene de regreso.-1575 - Mas cerca! digamos el doble de tamanio1723 - Mas cerca, doble de tamanio1880 - Poner unas particulas de ""humo"" que salen tantito antes que se abra la compuerta2114 - Pongamoslo mejor mas a la derecha, casi cortandose la mitad del helicoptero, y un 15-20% mas grande2168 - Mas cerca, como el doble i principalmente viendo la panza del helicoptero (helicoptero mas ""tilteado"" para arriba) para entender bien la caja. El helicoptero ya no jira. Particulas cuando suelta la caja2506 - Mas grande, como un 40%-50%, mientras gira se va cerrando la compuerta----Podemos hacer un ""track"" de camara rough para poder ver mas integrada la animacion??",3,13346
+772,citurriaga,"2009-01-02 02:42:56","2850 - Helicoptero un 40% mas chico/lejos",3,13346
+773,citurriaga,"2009-01-02 03:14:52",OK,3,13324
+774,citurriaga,"2009-01-02 03:24:00","Hay un outline en el recorte, sobretodo se puede notar en el cuadro 73 en la mano o en el 80 en su cadera (del chino)",3,13322
+775,citurriaga,"2009-01-02 19:42:29","Super bien.Cyn, pregunta si el reflejo de la puerta es una bandera y hay que quitarlo. Te mando referencia",3,13350
+776,acastellanos,"2009-01-02 20:53:05","Ya tengo todos los cambios de la secuencia del helicoptero pero no encuentro Quicktime Pro en ninguna computadora para hacer el .mov. Y no creo que sea buena idea subir todos los frames al PM. El lunes cuando llegue pregunto quién lo tiene y te lo mando a primera hora. Por si tienes acceso a la red, aquí están los frames: /nfs/benito1/Project/PU103/hcp/common/asset/helicoptero/work/acastellanos/maya/animacion/images -Aníbal.",3,13346
+777,citurriaga,"2009-01-05 14:29:22","368 - Subir un 50%1150 - que se note que entra desde mas afuera al principio. Mas viaje de entradaCuadro 1579 - Subir helicoptero a que se corte una tercera parte de el1736 - Subir un 15%2167 - Mirror de la rotacion. Que este orientada la trompa para el lado izquierdo2510 - Subir hasta que casi no se vean las helices (un 100%)2867 - Subir un 100%Podria vic arreglar el track en el corte 1 y 2? ",3,13357
+778,dgollas,"2009-01-05 16:28:53","comentario de prueba",3,13348
+779,citurriaga,"2009-01-06 11:25:53","todo en general se ve muy bien! Solo la silla de enfrente, por ejemplo en el cuadro 67, se corta raro. Checando esto ya estamos.",3,13366
+780,citurriaga,"2009-01-06 18:52:50","We are still working in the geometry, texturing and final quality for buildings and color balance for the entire scenery. This is mainly for position/animation/duration evaluation. A couple of days far from being a final... Thanks!",3,13376
+781,raubuchon,"2009-01-07 20:24:56","I think this is looking very good.  The speed is right.  I'd like to see a little more detail in the mountains the the surroundings of the town (maybe that's just temp -- not sure) and that might mean cheating the moon light source a little more.  We had also talked about passing through some random clouds to enhance the speed.  Otherwise good stuff",3,13376
+782,citurriaga,"2009-01-13 16:14:36","Este creo es el mas sencillo. Dependiendo del scouting podemos diseniar mas a detalle la ciudad. Tambien estamos empezando a jugar con personajes en movimiento para tener una idea de cuantos necesitariamos.",3,13458
+783,citurriaga,"2009-01-13 17:01:00","Creo que este acabaremos hacendo al personaje en croma lo mas que se pueda subir una grua, de ahi extenderemos digitalmente. El tal vez tendria que tener algun elemento donde este parado, el resto croma y roto.El fondo (ciudad) sera un plate en Helicoptero, a menos de que indiquen lo contrario.El estadio obviamente es solo un template. habra que discutir el disenio y muchas cosas mas. Como ven la altura??",3,13460
+784,cnavarro,"2009-01-14 18:06:47",Referencias,3,13483
+785,cnavarro,"2009-01-22 16:05:19","Esta es!",3,13196
+786,citurriaga,"2009-01-23 20:54:54","Team PU:Just to make a quick note about this work in progress.We are getting happy with the overall design of the shot, but this specific render is missing a couple of very important details:1.- The quality of the trees and lighting surrounding the town is still in a work in progress. I just saw a new render that we are sending on Monday to you that looks much more detailed. We will publish it as soon as we have it.2.- The mountains at the distance doesen’t have any trees and snow, we are just adding that last layer for Monday post.3.- We tweaked a little bit the animation so we have a longer flight, finishing about 60 frames later4.- There are details on the lighting on the “digital town” that we are fixing (Mostly on the far left and far right of screen) and we are going to have hopefully nice and ready on Monday.5.- A fixture in Motion Blur and video grain needs to be added to the digital section of the shotThanks so much for reading and reviewing the shot, and please, if you have any new thoughts or ideas please let us know.Charlie",3,13538
+787,raubuchon,"2009-01-24 13:47:04","I think Butterfly Seq. #1 is very close, but I would like the butterfly to stay on the stick and just flutter its wings occationally.  The idea was to remove the existing butterfly from the bottom of the jar.",3,13536
+788,raubuchon,"2009-01-24 13:49:15","Butterfly Seq. #2 is looking very good.  I would like to see the butterfly get fried at the end in the pain wall with a spark and then fall to the ground like a burning ember.",3,13537
+789,citurriaga,"2009-02-02 19:28:43","-En general es un boceto de las formas generales.-Hacen falta todas las estructuras de rampas y elevadores, asi como las butacas y el detalle. Digamos que es un ""boceto 3D"" de la obra negra-La superficie curva en la parte externa de las gradas mas pequenias, tendra un patron mas ""real"" ya que construir una superficie tan grande de cemento es imposible-Las lamparas son un ""placeholder"". La idea es poner una bace solida de cemento con una estructura de maya entrelazada-los techos tendran una malla o tiras de alambre que las sostiene desde la parte de atraz-tambien quiero poner una matriz de lonas en los lados, para que no se vea tanto como ""costillas""-La altura es 480 metros-Los renders son obviamente ejemplos muy rough nada mas para ver escalas. Porfavor comentar al respecto para presentacion. La escala contra el WTC y la Torre Mayor es real.-NO HAY TEXTURAS, ni los colores son reales-La escala de las personas es real en el shot debajo de las estructuras",3,13636
+790,dgollas,"2009-02-04 18:50:40",prueba,3,13725
+791,dgollas,"2009-02-04 19:20:07","asldkj aslkdj a",3,13737
+792,vlizarraga,"2009-02-04 19:22:51",prueba,3,13738
+793,vlizarraga,"2009-02-04 19:28:20",otra,3,13738
+794,vlizarraga,"2009-02-04 19:32:04",otra,3,13738
+795,citurriaga,"2009-02-05 10:40:04","Esta super bien! Definitivamente necesitamos mas movimientos, y mas gente parada... tiene?Tambien pues habra que dividir en 3 esta animacion. Ahora, aun con la licensia de Massive no puedes distribuir la simulacion... igual deberias de probarlo en una delas maquinas de 8 procesadores",3,13726
+796,citurriaga,"2009-02-06 00:28:52","Vic:Se ve super bien!-Para ir investigando... Hay que bakear el Occlusion de las sillas... no creo que sea mucha bronca, y sobre este pondremos el occlusion de los gueyecitos.. -Hay que quitarle los descansa brazos. -De hecho, el modelo del estadio azteca creo que son mas sencillos. LLuis debe de tener alguna fotografia, son como asientos bien sencillos.-Cuantos poligonos tiene cada silla??-Estan muy brillantes. Tienen que ser opacos, sin reflejos raytrace, solo especular super abierto y blanco-Si pueden bakear Oclussion, seguro se puede bakear el shader que Benny y yo armamos, ya que utiliza la rutina de Gather. Ese shader haria en lugar de obscurecer, polvo o mugre blanca/clara.-Probaste LOD?-Creo que incluso el nivel de ""puntitos"" del occlusion es mas que suficiente, funciona bien-El tamanio de las escaleras esta padre.-Bamos a trabajar en turntables de una o 5 sillas, para que aprobemos shading y forma.-La idea de la imagen para hacer patrones esta increible! Hay que recordar que no todo el estadio tiene asientos, los de mas arriba ya no tienen",3,13777
+797,citurriaga,"2009-02-06 00:29:18","Vic:Se ve super bien!-Para ir investigando... Hay que bakear el Occlusion de las sillas... no creo que sea mucha bronca, y sobre este pondremos el occlusion de los gueyecitos.. -Hay que quitarle los descansa brazos. -De hecho, el modelo del estadio azteca creo que son mas sencillos. LLuis debe de tener alguna fotografia, son como asientos bien sencillos.-Cuantos poligonos tiene cada silla??-Estan muy brillantes. Tienen que ser opacos, sin reflejos raytrace, solo especular super abierto y blanco-Si pueden bakear Oclussion, seguro se puede bakear el shader que Benny y yo armamos, ya que utiliza la rutina de Gather. Ese shader haria en lugar de obscurecer, polvo o mugre blanca/clara.-Probaste LOD?-Creo que incluso el nivel de ""puntitos"" del occlusion es mas que suficiente, funciona bien-El tamanio de las escaleras esta padre.-Bamos a trabajar en turntables de una o 5 sillas, para que aprobemos shading y forma.-La idea de la imagen para hacer patrones esta increible! Hay que recordar que no todo el estadio tiene asientos, los de mas arriba ya no tienen",3,13775
+798,citurriaga,"2009-02-06 00:29:53","Vic:Se ve super bien!-Para ir investigando... Hay que bakear el Occlusion de las sillas... no creo que sea mucha bronca, y sobre este pondremos el occlusion de los gueyecitos.. -Hay que quitarle los descansa brazos. -De hecho, el modelo del estadio azteca creo que son mas sencillos. LLuis debe de tener alguna fotografia, son como asientos bien sencillos.-Cuantos poligonos tiene cada silla??-Estan muy brillantes. Tienen que ser opacos, sin reflejos raytrace, solo especular super abierto y blanco-Si pueden bakear Oclussion, seguro se puede bakear el shader que Benny y yo armamos, ya que utiliza la rutina de Gather. Ese shader haria en lugar de obscurecer, polvo o mugre blanca/clara.-Probaste LOD?-Creo que incluso el nivel de ""puntitos"" del occlusion es mas que suficiente, funciona bien-El tamanio de las escaleras esta padre.-Bamos a trabajar en turntables de una o 5 sillas, para que aprobemos shading y forma.-La idea de la imagen para hacer patrones esta increible! Hay que recordar que no todo el estadio tiene asientos, los de mas arriba ya no tienen",3,13775
+799,citurriaga,"2009-02-06 18:36:32","Lluis: Super bien, lo unico es que las estructuras de adentro...las ""x"" que no sean curveadas, que esten tensas y no pegadas a la curvatura del techo... seria lo unico!",3,13800
+800,cnavarro,"2009-02-09 14:05:49","Para Revisión",3,13726
+801,cnavarro,"2009-02-09 14:06:16","Para Revisión",3,13800
+802,cnavarro,"2009-02-09 14:09:05","Para Revisión",3,13819
+803,citurriaga,"2009-02-09 14:17:42","Benny: Esta super padre!! Estaria bueno renderear una pieza, digamos una columna con un pedazo de gradas, en turn table para poder discutirlas.Me gusta la textura reticular... le da un toque interesante",3,13820
+804,citurriaga,"2009-02-09 14:20:24","Me gusta la forma, aunque la curvatura seria evaluarla con el modelo del techo... igual mandame junto el puro techo",3,13821
+805,citurriaga,"2009-02-09 21:14:19","Ok! Siento unicamente que las alas estan en un ciclo. Tal vez habra que hacer el timing menos uniforme, y la latitud tambien, una vez tan amplia como esta, otra un 15% de esta",3,13850
+806,citurriaga,"2009-02-09 21:14:46","OOpps, este comentario era para el bfs010, sorry",3,13850
+807,citurriaga,"2009-02-09 21:14:54","(2009-02-09 21:14:19) Charlie Iturriaga:Ok! Siento unicamente que las alas estan en un ciclo. Tal vez habra que hacer el timing menos uniforme, y la latitud tambien, una vez tan amplia como esta, otra un 15% de esta",3,13847
+808,citurriaga,"2009-02-09 21:15:42","Esta esta muy muy bien. Lista. Solo me preocupan sus ojos... ya les avisaron????",3,13848
+809,citurriaga,"2009-02-09 21:16:17","Tambien perfecta. esta no tiene el problema de los ojos",3,13849
+810,citurriaga,"2009-02-09 21:16:49","bfs040 aprobada 100%",3,13850
+811,citurriaga,"2009-02-10 12:51:14","Lluis: Esta muy bien, nada mas checa porque las uniones de los alambres con la ""pieza nueva"" estan abiertos. De ahi en fuera el resto es correcto",3,13853
+812,scortes,"2009-02-10 17:32:15",test,3,13636
+813,cnavarro,"2009-02-10 18:28:38","Este tambien es para revisión",3,13726
+814,dgollas,"2009-02-10 18:58:55",test,3,13832
+815,dgollas,"2009-02-10 19:06:25",pinga,3,13038
+816,citurriaga,"2009-02-10 21:10:27","Estas son unas primeras pruebas de las texturas procedurales para el cemento. Obviamente los parches de cemento no seran tan presentes, son pruebas principalmente de como crear texturas automaticas para las diferentes piezas. Durante estos dias estaremos publicando diferentes imagenes para evaluar texturizaciones.",3,13861
+817,citurriaga,"2009-02-10 21:15:13","Cyn publica este archivo. Si le pasas a Sergio el jefecheck podria checar directo el tar",3,13880
+818,citurriaga,"2009-02-11 12:43:33","Prueba Turntable de base de cemento limpio. Estamos en proceso de seguir poniendo layers para terminar los patrones de textura.",3,13889
+819,citurriaga,"2009-02-11 13:51:07","jajaja estan bien padres.. Como son? particulas? Cyn, rotulalo y publicalo porfas. Vic, enseniame tus modelos de gradas para que te los apruebe.",3,13894
+820,citurriaga,"2009-02-11 16:00:16","publicar plis",3,13897
+821,citurriaga,"2009-02-11 16:29:55","Sin shading ni iluminacion final. Es unicamente para evaluar la herramienta de ""basura"" y de ""autoplacement"" de las butacas basadas en un patron de color que venga de una imagen.",3,13900
+822,citurriaga,"2009-02-11 18:41:34","Ok! Esta super bien!!",3,13909
+823,citurriaga,"2009-02-11 18:43:35",Ok!,3,13907
+824,citurriaga,"2009-02-12 15:33:04","Lluis cuando puedas me lo mandas con los accesos y puentes. Gracias!",3,13915
+825,citurriaga,"2009-02-12 20:30:55","Super bien Vic!!Cyn publiquemoslo porfavor",3,13922
+826,citurriaga,"2009-02-13 12:59:14","Esta super bien. El bounding de los hombros y axilitas si se jodio un poco ja. La oclusion de solo la grada esta perfecta, el resto con luz directa funciona super bien. En cuanto a la geometria invertida, la verdad es que vamos a re-modelar casi todos los gueyecitos, entonces no creo que sea problema. Ojo, hacen falta mujeres. A mi si me gustaria juntarlos mas, al menos un 50%... como ves? no creo que se intersecten demasiado pero me preocupa que se vean huecos.Tus renders trata de mandarlos siempre como turntable, en este caso que no sea de 360 grados, sino de 180 grados o menos, para ver como se ven los huecos de las gradas.Cuanto tardo este render? Cuantos agentes son? tiene motion blur?Cyn: Publiquemos porfas.",3,13926
+827,vlizarraga,"2009-02-13 14:03:40","-Del modelado vamos a corregir lo de las normales y vamos a hacer un nivel mas de refinamiento.-Las mujeres estan en la casa cocinando, por eso no hay...jiji. lo vamos a ir checando.-Voy a juntarlos un 50 % mas de lo que ya tienen ahorita, pero creo que si se van a intersectar, ya veremos si es muy notorio o no.-Lo del turntable solo voy a checar que no sean muchos grados en poco tiempo.. para que no se vea muy rapido y no se aprecien los movimientos.-El render tardo 2 horas 30 minutos, resolucion 1280x720, sin baking de occlusion(no colorbleeding), sin motion blur y son 280 agentes. Por el problema tecnico de que crashea massive y por tener mayor control, voy a probar el simular por filas, creo que podemos lograr el mismo nivel de variacion o hasta mas si lo simulamos asi, que todo completo.",3,13926
+828,citurriaga,"2009-02-16 12:48:17","Creo que todavia deberia de ser mas ancha para los niveles bajos.... Yo creo que como 3 veceses... y digamos cada 3 pisos ir haciendose 1/5 mas angosta.",3,13933
+829,vlizarraga,"2009-02-16 13:04:24","Tipos de asientos para las tribunas, rojo(palco), amarillo (preferente) y azul (general). El tipo de asientos azul es del que van a haber mas (parte de arriba) y los preferente van en la parte de abajo, palcos en palcos. Tambien esta el sistema LOD y seria bueno empezar a definir patrones de color y que colores van a ser.",3,13935
+830,citurriaga,"2009-02-16 13:24:17","-Ok, como quiers que hagamos lo de los patrones de Color Vic? Te hago un dibujito sobre el estadio?-Tambien seria bueno meterle un fractalito de mugre a los asientos, algo que los haga ""blanquitos"" como de tierra o polvo",3,13935
+831,vlizarraga,"2009-02-16 13:37:20","Si, un dbujo esta bien, solo recuerda que por el momento no tenemos activo el sistemita de poner color basado en imagenes, asi que si quieres algo muy especial por el momento lo tendriamos que hacer a mano.Lo del shader lo voy a checar con Benny para que sera de preferencia un material que usemos para la mayoria de las cosas.",3,13935
+832,citurriaga,"2009-02-16 17:52:27","Benny:Me gustaba mas creo el otro camino a donde estaba llegando... creo que deberiamos de irnos mas bien por ahi. Como ves? cuando le damos??",3,13932
+833,citurriaga,"2009-02-16 21:28:33","Lluis: Estan super bonitas las rampas! maniana que me mandes el modelo platicamos de la distribucion. Ya estamos en las ultimas del modelo general!",3,13963
+834,citurriaga,"2009-02-16 21:37:18","Benny: Se ve muy bien, ahora si medio noto la linea jajaja pero yo croe que con la nube que pasa y el tema de las neblinas quedara muy bien.",3,13965
+835,mrPip,"2009-02-17 10:36:15","no maaaa",3,13958
+836,citurriaga,"2009-02-17 13:43:42",Ok!,3,13970
+837,mrPip,"2009-02-17 13:53:08",pilinga,3,13038
+838,citurriaga,"2009-02-18 19:31:13","Podemos poner una de las esquinas mejor? algo donde se vea mas la fuga y no solo una pared inmensa.",3,14025
+839,citurriaga,"2009-02-18 19:34:30",Correcto!!,3,14027
+840,citurriaga,"2009-02-19 12:43:13",ok!,3,14030
+841,citurriaga,"2009-02-19 12:47:04","Podran caminar mas bien directo al hueco que va a la lampara??",3,14031
+842,citurriaga,"2009-02-19 12:49:25","Este no esta bien",3,14032
+843,citurriaga,"2009-02-19 13:04:58",Ok!,3,14033
+844,citurriaga,"2009-02-19 13:21:04",Perfect!,3,14034
+845,citurriaga,"2009-02-19 14:42:09",OK!,3,14042
+846,citurriaga,"2009-02-19 14:45:23","Se ve bien madreada la compresion pero esta bien. Vamos mandandolo no?",3,14043
+847,citurriaga,"2009-02-19 15:53:22",OK!,3,14046
+848,citurriaga,"2009-02-19 15:54:33","A ver lluis provemos con esta perspectiva si se ve bien",3,14048
+849,citurriaga,"2009-02-19 15:57:12",Ok,3,14047
+850,citurriaga,"2009-02-19 15:59:23",Ok,3,14050
+851,citurriaga,"2009-02-19 16:02:17","Mmmhh se Freezea al final la imagen....",3,14052
+852,citurriaga,"2009-02-19 16:04:48","Esta la cambiamos...",3,14053
+853,citurriaga,"2009-02-19 16:08:38","Este sigue mal, se frizea la imagen",3,14054
+854,citurriaga,"2009-02-19 17:24:14",Ok,3,14059
+855,citurriaga,"2009-02-19 18:14:50","MMhh esto esta muy raro",3,14064
+856,citurriaga,"2009-02-19 18:43:13","Pasa lo mismo pero ahora al principio. Durante el inicio la camara se esta moviendo, pero el estadio esta fijo. Igual es dificil de apreciar con toda la gente... pero si notan la lampara de atraz y algo de horizonte se nota. Igual habra que truquearle tantito",3,14068
+857,citurriaga,"2009-02-19 19:05:29","Lluis podriamos rotar 90 grados para ver de frente exactamente el estadio? no ver esta pared, sino del lado donde esta la pantalla.",3,14070
+858,citurriaga,"2009-02-19 19:21:02","Super bien!",3,14018
+859,citurriaga,"2009-02-19 20:27:08","Funciona super bien! Creo que si podemos ocupar esto como la textura base. Ahora lo que sigue es checar el shading para que no se vea tan brillanta, y pasar a la ""capa 2"" con el fractal para la mugre! Se ve bien padre!",3,14080
+860,cnavarro,"2009-02-20 11:28:31","Para Revisión",3,14067
+861,citurriaga,"2009-02-20 16:10:47",Ok!,3,14122
+862,citurriaga,"2009-02-24 13:41:26",ok!,3,14163
+863,citurriaga,"2009-02-24 13:45:32",ok!,3,14162
+864,citurriaga,"2009-02-24 14:00:22",ok!,3,14161
+865,citurriaga,"2009-02-24 14:01:52",ok!,3,14160
+866,citurriaga,"2009-02-24 14:02:53",ok!,3,14159
+867,citurriaga,"2009-02-24 14:03:50",ok!,3,14158
+868,citurriaga,"2009-02-24 14:05:08",ok!,3,14157
+869,citurriaga,"2009-02-24 14:09:22",ok!,3,14156
+870,citurriaga,"2009-02-24 14:24:56","Benny lo veo muy bien. La intensidad del bump de hecho no la veo tan mal! lo que si es que las lineas divisorias deberian de ser definitivamente displacement y de hecho bastante profundo.... podriamos probar... eso es, bump para todo pero displacement solo para las lineas. es super facil hacerlo en el SL, seguro ya lo tienes mas que claro.",3,14155
+871,citurriaga,"2009-02-24 14:29:29","ok",3,14152
+872,citurriaga,"2009-02-24 14:31:20","ok",3,14151
+873,citurriaga,"2009-02-24 18:19:45","-Creo que podriamos bajar un poco la saturacion, digamos un 5%-del cuadro 18 al 63 le falta blur de la profundidad de campo-vamos a obscurecerla un 5-8%-Las alas siento que son perfectamente rectas, mas alla del displacement, podriamos curvearlas o ""arrugarlas"" un poquito. Tambien se de la misma ala, una de las piezas, digamos la superior, esta ""offseteada"" su rotacion o doblada un poquito mas que la parte de abajo del ala.",3,14197
+874,citurriaga,"2009-02-25 11:17:53","Pepe creo que esta muy bien! La perspectiva de hecho no me preocupa tanto, mas bien creo que los reflejos de los highlights deberian de moverse. La otra es que el techo debe de tener mas espesorde ahi en fuera esta super padre!",3,14199
+875,citurriaga,"2009-02-25 17:02:55","Super bonito! creo que le falta una sombra sobre la hoja que esta justo detras de ella,  cuando tiene las alas mas abiertas. El resto esta super bien.",3,14202
+876,dgollas,"2009-02-26 13:44:16",test,3,13038
+877,cnavarro,"2009-02-26 13:51:09","Estadio solicitado en obj.",3,14245
+878,citurriaga,"2009-02-27 00:05:26","Bajarle de nuevo de luz el ala en la parte de atraz, y hacer en el ala del fondo que se note mas la separacion entre la superior e inferior.-Que el movimiento sea en el mismo tiempo, pero que abra las alas a la mitad de angulo, y regrese un poquitito para cerrarlas ",3,14260
+879,citurriaga,"2009-02-27 00:12:23","-La parte de atraz de las alas tiene que ser muchisisimo mas obscuro, como un 20% la intensidad de la parte de enfrente, osea como un 85% mas obscura-Del ala del fondo, el ala de arriba no se nota que proyecte/cree una sombra sobre el ala inferior-el cuadro 28 parece que el ala superior que esta cerca de camara desaparece, o se la esta comiendo el compuesto o hay que subir un poquito el displacement para que tenga mas volumen-No tiene sombra sobre la ramita-El brillo/reflejo  ""azuloso"" cuando esta sobre su ala, como en el cuadro 32, no se esta aditivado correctamente. Eso me muestra que hay otros brillos que se estan muriendo y por lo mismo no se ve tan adentro del frasquito.",3,14259
+880,citurriaga,"2009-02-27 00:22:34","No manches pepe esta EXPECTACULAR!!!!! Super bonito.Lo unico que yo le veo es el reflejo de la derecha, el que es una linea blanca que puede ser una lampara en una pared o una puerta... ese reflejo cuando sube deberia de ""cortarse"" un poquito, por ejemplo en el cuadro 21 deberia de nuca irse para ""arriba"" sino tener un wipe que recorte el brillo como se fuera ocluido por el mismo corte del techo. Es un cambio que no es necesario, nada mas un detalle. Igual cuando pongas particulas o humo si lo cubres sera mas que suficiente, pero son mis 2 centavos ;)",3,14251
+881,citurriaga,"2009-02-27 00:36:00","ok!",3,14250
+882,citurriaga,"2009-02-27 00:45:02","Hay que dejar la animacion la mayor parte del tiempo como en el cuadro 105, y con ligeros movimientos, principalmente para vel la otra cara del ala.-Las alas estan muy brillantes, bajarle un 50% de luz-el principio (cuadro 32) esta raro, no se si es el track, la animacion  o ambas cosas... para el cuadro 46 ya se ve mejor, de hecho ese tono de alas funciona muchisimo mejor (cuadro 32)-La division de las alas entre la superior y la inferior debe de notarse mas-",3,14249
+883,citurriaga,"2009-02-27 01:06:00",Ok,3,14241
+884,citurriaga,"2009-02-27 11:18:13",Ok,3,14275
+885,citurriaga,"2009-02-27 12:32:34","Super bien!!!!!",3,14289
+886,citurriaga,"2009-02-27 12:40:07","Ok! Extraniamente este shot (190) esta en el shot 219 del project manager, y en la pizarra tiene los 2, asi que no se cual sea. El shot es correcto",3,14291
+887,citurriaga,"2009-02-27 12:44:22","Ok! ",3,14286
+888,citurriaga,"2009-02-27 12:45:18","Ok! ",3,14285
+889,citurriaga,"2009-02-27 12:46:53","Ok! ",3,14284
+890,citurriaga,"2009-02-27 12:48:34","Ok! ",3,14283
+891,citurriaga,"2009-02-27 12:49:50","Ok! ",3,14282
+892,citurriaga,"2009-02-27 12:51:32","Cuadro 35 a 39 se nota un poco el parche a la derecha del personaje",3,14281
+893,citurriaga,"2009-02-27 12:53:01",ok!,3,14280
+894,citurriaga,"2009-02-27 12:58:28","wow esta super padre!",3,14279
+895,citurriaga,"2009-02-27 16:56:11","El balance de color esta muy caliente, checar que los obscuros y los medios/highlights sean mas frios.-Creo que tambien tiene mucho contraste, o los negros estan muy abajo.",3,14304
+896,cnavarro,"2009-03-02 17:38:24","QT missing",3,14303
+897,citurriaga,"2009-03-02 18:09:59",OK,3,14337
+898,citurriaga,"2009-03-02 18:17:14","Sigo viendo mucho mas obscura el ala que da a afuera que la que esta contra la luz... cuando deberia de ser de manera contraria...El resto se ve bien...",3,14311
+899,citurriaga,"2009-03-02 18:24:35","Mismo problema, esta mas brillante en la parte de atras que adelante...",3,14339
+900,citurriaga,"2009-03-02 18:37:02","subir el negro un 7% (contraste) y bajar la satiracion un 8%",3,14333
+901,citurriaga,"2009-03-02 18:44:47",Ok!,3,14320
+902,citurriaga,"2009-03-03 18:04:48","Listo. Yo creo que los que ya esten podemos ir transfiriendolos de regreso... tal vez igual como un tar por el PM..",3,14424
+903,citurriaga,"2009-03-03 19:14:22","Esta padre! yo creo que este si es final!",3,14423
+904,citurriaga,"2009-03-03 19:20:04","Se ve muchisimo mejor la iluminacion asi. El foco deberia de estar mucho mas al fondo, casi en la esquina superior del ala mas alejada de camara. En general hay que sacarla de foco un 20% a 30% mas.Hay que subirle tambien el displacement como un 15% para que se sienta mas la rugosidad unicamente en este shot.-Los negros del cuerpo de la mariposa obscurecerlos mas un 5%",3,14421
+905,citurriaga,"2009-03-03 19:20:57","Tambien hace falta un poco de grano",3,14421
+906,citurriaga,"2009-03-03 19:28:45","Yo creo que podemos quitar las particulas que salen de los leds, solo dejar las que salen de la parte del centro ya que se ve mucho mas real y mejor, a menos de que pongamos reflejos en los leds lo cual va a ser muy complicado y no es necesario-en general se ve muy padre, solo hay que cuidar cuales particulas estan detras del cristal y cuales delante. son mas afortunadas las particulas que tienen ""streak"" a las que solo son puntitos.-Algo que le pueden hacer para aumentar un poco el efecto es crear unas sombras durante algunos cuadros de algunas de las piezas que hay dentro y moverlas de lado a lado, similar a lo que paso en el trueno de daws.",3,14420
+907,citurriaga,"2009-03-03 19:40:28","Esta muy padre, creo que lo mismo que solo salgan de la parte de arriba, no de los leds ni de la plaquita que da a camara. Tambien creo que la de Yavin funciona mejor donde no vemos tanta flama, sino la luz incidente de esta. Tambien creo la flama puede apagarse para el cuadro 25, y tal vez dar un solo ""chispazo"" alrededor del cuadro 44.",3,14387
+908,citurriaga,"2009-03-03 19:53:09","Ya estamos en compuesto. Despues de darle vueltas al cuadro 139 siento que si deberiamos de cambiarle la animacion un poquito para que no se sienta que se atora en la boca del frasco, solo quitarle ese bump y creo estamos.",3,14395
+909,citurriaga,"2009-03-03 21:10:58","Vamos a sacar un poco mas fuera de foco el ala que esta mas cerca de camara, digamos un 15% a 20% mas, no asi el resto del cuerpo de la mariposa-aumentemos la gamma (contraste) un 10%, y subirle la saturacion un 7-8%-aumentemos el BRILLO UNICAMENTE, o las luces altas y medios tonos un 5%, los negros estan bien.",3,14452
+910,citurriaga,"2009-03-04 20:13:21","Listo! Esta super bien.",3,14457
+911,citurriaga,"2009-03-04 22:35:15",OK!,3,14461
+912,citurriaga,"2009-03-04 22:36:50",OK!!,3,14463
+913,citurriaga,"2009-03-04 23:09:32",OK!!,3,14462
+914,citurriaga,"2009-03-04 23:28:14",OK!,3,14464
+915,citurriaga,"2009-03-05 00:05:40",OK!,3,14465
+916,citurriaga,"2009-03-05 00:12:16","Al final hay un brinco raro, lo demas bien",3,14466
+917,citurriaga,"2009-03-05 00:35:28",OK!!!,3,14467
+918,citurriaga,"2009-03-05 00:45:06",OK!!!,3,14468
+919,citurriaga,"2009-03-05 00:52:36",OK!,3,14469
+920,citurriaga,"2009-03-05 01:00:41",OK!!!,3,14470
+921,citurriaga,"2009-03-05 01:10:58",OK!,3,14471
+922,citurriaga,"2009-03-05 14:09:18","Ok! hay que mandarlo",3,14472
+923,citurriaga,"2009-03-05 18:12:02","aprobado! Mandar a Ben plis",3,14475
+924,citurriaga,"2009-03-05 20:37:06","Poca madre!!! Que lastima de la nube, estoy de acuerdo!",3,14480
+925,citurriaga,"2009-03-06 13:22:15",OK,3,14479
+926,citurriaga,"2009-03-06 13:24:38",OK,3,14478
+927,citurriaga,"2009-03-06 13:25:55","La mujer sin tacones y como dicen, de diferentes complexiones. No hay que poner ninios.",3,14478
+928,citurriaga,"2009-03-06 13:27:56","Las trompetas creo estan muy grandes, nunca he ido a un partido, pero si son asi, esta bien.-Hay que hacer unas banderotas tambien-hay que hacer unos 3 tipos de sombreros-Necesitamos sombrillas???",3,14477
+929,citurriaga,"2009-03-06 18:49:24","hay que bajarle un poquitito la saturacion (un 8%) a la parte de atras de las alas. El resto se ve muy bien!!",3,14489
+930,citurriaga,"2009-03-06 19:14:09",OK!!!,3,14491
+931,citurriaga,"2009-03-06 19:35:53",Super!,3,14492
+932,citurriaga,"2009-03-06 20:50:50","Se ve muy bien!-No se si la textura se esta resbalando o es ilusion optica-Lluis, no se si es el estadio final, pero le hacen falta elevadores y algunas rampas no??-Hay que detallar las lamparas por adelante-Esta incluido el noise para la mugre verdad? -En el cuadro 1 del closeup se ven faceteadas las gradas que estan justo enfrente.-Hay que empezar a parametrizar-La luz esta bien padre!!",3,14497
+933,citurriaga,"2009-03-06 20:52:15","Esquisito. Hay que hacerle las piernas mas cortas. el resto esta bien",3,14494
+934,citurriaga,"2009-03-06 20:52:32",ok!,3,14495
+935,citurriaga,"2009-03-06 20:52:53",ok!,3,14496
+936,adavila,"2009-03-09 12:00:41","- Crear 2 personajes 3D. Son 2 guerreros (bueno y malo) del malo se tiene que ver el cambio de expresiones en la cara.- Producto Shot 3D, tiene que ser innovador y muy estilizado.",3,14498
+937,adavila,"2009-03-09 12:05:20","- Nos dan imagenes de cielo y hay que crear la sonrisa con las nubes en 3D (nada que ver con la que tenemos en la visulaziación, ésta esta super chafa)- Imagen de stock de cielo y luna, crear luna con sonrisa 3d.- Tiburon 3D junto con back (obvio no tiene que ser mandibulin como en la visulazación)- Producto Shot 3D, tiene que ser innovador y muy estilizado.",3,14499
+938,adavila,"2009-03-09 16:28:39","Unicamente hay que cotizar la parte final de la Ola 3D.",3,14515
+939,citurriaga,"2009-03-09 19:11:54",OK,3,14526
+940,citurriaga,"2009-03-09 19:19:48",OK,3,14525
+941,citurriaga,"2009-03-09 19:20:14",OK,3,14523
+942,citurriaga,"2009-03-09 19:21:05","OK. OJO checar que en el render se note la escala de la cancha CG",3,14527
+943,citurriaga,"2009-03-09 19:21:59","OK. ",3,14524
+944,cnavarro,"2009-03-10 15:47:30","Checa este, porque creo que van a pedir cambios de la mariposa, para que lo tomes en cuenta in advance.",3,14572
+945,citurriaga,"2009-03-10 16:36:38",OK,3,14551
+946,citurriaga,"2009-03-10 16:38:41","Siento que esta muy telefoteado, y creo que la camara deberia de bajar de pluma y tiltear un 10%  para arriba...Es mucho pedo poner puntitos de gente al fondo para que los poco visionarios entiendan que va a haber gente?",3,14575
+947,citurriaga,"2009-03-10 16:41:10","Si pudieramos rotar tantito el estadio, ya sea a la derecha para ver bien la grada de la izquierda, o a la izquierda para perderla por completo (yo prefiero que entre un 20% mas esta",3,14549
+948,citurriaga,"2009-03-10 16:45:54",OK!,3,14576
+949,citurriaga,"2009-03-10 18:31:56",Ok,3,14577
+950,citurriaga,"2009-03-10 18:33:09",Ok,3,14579
+951,raubuchon,"2009-03-11 16:37:14","I think all this looks good, however in the 2nd BUTTERFLY sequence, the timing seems off and I can't really see the butterfly get zapped.  Maybe we need more of a spark.  Thoughts?",3,14572
+952,citurriaga,"2009-03-11 18:51:20",OK!!!,3,14591
+953,cnavarro,"2009-03-12 12:06:05","Este es el Estadio que Norman solicitó para SKETCHUP.",3,14594
+954,cnavarro,"2009-03-12 14:56:27","Esta es otra versión por si la anterior no jala. Para SKETCHUP.",3,14606
+955,citurriaga,"2009-03-13 14:06:45",Ok,3,14650
+956,citurriaga,"2009-03-13 14:07:34","Hay cuadros corruptos/incompletos",3,14689
+957,citurriaga,"2009-03-13 14:09:27","OK! a este es al que hay que ponerle sangreeee.",3,14648
+958,citurriaga,"2009-03-13 14:10:47",OK!,3,14647
+959,citurriaga,"2009-03-13 14:12:20","Esta super bonito!",3,14620
+960,citurriaga,"2009-03-13 14:13:43",OK,3,14622
+961,citurriaga,"2009-03-13 14:16:28","Hay que poner estos assets en el ASSET de Massive del PMEsta padre! Va a estar cabrona la simulacion de la tela pero se ve muy bien... podemos hacer 2 o 3 diferentes versiones para darle variedad? a lo mejor una que suba primero una mano y luego la otra, y otra que suba las manos de lado primero y acabe en capa.",3,14643
+962,citurriaga,"2009-03-13 14:18:06","Buenisimo!Podemos hacer una version extra de alguna de las 3, tal vez la que tiene ambas manos, pero menos inclinado hacia atras para darle mas variedad?",3,14644
+963,citurriaga,"2009-03-13 14:19:11",Perfecto!,3,14645
+964,citurriaga,"2009-03-13 14:19:49","Dedos al cielo",3,14646
+965,citurriaga,"2009-03-13 18:33:45","Del cuadro 3 al 4 se mueve algo raro en el fondo.... no se si es el reflejo o un parchesito... :S",3,14704
+966,citurriaga,"2009-03-13 18:37:33","del cuadro 221 a 228, el codo izquierdo se hace chiquito y grande",3,14707
+967,citurriaga,"2009-03-13 18:38:45","OK!!",3,14708
+968,citurriaga,"2009-03-13 18:45:25","OK!!",3,14573
+969,citurriaga,"2009-03-16 13:06:04",OK!,3,14716
+970,adavila,"2009-03-18 17:09:01","Necesito que recoticemos este proyecto. La ola es de particulas de hielo NO agua, tipo los comerciales de Max Air. Necesito la cotización para hoy noche o mañana super tempra.",3,14515
+971,citurriaga,"2009-03-19 13:21:37",OK!,3,14718
+972,citurriaga,"2009-03-19 13:27:47","Esta bien bonito!!!",3,14717
+973,citurriaga,"2009-03-19 13:36:38",OK,3,14720
+974,citurriaga,"2009-03-19 16:46:32","Esta mal el codec. Mandar otra vez",3,14721
+975,citurriaga,"2009-03-25 02:11:26","OJO! porfavor apuntar que es un PRECOMPUESTO! faltan muchisimas cosas, los agentes no tienen sombras, asi como le faltan acciones. El Estadio tambien es un rough comp.",3,14812
+976,citurriaga,"2009-03-25 02:13:50","Me late... esperemos feedback",3,14810
+977,citurriaga,"2009-03-25 02:17:22","Ojo. El Patron del mapeo que tienen las columnas grandes sera arreglado.",3,14808
+978,citurriaga,"2009-03-25 19:05:58",OK!,3,14817
+979,citurriaga,"2009-03-25 19:50:24","Notas Ollin:- Lluís: Subamos la plataforma para hacer un match con la imagen de referencia. Mando de todas maneras una copia. La distancia entre la plataforma y la grada dejarla igual, solo subirla varios metros hasta quedar igual a referenciaNotas para Postal:-Textura del Flare se alcanza a ver en el cuadro 58 y 91, se estamos cuidando los emplazamientos de la geometría para encontrar agujeros cercanos para encontrar el punto de flare. En algunos momentos simplemente ""offsetearemos"" el punto de origen del flare con el objetivo de matcharlo perfectamente",3,14806
+980,citurriaga,"2009-03-25 20:13:13","Notas Ollin:-Movamos la animación de la cámara para que el inicio sea la posición del cuadro 31, y el cuadro final (100) sea pasando las 2 torres grandes, es decir, en lugar de que terminemos encasillando la plataforma entre las dos torres, solo veremos una torre a la izquierda de cuadro, para así conservar la misma velocidad.-Con el cambio de inicio de cuadro, bajemos la cámara hasta lograr ver un poco de grada en primer plano (gradas norte)-Recuerden subir de altura la plataforma de nuestro héroe para matchar el cambio marcado en el TCS010Notas Postal:-En cuanto a las luces, se hicieron 2 ""Tipos"" de luces. Unas de ellas, están colocadas sobre las gradas, y se aprecian en esta animación durante los primeros 54 cuadros. Las otras, son unas estructuras inmensas que alumbran más lo que sería el ""fondo"" del estadio. Con esto considero tenemos lo mejor de los dos mundos, lámparas pequeñas que serian en el mundo del estadio para iluminar las gradas, y que nos dan estructuras para hacer una composición de cuadro interesante, y lámparas grandes cuya función seria iluminar la cancha, y de paso que en cuadro nos dan estas mega estructuras para primeros planos que siempre nos han resultado interesantes-En cuanto a la pregunta de ""cómo resolvemos los tamaños"" nos estamos refiriendo a entender la profundidad del estadio? Definitivamente el ""haze"" y estos diferentes elementos que pasan a diferentes planos ayudaran. El fondo obviamente tiene gente, y hasta el final vemos la cancha. Creo que el comentario de tener primeros planos de gradas con gente aun mas ayudara a notar la referencia de magnitud del estadio.Cyn: Mandemos por favor unos stills de occlusions para que mostremos ambos arreglos de lámparas. Un render de frente que incluya las gradas, las lámparas sobre ellas y las mega estructuras.",3,14800
+981,citurriaga,"2009-03-25 20:26:09","En cuanto la escala...-Que es lo que no nos gusta? en teoría las columnas del fondo están a unos 100/120 metros de cámara, y seguro las suavizaremos de foco y el flare las comerá un poco... yo creo con eso se sentirán no tan ""pequeñas""... solo me gustaría saber si es que se sienten grandes, o pequeñas.-El ""segundo piso"" es otra rampa por la que veremos gente subiendo, ya que nuestro estadio esta compuesto de muchísimas de estas rampas, similares a las del plate, y la idea es también ver diferentes escalas de gente... nos gusta eso? o es demasiado “busy” para la composición?",3,14804
+982,citurriaga,"2009-03-25 20:31:56","Notas Ollin:-Vamos a empezar a detallar este corte, principalmente con los puentes y un dummy de tren. Mandemos con los avances de mañana un render en oclusión rough para poder evaluar mas a detalle la geometría y emplazamiento de camara-Que Benny enfoque el trabajo de shading y texturas en este corte, para mandar avances por aparte de esta toma y aprobar el look correcto sobre este corte-Mandemos los trenes de referencia que encontramos, para que NC los evalué y escoja el apropiado.",3,14805
+983,citurriaga,"2009-03-25 20:49:34","Notas Ollin:-Hagamos un cambio medio drástico aquí. Vamos en lugar de tener solamente partidas las columnas, a una serie de columnas en tubo de metal anchas que creen la forma que tenemos, y veamos como funciona. (Mando un dibujo de como lo veo.) Eso nos ayudara a tener otro material en la estructura general, y nos dará ese patrón que nos sigue haciendo falta. -Hagamos mas blanco el material general de cemento, digamos que rebote un 20 a 30% mas de luz. Bajemos el nivel de contraste para que no se vea tan manchado del fractal de ruido, digamos un 40%, pero mantengan los pequeños cuadritos que apenas se alcanzan a notar con el mismo ""ratio"" de contraste.-Coloquemos el mismo material en el techo, un metal de aluminio pintado de blanco, con mínimo deterioro, tal vez únicamente con un poquito de shading de “mugre” únicamente.-Empecemos a meter otros materiales de diferentes tonos y shading para todo lo que sea ""calle"" o piso, algo de un concreto un poco más uniforme. Así como las columnas pequeñas de soporte que se alcanzan a ver, principalmente en metal blanco. Los arcos arriba de los puentes también utilicemos metal pintado de blanco.",3,14807
+984,citurriaga,"2009-03-25 21:09:39","Notas Ollin:Mandemos un Occlusion para ver mas a detalle la geometria-Demos algo de prioridad a la limpieza de este shot para ver si podemos hacer un pre compuesto y seguir detallando el encuadreNotas Postal:En cuanto el tamaño de las lámparas, como mencione en el VFX_E110, la idea es tener 2 estructuras, unas las lamparas grandes que iluminan la cancha y están soportadas en unas columnas que salen del estadio, (que aun asi las redujimos un 40% de la versión anterior del modelo), y creamos otros arreglos de luces que son lo que se ejemplifica con los cuadros en esta animacion. Mandaremos unos stills cuanto antes para evaluar estos cambios y ver si son adecuados.-En cuanto a la profundidad, Haze y algunos elementos como los helicópteros y de pronto algunos pájaros espero nos den el sentimiento de profundidad, en la parte de abajo vemos gente, y veremos como se va haciendo mas y mas pequeños, así la escala mostrara que las gradas de arriba son muchísimo mas pequeñas en perspectiva de las de abajo.-También es una ventaja que venimos del corte anterior estando muy cerca de las lámparas que se ven aquí, mostrando que con relación al personaje que esta en la plataforma, estas son inmensas. Creo que la sensación de inmensidad lo dara tambien este corte. Tal vez de todas maneras sería interesante subir un poquitito mas el estadio, probare eso y se los mando",3,14802
+985,citurriaga,"2009-03-25 21:21:14","Notas Postal:-Igual nos gustaría mas porcentaje de verde que de rojo? o el porcentaje es correcto. Tenemos un 30% rojo 60% verde y el resto en blanco. Lo que si es un hecho es que hay que meter más variación de tonos de rojos para que no se noten tan similares-En este render no hay banderas. Vic por favor mandemos una prueba de banderas para checarlas, así como de matracas, aunque sean fuera del shot para que NC pueda evaluarlos.-En la siguiente prueba habrá gente en las banquetas, así como los ""agentes"" esquivaran mejor los obstáculos.-Esta corriendo la simulación a 48 cuadros. Que supuse era la velocidad de cámara. Esa suposición es correcta??-El estadio es solo una referencia, aunque esta será una de las primeras tomas donde ya lo integremos correctamente.-En que azoteas quisiéramos ver gente? en las del fondo? estaría increíble marcarlas...Notas Ollin:-Pongamos otros 1200-1500 agentes, a ver que tan mas denso se ve, como la primera prueba que vimos.-Crezcamos un poquito los agentes  para machar la gente de referencia.-Mandemos secuencia de DPX como se pidió.",3,14812
+986,citurriaga,"2009-03-25 21:24:40","OK! mandemos un rendercito!",3,14826
+987,citurriaga,"2009-03-25 21:33:02","-Me falta ver cuando se da la vuelta el choper... lo quitaron en edicion??-Podemos detallar el hcp90 para que la caida de la caja se vea un poquito mas como ""simulada""?-Si podemos ver una edicion completa armada estaria increible. Tambien si hay manera de que ellos hagan ""sign off""... nos aseguramos que la animacion es correcta. Como ves Cyn? Solo seria arreglar estas 2 cosas anteriores y listo.-",3,14824
+988,citurriaga,"2009-03-25 22:00:09","-Veo que el shader, por ejemplo en el cuadro 2, tiene un specular muy abierto y de un tono amarillento/verde deslavado. Creo que el helicoptero deberia de ser de metal pintado y de ahi sucio, dejando specular y reflejos y estos modulados por los mapas de Rust y mugre (mando referencias)-No noto practicamente nada de bump mapping, se necesita romper con la suavidad de los reflejos",3,14828
+989,citurriaga,"2009-03-26 13:31:07","Creo que cae muy rapido, es decir, una vez que se ""suelta"" la aceleracion es muy rapida, tal vez viaja en Y un poquito menos durante la animacion, un 20%",3,14833
+990,citurriaga,"2009-03-26 17:02:47","Super, si le ayudo!",3,14835
+991,citurriaga,"2009-03-26 17:39:08","OK",3,14838
+992,citurriaga,"2009-03-27 11:45:35","Creo nada mas el cuadro 36 podria la pieza ser practicamente completamente opaca para que se sienta mas pesada en este momento... unicamente este cuadro del lado izquierdo... El resto esta bien padre",3,14863
+993,citurriaga,"2009-03-27 12:58:44","Mas autos del lado izquierdo-Mas camiones/autos del lado derecho... de preferencia diferentes tipos, no solo 2 camiones.-Checar grano de cielos y si es necesario limpiarlos-No hay remplazo de cielos por el momento",3,14837
+994,citurriaga,"2009-03-27 13:00:07","-Mas tonos rojos, evitar los puntos rojos independientes-Quedamos en checar la velocidad de la toma para ver si es correcta-Agentes en banquetas-Banderas-Mandar DPX",3,14869
+995,citurriaga,"2009-03-27 13:01:14","-Checar tamanio del estadio con la E104 y matchar, siempre evaluar esta secuencia en edicion",3,14618
+996,citurriaga,"2009-03-27 13:02:05","-Mismas notas en cuanto a los autos, tratar de hacer notar que existen parados en la calle-Unicamente ""esconder"" publicidad, no remplazarla-Matchar la cantidad de gente con la referencia, tratando de evitar huecos",3,14619
+997,citurriaga,"2009-03-27 13:02:29","-Tratar de presentarla cuanto antes.",3,14616
+998,citurriaga,"2009-03-27 13:04:19","-Evaluar materiales en esta toma-HAcer ""circuito"" o via en curva para apreciar los trenes en el fondo-Tratar de ocupar diferentes materiales-Esta sera nuestra toma heroe para una serie de situaciones",3,14805
+999,citurriaga,"2009-03-27 13:05:33","-utilizaremos principalemte remplazo de materiales en la estructura del estadio azteca-Colocar una columna unicamente en el huevo ""triangular"" de en medio del estadio-tratar de buscar un angulo interesnte.-Incluso el ""segundo piso"" tal vez no es necesario",3,14804
+1000,citurriaga,"2009-03-27 13:06:03","Esperamos nueva toma si es que existe, mientras tanto, Ollin seguira con el posicionamiento para proponerlo",3,14612

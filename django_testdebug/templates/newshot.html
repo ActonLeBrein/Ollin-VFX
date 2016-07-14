@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+	<form action="/shot_options/add_shot/" method="post">{% csrf_token %}
+		<p><label for='projectid'>Project ID: </label>
+		<select name='projectid' id='projectid'>
+			{% for i in proj_obj %}
+				<option value='{{i.projectid}}'>{{i.projectname}}</option>
+			{% endfor %}
+		</select></p>
+		<input type='submit' value='Add New Shot'/>
+	</form>
+	<p>Click <a href="/shot_options/">here</a> to return to Shots operating options</p>
+
+{% endblock %}

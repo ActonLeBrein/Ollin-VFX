@@ -1,0 +1,78 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+	<form action="/shot_options/updateshotgeneral/" method="post">{% csrf_token %}
+		<p><label for='projectid'>Project Name: </label>
+		<select name='projectid' id='projectid'>
+			{% for i in proj_obj %}
+				<option value='{{i.projectid}}'>{{i.projectname}}</option>
+			{% endfor %}
+		</select></p>
+		<p><label for='shotid'>Shot ID: </label>
+		<select name='shotid' id='shotid'>
+			{% for i in shot_ids %}
+				<option value='{{i}}'>{{i}}</option>
+			{% endfor %}
+		</select></p>
+		<p><label for='shotname'>Shot Name: </label>
+		<select name='shotname' id='shotname'>
+			{% for i in shnm_ids %}
+				<option value='{{i}}'>{{i}}</option>
+			{% endfor %}
+		</select></p>
+		<p><label for='vfxid'>VFX ID: </label>
+		<select name='vfxid' id='vfxid'>
+			{% for i in vfxi_ids %}
+				<option value='{{i}}'>{{i}}</option>
+			{% endfor %}
+		</select></p>
+		<p><label for='workedby'>Worked by: </label>
+		<input type='text' name='workedby' value='' id='workedby'></p>
+		<p><label for='location'>Location: </label>
+		<input type='text' name='location' value='' id='location'></p>
+		<p><label for='isreference'>Is Reference: </label>
+		<input type='text' name='isreference' value='' id='isreference'></p>
+		<p><label for='scenenumber'>Scene Number: </label>
+		<input type='text' name='scenenumber' value='' id='scenenumber'></p>
+		<p><label for='pagenumber'>Page Number: </label>
+		<input type='text' name='pagenumber' value='' id='pagenumber'></p>
+		<p><label for='cameramotion'>Camera Motion: </label>
+		<input type='text' name='cameramotion' value='' id='cameramotion'></p>
+		<p><label for='sequenceid'>Sequence ID: </label>
+		<select name='sequenceid' id='sequenceid'>
+			{% for i in sequ_ids %}
+				<option value='{{i}}'>{{i}}</option>
+			{% endfor %}
+		</select></p>
+		<p><label for='directornotes'>Director Notes: </label>
+		<textarea name='directornotes' value='' id='directornotes' rows='10' cols='30'>
+		</textarea></p>
+		<p><label for='shotdescription'>Shot Description: </label>
+		<textarea name='shotdescription' value='' id='shotdescription' rows='10' cols='30'>
+		</textarea></p>
+		<p><label for='vfxtasks'>VFX Tasks: </label>
+		<textarea name='vfxtasks' value='' id='vfxtasks' rows='10' cols='30'>
+		</textarea></p>
+		<p><label for='frames'>Frames: </label>
+		<input type='text' name='frames' value='' id='frames'></p>
+		<p><label for='status'>Status: </label>
+		<select name='status' id='status'>
+			{% for i in stat_ids %}
+				<option value='{{i}}'>{{i}}</option>
+			{% endfor %}
+		</select></p>
+		<p><label for='type'>Type: </label>
+		<input type='text' name='type' value='' id='type'></p>
+		<p><label for='lens'>Lens: </label>
+		<textarea name='lens' value='' id='lens' rows='10' cols='30'>
+		</textarea></p>
+		<p><label for='sortindex'>Sort Index: </label>
+		<input type='text' name='sortindex' value='' id='sortindex'></p>
+		<p><label for='take'>Take: </label>
+		<input type='text' name='take' value='' id='take'></p>
+		<input type='submit' value='Update Shot General'/>
+	</form>
+	<p>Click <a href="/shot_options/">here</a> to return to Shots operating options</p>
+
+{% endblock %}

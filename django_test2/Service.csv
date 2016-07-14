@@ -1,0 +1,63 @@
+ServiceID,ServiceName,CostPerDay,ServiceTypeID
+1,Composite,NULL,1
+2,Paint,NULL,1
+3,Roto,NULL,1
+4,"Matte Painting",NULL,1
+5,"3D Modeling",NULL,1
+6,"3D Light",NULL,1
+7,Texture,NULL,1
+8,"3D Animation",NULL,1
+9,"3D Effects",NULL,1
+10,"3D Motion Track",NULL,1
+11,"VFX Supervision",NULL,1
+12,"VFX Coordination",NULL,1
+13,"VFX Editorial",NULL,1
+14,Massive,NULL,1
+15,previz,NULL,1
+16,Fur,NULL,1
+17,"Motion Capture",NULL,1
+18,"Chroma Clean-up",NULL,1
+19,"3D Shading",NULL,1
+20,Render,NULL,1
+21,"Character Setup",NULL,1
+22,"Character Design",0,1
+23,Blendshapes,0,1
+24,Polarization,0,1
+32,Rigging,0,1
+33,lighting_comp,0,1
+35,"Screening Room",0,1
+36,bas_020,0,4
+37,bas_030,0,4
+39,bas_010,0,4
+40,bas_040,0,4
+41,bas_060,0,4
+42,bas_050,0,4
+43,bas_070,0,4
+44,pbx_010,0,4
+45,pbx_020,0,4
+46,pbx_030,0,4
+47,pbx_040,0,4
+48,pbx_060,0,4
+49,pbx_050,0,4
+50,pbx_070,0,4
+51,pbx_080,0,4
+52,pbx_090,0,4
+53,lby_010,0,4
+54,lby_020,0,4
+55,lby_030,0,4
+56,lby_040,0,4
+57,lby_050,0,4
+58,"Asignacion de Lineas a Conmutador (Por linea contratada)",0,4
+59,"Alta de Credenciales (Por usuario o Reposicion)",0,4
+60,"Puerto de Red sin Internet (Mensual)",0,4
+61,"Estacionamiento (Mensual)",0,4
+62,"Sala de Proyeccion (Por Hora)",0,4
+63,"Aparato Telefonico c/u (Mensual)",0,4
+64,"Estacionamiento x Hr.",0,4
+65,Limpieza,0,4
+66,Vigilancia,0,4
+67,Mantenimiento,0,4
+68,"Energia Electrica",0,4
+69,"Color Correction",0,1
+70,Conform,0,1
+71,Operator,0,1

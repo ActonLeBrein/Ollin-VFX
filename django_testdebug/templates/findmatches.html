@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+	<form action="{% url 'search_matches' %}" method="post">{% csrf_token %}
+		<p><label for='searchfor'>Search for: </label>
+		<input type='text' name='searchfor' value='' id='searchfor'></p>
+		<p><label for='condition'>Condition: </label>
+		<select name='condition' id='condition'>
+			<option value='equals'>equals</option>
+			<option value='is'>is</option>
+			<option value='is less than'>is less than</option>
+			<option value='is greater than'>is greater than</option>
+			<option value='is not'>is not</option>
+			<option value='contains'>contains</option>
+			<option value='does not contain'>does not contain</option>
+			<option value='starts with'>starts with</option>
+			<option value='ends with'>ends with</option>
+		</select></p>
+		<p><label for='attribute'>Attribute: </label>
+		<select name='attribute' id='attribute'>
+			<option value='Access'>Access</option>
+			<option value='Comment By'>Comment By</option>
+			<option value='Comment Date'>Comment Date</option>
+			<option value='Comment Text'>Comment Text</option>
+			<option value='File Name'>File Name</option>
+			<option value='ID'>ID</option>
+			<option value='Last Modified'>Last Modified</option>
+			<option value='Uploader'>Uploader</option>
+			<option value='Upload Date'>Upload Date</option>
+			<option value='Size'>Size</option>
+			<option value='Tags'>Tags</option>
+			<option value='Type'>Type</option>
+		</select></p>
+		<p><label for='projectid'>Project Name: </label>
+		<select name='projectid' id='projectid'>
+			<option value='-1'>-1</option>
+			{% for i in proj_obj %}
+				<option value='{{i.projectid}}'>{{i.projectname}}</option>
+			{% endfor %}
+		</select></p>
+		<p><label for='shotid'>Shot Name: </label>
+		<select name='shotid' id='shotid'>
+			<option value='-1'>-1</option>
+			{% for i in shot_obj %}
+				<option value='{{i.shotid}}'>{{i.shotname}}</option>
+			{% endfor %}
+		</select></p>
+		<p><label for='fromwhere'>From where: </label>
+		<input type='text' name='fromwhere' value='' id='fromwhere'></p>
+		<p><label for='howmany'>How many: </label>
+		<input type='text' name='howmany' value='' id='howmany'></p>
+		<input type='submit' value='Find Matches'/>
+	</form>
+	<p>Click <a href="{% url 'shot_options' %}">here</a> to return to Shots operating options</p>
+
+{% endblock %}

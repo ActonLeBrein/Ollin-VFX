@@ -1,0 +1,183 @@
+ProjectID,ProjectName,ProjectNickname,Director,Producer,Studio,ConsumableAllowance,Contingency,Thumbnail,ImageAssetID,OldStructure,Active,CreationDate,RestrictShotsToAssignedUsers,StartDate
+3,"Test Project, Don't Delete",TPDD,"Daniel Gollas Gilman",,,1000,50,NULL,143778,0,1,NULL,0,2011-10-10
+9,"Program Upgrades",PRGRUPDT,,,,0,0,NULL,41053,0,0,NULL,0,2010-02-11
+13,"Persons Unknown_EP101",PU101,NULL,NULL,FOX,2000,20,NULL,-1,0,0,NULL,0,NULL
+17,"Persons Unknown_EP102",PU102,,,Fox,2000,20,NULL,NULL,0,0,NULL,0,2010-05-11
+18,Persons_Unknown_EP103,PU103,NULL,NULL,NULL,2000,20,NULL,NULL,0,0,NULL,0,NULL
+19,Persons_Unknown_EP104,PU104,NULL,NULL,FOX/TELEVISA,0,0,NULL,NULL,0,0,NULL,0,NULL
+53,Persons_Unknown_EP107,PU107,NULL,NULL,NULL,0,0,NULL,NULL,0,0,NULL,0,NULL
+56,"This is not a Movie",TINAM,NULL,NULL,NULL,0,0,NULL,NULL,0,0,NULL,0,NULL
+57,"De la Infancia",INFA,"Carlos Carrera","Javier Patron",Malayerba,0,0,NULL,NULL,0,0,NULL,0,NULL
+78,"TRON 2-3D",TRON,"Joseph Kosinski",,"Digital Domain",0,0,NULL,38154,0,0,NULL,0,2009-11-10
+92,Tequila,TQLA,NULL,NULL,NULL,0,0,NULL,NULL,0,0,NULL,0,NULL
+103,"Aeromexico - Seguridad",AEMX,,,,0,0,,32252,0,0,"2009-09-01 13:16:09",0,2009-09-14
+105,"Aeromexico - Llegada Mexico",LLMX,,,,0,0,,32251,0,0,"2009-09-14 17:49:34",0,NULL
+106,"Aeromexico - Llegada EUA",LLEU,,,,0,0,,32253,0,0,"2009-09-17 15:26:58",0,NULL
+110,"Let Me In",LMEI,"Matt Reeves","Bruce Markoe","Overture Films",0,0,,47707,0,0,"2009-10-01 10:42:36",0,2010-04-12
+113,"TLA Movie",TLAM,,,"Industrial Light & Magic",0,0,,38794,0,0,"2009-10-14 11:26:19",0,2009-10-29
+115,"Crece Por Mexico - Televisa - Chip",,,,,0,0,,0,0,0,"2009-10-29 13:24:35",0,NULL
+116,"Crece Por Mexico - Televisa - Energia Verde",,,,,0,0,,0,0,0,"2009-10-29 14:30:30",0,NULL
+117,"Crece por México - Televisa - Zapatos",ZPTS,,,,0,0,,0,0,0,"2009-10-29 14:45:40",0,NULL
+118,"Crece por México - Televisa - Helado",,,,,0,0,,0,0,0,"2009-10-29 14:45:46",0,NULL
+119,"Crece Por Mexico - Televisa - Generico",GENR,,,,0,0,,0,0,0,"2009-10-29 14:46:24",0,NULL
+120,Terciopelo,new,,,,0,0,,0,0,0,"2010-02-08 18:38:17",0,
+121,"Coca Cola - Grito",,,,"Central Films",0,0,,0,0,0,"2010-02-17 17:30:23",0,
+122,"Calendario Amex (prueba)",AEMX,,,,0,0,,0,0,0,"2010-03-30 17:49:40",0,2010-04-05
+123,"Carlos V",new,,,,0,0,,0,0,0,"2010-03-30 19:29:08",0,2010-3-30
+124,"CARLOS V ",new,,,"Peliculas Imaginarias",0,0,,-1,0,0,"2010-03-31 12:48:58",0,2010-3-31
+125,"Rain Of Gold",RAOG,,"Andre Barren",Televisa,0,0,,47065,0,0,"2010-04-02 15:51:21",0,2010-4-2
+126,AlexProject,ALEX,,,,0,0,,0,0,0,"2010-04-07 13:50:52",0,2010-4-7
+127,"La 4ta Compañía",LCC,,,,0,0,,0,0,0,"2010-04-09 17:54:55",0,2010-4-9
+128,"The Social Network ",TSON,"David Fincher ","Cean Chaffin","Sony Pictures ",0,0,,52554,0,0,"2010-05-17 12:28:07",0,2010-05-24
+129,"Transformers 3",TFS3,"Michael Bay",,Paramount,0,0,,0,0,0,"2010-07-28 19:08:10",0,2010-7-28
+130,"Red Tails ",REDT,"Anthony Hemingway",,ILM,0,0,,85697,0,0,"2010-08-12 16:00:48",0,2010-11-23
+131,Sears,SERS,,"Jorge Malpica","Metro Producciones",0,0,,0,0,0,"2010-08-20 16:17:15",0,2010-8-20
+132,"The Big Blow ",TBBW,,,,0,0,,0,0,0,"2010-09-13 17:15:39",0,2010-9-13
+133,"SEARS Navidad",SNAV,"Fernando Rovzar",,"Lemon Films",0,0,,75165,0,0,"2010-09-22 17:53:38",0,2010-9-22
+134,NewProject,new,,,,0,0,,0,0,0,"2010-10-08 16:07:30",0,2010-10-8
+135,"Soriana Navidad ",SRNA,,,"Adversario Films ",0,0,,0,0,0,"2010-10-28 18:31:52",0,2010-10-28
+136,Pruebas,PRU,--,--,"Ollin Internal",0,0,,0,0,1,"2010-11-09 12:55:10",0,2010-11-9
+137,"ILM ROTO/PAINT TEST",ROTO,--,--,ILM,0,0,,0,0,0,"2010-11-16 16:46:59",0,2010-11-16
+138,"Pirates of Caribean 4",POC4,"Rob Marshall",,ILM,0,0,,85696,0,0,"2010-11-22 12:16:44",0,2011-01-24
+139,"Fashion Fest",FASH,"Mario Munoz","Erick Tapia","Peliculas Imaginarias",0,0,,90378,0,0,"2011-01-26 16:10:16",0,2011-1-26
+140,ARIES,ARES,,,ILM,0,0,,0,0,0,"2011-01-27 19:26:25",0,2011-1-27
+141,"CORONA SUIZA",CRNAS,"KIKO GUERRERO","RICARDO ZIEHL",VIETNAM,0,0,,100582,0,0,"2011-03-18 20:18:11",0,2011-3-18
+142,"CORONA HOLANDA",CRNAH,"KIKO GUERRERO","RICARDO ZIEHL",VIETNAM,0,0,,100580,0,0,"2011-03-18 21:57:46",0,2011-3-18
+143,NewProject,new,,,,0,0,,0,0,0,"2011-05-24 11:33:39",0,2011-5-24
+144,"Rock of Ages_OLD",ROCKOLD,,,"Digital Domain",0,0,,0,0,0,"2011-05-24 11:35:00",0,2011-5-24
+145,"Rock Of Ages",ROCK,,,"Digital Domain",0,0,,0,0,0,"2011-07-26 18:37:40",0,2011-11-05
+146,KUSPIT,BUNN,,"Guadalupe Vazquez","Central Ingenia",0,0,,112751,0,0,"2011-08-12 13:18:53",0,2011-8-12
+147,"Zorro Reborn",ZORE,,,"20th Century Fox",0,0,,0,0,1,"2011-08-12 18:18:00",0,2011-8-12
+148,eval,RHTT,,"Richard Hollander",R&H,0,0,,0,0,0,"2011-08-18 19:17:20",0,2011-8-18
+149,"Cielo en tu Mirada",CIEL,,,"Ollin Studio",0,0,,113226,0,0,"2011-09-04 22:47:17",0,2011-9-4
+150,DEMO,DEMO,,,"OLLIN VFX",0,0,,113283,0,1,"2011-09-07 15:50:32",0,2011-9-7
+151,"The Girl with the Dragon Tattoo",GWDT,"David Fincher","Cean Chaffin/Peter Mavromates","Columbia Pictures",0,0,,113854,0,0,"2011-09-20 18:59:42",0,2011-9-20
+152,"PROYECTO 31",NATU,,"Mario Araya","TRIO Films / Cine Red",0,0,,0,0,0,"2011-09-26 17:59:34",0,2011-9-26
+153,Kinder,KIND,,,,0,0,,0,0,0,"2011-09-29 15:54:07",0,2011-9-29
+154,NewProject,new,,,,0,0,,0,0,0,"2011-09-29 15:56:53",0,2011-9-29
+155,"The Philosophers",PHIL,,,,0,0,,114392,0,0,"2011-10-04 16:12:33",0,2012-02-02
+156,"Sonido del Silencio",SILE,"Jorge Malpica",,,0,0,,118773,0,1,"2011-10-06 19:22:49",0,2011-10-6
+157,"Tijuana Boxel",TBOX,,,,0,0,,0,0,0,"2011-10-07 12:31:28",0,2011-10-7
+158,"Muchas razas, un Proposito",MRUP,,"Eduardo Alatriste",,0,0,,0,0,0,"2011-10-11 19:24:45",0,2011-10-11
+159,Avantcast,AVNT,,,,0,0,,0,0,1,"2011-10-17 18:48:26",0,2011-10-17
+160,"Area 51",AREA,,"Jon Jacobsen","Beau Studio",0,0,,0,0,0,"2011-11-10 18:14:57",0,2011-11-10
+161,Kayak,KAYA,"Carl Erik Rinsch","Chris Fieldhouse",,0,0,,120533,0,0,"2011-11-10 19:01:03",0,2011-11-10
+162,Sebastian,SEBA,"Federico Ponce","Lionel Frid","Lionel Pictures",0,0,,0,0,0,"2011-11-18 17:24:53",0,2011-11-18
+163,"47 Ronin",RONI,"Carl Rinsch","Pamela Abdy","Universal Pictures",0,0,,0,0,0,"2011-12-07 11:52:54",0,2011-12-7
+164,"On the Fly 3D",FLY3,,"Michel Rocher",,0,0,,0,0,0,"2011-12-13 18:08:03",0,2011-12-13
+165,Huggies,HUGG,"Mario Muñoz","Erick Tapia","Peliculas Imaginarias",0,0,,0,0,0,"2011-12-20 15:22:42",0,2012-01-04
+166,"Televisa Deportes",TEDE,,"Marisol Marquez","Peliculas Imaginarias",0,0,,0,0,1,"2012-01-05 13:44:42",0,2012-03-05
+167,"Carlos V",CARV,,"Omar Barbosa","Peliculas Imaginarias",0,0,,125559,0,0,"2012-01-11 12:35:36",0,2012-01-16
+168,NewProject,new,,,,0,0,,0,0,0,"2012-01-26 11:42:29",0,2012-1-26
+169,"FOX Security Test Project",FSTP,,,,0,0,,0,0,0,"2012-02-07 13:30:32",0,2012-2-7
+170,"Plant Life",PLAN,,"Christopher Talbot",,0,0,,126669,0,1,"2012-02-13 12:45:24",0,2012-2-13
+171,NewProject,new,,,,0,0,,0,0,0,"2012-02-22 16:02:24",0,2012-2-22
+172,"OTISA Video Promocional",OTIS,,,,0,0,,127597,0,0,"2012-02-23 16:23:57",0,2012-2-23
+173,BACKSTAGE,BACK,,"Marcos Almada",,0,0,,0,0,1,"2012-02-23 18:53:41",0,2012-2-23
+174,"Cinco de Mayo: La batalla",MAYO,"Rafa Lara","Francisco Gallastegui",,0,0,,-1,0,0,"2012-02-28 17:53:36",0,2012-05-16
+175,"KOLBI Hogar",KOLB,,,"TRIO FILMS",0,0,,0,0,1,"2012-03-01 20:12:10",0,2012-3-1
+176,"Afraid of you",AOY1,"Russell Sanzgiri",,,0,0,,131819,0,0,"2012-03-08 18:19:19",0,2012-04-11
+177,NewProject,new,,,,0,0,,0,0,0,"2012-03-12 19:57:53",0,2012-3-12
+178,"Flora Activia",FLOR,,"Erick Tapia",IMAGINARIA,0,0,,129475,0,0,"2012-03-14 12:59:10",0,2012-3-14
+179,"After Earth",AETH,"M. Night Shyamalan","James Lassiter/Jenny Fulle","The Creative Cartel",0,0,,130162,0,0,"2012-03-22 13:06:36",0,2012-3-22
+180,"Santorini TV versión GOTA",SANT,Cougar,,CougarFilms,0,0,,130180,0,0,"2012-03-22 19:06:52",0,2012-3-22
+181,"Documental Vital Alsar",ALSA,"Paco Bernal","Paco Bernal",,0,0,,0,0,1,"2012-03-26 13:11:43",0,2012-3-26
+182,"PAGARE BANORTE",BANT,"Aldo Martínez De la Fuente",,"Películas Imaginarias",0,0,,0,0,1,"2012-03-27 22:25:00",0,2012-3-27
+183,"Fundacion Televisa V. Educación",FUTE,"Mario Muñoz",,"Peliculas Imaginarias",0,0,,0,0,1,"2012-04-02 18:09:56",0,2012-4-2
+184,Ted,TEDX,"Seth Macfarlane","Jenny Fulle","The Creative Cartel",0,0,,131783,0,0,"2012-04-09 12:04:47",0,2012-04-17
+185,Becarios,BECA,,,,0,0,,131673,0,0,"2012-04-17 12:54:30",0,2012-4-17
+186,"Ninos Incomodos",NMDF,"Mario Munoz","NUESTRO MEXICO DEL FUTURO","Peliculas Imaginarias",0,0,,0,0,0,"2012-05-14 11:20:50",0,2012-05-21
+187,"Dailies - 5 de Mayo",DailesMayo,,,,0,0,,0,0,0,"2012-05-23 18:02:22",0,2012-5-23
+188,"Ollin Studio S.A. de C.V.",,,,,0,0,,0,0,1,"2012-05-24 12:20:25",0,2012-5-24
+189,NiñosMolestos-Out,NMDF-O,,,,0,0,,0,0,0,"2012-05-24 12:47:21",0,2012-5-24
+190,"House of Cards",HOCS,"David Fincher","Peter Mavromates","Media Rights Capital/Netflix",0,0,,141665,0,1,"2012-06-29 11:14:25",0,2012-08-01
+191,Nubes,Nubes,,,,0,0,,0,0,0,"2012-07-06 16:56:28",0,2012-7-6
+192,"OELLI S.A. DE C.V.",OELL,"Jorge Lizarraga","Gabriela Gonzalez Uribe","Oelli S.A. de C.V.",0,0,,0,0,1,"2012-07-12 16:15:19",0,2012-7-12
+193,"Master Cleanse",MASC,,"Jordon Horowits","Gilbert Films",0,0,,0,0,1,"2012-08-14 12:21:35",0,2012-8-14
+194,FinDesign,FIDE,,"Chris Spry",,0,0,,0,0,1,"2012-08-15 12:14:42",0,2012-8-15
+195,"Max Steel",MAXS,"Nic Mathieu","Danielle Peretz","Anonuymous Content",0,0,,140930,0,0,"2012-08-26 16:20:51",0,2012-09-03
+196,"Fun Size",FUNS,"Josh Schwartz","Michael Beugg",Paramount,0,0,,0,0,1,"2012-08-27 18:23:18",0,2012-8-27
+197,"HOCS - OUT",new,,,,0,0,,0,0,0,"2012-09-03 12:55:53",0,2012-9-3
+198,Casinos,CASI,,"Adriana Toledo","Gnomo Entertainment",0,0,,0,0,1,"2012-10-17 15:50:27",0,2012-10-17
+199,Oblivion,OBLI,"Joseph Kosinski",,"Digital Domain",0,0,,145269,0,0,"2012-10-29 20:48:43",0,2012-10-29
+200,NewProject,new,,,,0,0,,0,0,0,"2012-11-06 14:13:23",0,2012-11-6
+201,"Comp Test",tst,,,,0,0,,0,0,0,"2012-11-09 13:03:58",0,2012-11-9
+202,"Deluxe - Roto Test",DELU,"Mauricio Monroy",,,0,0,,0,0,0,"2012-12-17 13:59:00",0,2012-12-17
+204,"Need for Speed",NEFS,"Scott Waugh","John Gatins/John Brooks Klingenbeck","The Creative Cartel",0,0,,0,0,1,"2013-01-14 12:31:23",0,2013-1-14
+205,"Colgate: Sonrie con la casa de tus sueños",COLG,,"Hernán Mejía Silva","Contenido Neto",0,0,,0,0,1,"2013-01-17 18:54:41",0,2013-1-17
+206,"Royal Caribbean Project",ROCT,,"Alex Thiesen","Brewster & Parsons",0,0,,163195,0,1,"2013-02-05 21:24:18",0,2013-2-5
+207,EVALUACIONES,,,,,0,0,,0,0,0,"2013-02-07 21:00:30",0,2013-2-7
+208,"Campeones a los 17",CAMP,"Mario Muñoz","Mariana Duran","PELÍCULAS IMAGINARIAS",0,0,,0,0,1,"2013-02-12 19:59:37",0,2013-2-12
+209,"DaVinci and Me",DAVI,"Gabriela Tagliavini","Marco Gilles/Tim Schneide","MMC studios",0,0,,0,0,1,"2013-03-25 17:04:10",0,2013-3-25
+210,Visitantes,VISI,"Acán Coen","Jorge Aragón","Sobrevivientes Films",0,0,,291401,0,1,"2013-04-15 15:41:43",0,2013-4-15
+212,NewProject,new,,,,0,0,,0,0,0,"2013-04-16 23:25:41",0,2013-4-16
+213,Epitaph,EPIT,"Vic Armstrong","Sid Mohanty",,0,0,,0,0,1,"2013-04-24 12:15:10",0,2013-4-24
+214,"Digital Intermedia",CCCC,,,,0,0,,0,0,1,"2013-04-26 20:34:55",0,2013-4-26
+215,"La Llorona",LLOR,,"Jodi Ehrlich",Lionsgate,0,0,,0,0,1,"2013-04-30 18:28:23",0,2013-4-30
+216,Whirpool,WHIR,,,"Santos Films",0,0,,0,0,1,"2013-05-03 16:13:27",0,2013-5-3
+217,"La Verdad Sospechosa",LAVS,"Luis Estrada","Tlacateotl Mata","Road Film Post",0,0,,0,0,1,"2013-05-20 18:01:42",0,2013-5-20
+218,"The Mexorcist",MEXO,,,,0,0,,0,0,1,"2013-06-05 20:18:19",0,2013-6-5
+220,"ESPN: IF YOU’RE NOT PLAYING, YOU’RE WATCHING",ESPN,"Brian Beletic","Brewster Parsons","Brewster Parsons",0,0,,187587,0,1,"2013-06-20 11:07:24",0,2013-6-20
+222,"Palmolive Cortinillas",PALM,,"Mónica Marín",,0,0,,0,0,1,"2013-07-01 15:35:03",0,2013-7-1
+224,NewProject_testy,new,,,,0,0,,0,0,0,"2013-07-26 13:36:29",0,2013-7-26
+225,"20K Nemo",NEMO,,,,0,0,,0,0,1,"2013-08-12 18:22:07",0,2013-8-12
+226,"Radix for Flowen",RADI,"Juan Azulay",,"MM Matter Management",0,0,,0,0,1,"2013-08-13 13:41:39",0,2013-8-13
+227,Amapola,AMAP,,"Carlos Morales",,0,0,,0,0,1,"2013-08-30 11:18:49",0,2013-8-30
+228,Refugio,REFU,"Demian Bichir",,,0,0,,0,0,1,"2013-09-17 12:55:28",0,2013-9-17
+229,"Eddie Reynolds y los Angeles de Acero",EDIE,,"Aura Santamaria","Abracadabra Producciones/Boca del Cielo Producciones",0,0,,0,0,1,"2013-09-26 13:39:36",0,2013-9-26
+230,Campeones,CAMS,"Lourdes Deschamps","Jorge Rubio",,0,0,,0,0,1,"2013-10-08 13:51:25",0,2013-10-8
+231,Nissan,NISA,,,,0,0,,0,0,1,"2013-10-14 15:31:13",0,2013-10-14
+233,"A Million ways to die in the west",AMWD,"Seth MacFarlane",,MRC,0,0,,0,0,1,"2013-11-07 17:16:13",0,2013-11-7
+234,"Zoic Studios Test",ZSTE,,"David Kim","Zoic Studios",0,0,,0,0,1,"2013-11-13 11:33:17",0,2013-11-13
+235,Vectorsoul,VESO,"Alex Maldonado",,,0,0,,0,0,1,"2013-11-15 13:54:41",0,2013-11-15
+236,"Fast and the Furious 7",FAF7,"James Wan","Rizza Go","Digital Domain 3.0",0,0,,291407,0,1,"2013-11-19 12:04:12",0,2014-09-08
+237,Hercules,HERC,,"Richard Mann","The Resistance",0,0,,0,0,1,"2013-11-19 15:33:46",0,2013-11-19
+238,"UCLA Bruins",UCLA,UCLA,,13,0,0,,0,0,1,"2013-11-26 12:14:53",0,2013-11-26
+239,Jesuit,JESU,"Alfonso Pineda Ulloa","Carlos Morales/Vanessa Hernández","BN Films",0,0,,0,0,1,"2013-12-04 12:57:02",0,2013-12-4
+240,"Revision El Cacaro Gumaro",RECG,"Emilio Portes","Daniel Birman","Alameda Films",0,0,,0,0,0,"2013-12-20 20:29:30",0,2013-12-20
+241,"Poderoso Victoria",POVI,"Raúl Ramón","Jana Guevara, Walter von Borstel, Red Albert","Vértigo Cine S.A. de C.V.",0,0,,0,0,1,"2014-02-19 21:14:56",0,2014-2-19
+242,"La Higuera",HIGE,"Jesús Magaña","Jorge Aragón",Sobrevivientes,0,0,,0,0,1,"2014-02-21 13:31:19",0,2014-2-21
+243,"A la Mala",MALA,"Pedro Pablo Ibarra Almada","Jorge Aragón",Sobrevivientes,0,0,,0,0,1,"2014-02-26 19:18:29",0,2014-2-26
+244,"HKP Project",HKPX,"Bryan Singer","Rizza Go","Digital Domain 3.0",0,0,,249057,0,1,"2014-02-28 16:19:26",0,2014-2-28
+245,"El Democrata",EDMT,,"Carlos Morales",,0,0,,0,0,1,"2014-03-12 18:41:11",0,2014-3-12
+246,"In High Places",IHIP,,"Jim McEachen",,0,0,,0,0,1,"2014-03-13 13:55:28",0,2014-3-13
+247,"QUE VIVA LA MUSICA",QVLM,,"Carlos Morales/Vanessa Hernandez",Epost,0,0,,0,0,1,"2014-03-14 00:16:37",0,2014-3-14
+248,"The Shore",SHORE,,,,0,0,,0,0,1,"2014-03-19 11:59:30",0,2014-3-19
+249,"Share a Coke Poke POV",SACP,,,,0,0,,0,0,1,"2014-03-28 15:36:28",0,2014-3-28
+250,"Above and Beyond",ABAB,"Roberta Grossman",,"katahdin productions",0,0,,0,0,1,"2014-03-30 17:35:07",0,2014-3-30
+251,"Dodge Dart",DDLN,,"Maria Claudia Alarcon","Lopez Negre GM",0,0,,0,0,1,"2014-03-31 18:34:25",0,2014-3-31
+252,"Gone Girl",GONE,"David Fincher","Peter Mavromates",FOX,0,0,,271492,0,1,"2014-04-14 19:02:25",0,2014-06-09
+253,"Quinto Sol",5SOL,,"Bautista Nájera",IMCINE,0,0,,-1,0,1,"2014-05-02 11:43:02",0,2014-5-2
+254,Chappie,CHAP,"Neill Blomkamp","Simon Kinberg","The Creative Cartel",0,0,,271527,0,1,"2014-05-12 19:43:17",0,2014-05-12
+255,"Below the Roots",ROOT,"Sharon Everitt","Russell Sanzgiri","TEN RAPID films",0,0,,291412,0,1,"2014-06-03 13:41:23",0,2014-10-06
+256,NewProject,new,,,,0,0,,0,0,0,"2014-06-13 18:12:19",0,2014-6-13
+257,NewProject,new,,,,0,0,,0,0,0,"2014-06-13 18:12:19",0,2014-6-13
+258,"GAP Golf",GAPG,"David Fincher","Erica Thompson",,0,0,,291413,0,1,"2014-06-13 18:12:24",0,2014-6-13
+259,NewProject,new,,,,0,0,,0,0,0,"2014-06-13 18:12:29",0,2014-6-13
+260,"El Alien Agropecuario",ALIE,"Jesus Magaña","Jorge Aragón",Sobrevivientes,0,0,,0,0,1,"2014-06-16 18:57:51",0,2014-6-16
+261,"A veces la oscuridad",OSCU,,"Adrian García",Itaca,0,0,,0,0,1,"2014-06-23 17:25:59",0,2014-6-23
+262,"Plan V",PLAN,,"Jorge Aragón","No Dancing Today",0,0,,0,0,1,"2014-07-07 18:49:54",0,2014-7-7
+263,"GAP Drive",GAPD,"David Fincher","Erica Thompson",,0,0,,291414,0,1,"2014-07-18 20:19:45",0,2014-07-26
+264,NewProject,new,,,,0,0,,0,0,0,"2014-07-18 20:24:38",0,2014-7-18
+265,"Peñafiel - Toronja",TORO,,"Hector Mendez","FCB México",0,0,,0,0,1,"2014-07-30 13:15:00",0,2014-08-04
+266,"House of Cards 3",HOC3,Various,"Peter Mavromates","Media Rights Capital/Netflix",0,0,,291415,0,1,"2014-08-04 16:47:36",0,2014-8-4
+267,"The End of the tour",TOUR,"James Ponsoldt",,LOCKTIX,0,0,,0,0,1,"2014-08-07 12:36:47",0,2014-8-7
+268,"Clases Nuke",CLAS,"Guillermo Garduño","Kato y Liz",,0,0,,0,0,1,"2014-08-21 19:13:40",0,2014-8-21
+269,"Mind Puppets - Hornitos",PUPE,,"Carlos Morales",,0,0,,0,0,1,"2014-09-01 17:26:39",0,2014-9-1
+270,Yellow,YELO,"Nick Cassavetes","Cybill Lui","ANOVA PICTURES",0,0,,291441,0,1,"2014-09-05 12:13:01",0,2014-9-5
+271,TESTING,TSTS,,,,0,0,,0,0,1,"2014-09-11 10:19:22",0,2014-9-11
+272,Cañonero,CANO,"Salomon Gill","Issa Guerra","Celestial Filmworks",0,0,,0,0,1,"2014-09-15 12:29:39",0,2014-9-15
+273,"On the Milky Road",MILK,"Emir Kusturica","Paula Vaccaro","Pinball London Films",0,0,,291411,0,1,"2014-09-15 17:34:22",0,2014-9-15
+274,Belzebuth,BELZ,"Emilio Portes Castro","Rodrigo Herranz",,0,0,,0,0,1,"2014-10-06 15:41:59",0,2014-10-6
+275,NewProject,new,,,,0,0,,0,0,0,"2014-10-08 15:31:30",0,2014-10-8
+276,NewProject,new,,,,0,0,,0,0,0,"2014-10-08 17:08:59",0,2014-10-8
+277,Gone,GON1,"Jim Byrkit","Lucas Akoskin","BN FILMS LLC",0,0,,0,0,1,"2014-10-08 17:09:40",0,2014-10-8
+278,NewProject,new,,,,0,0,,0,0,0,"2014-10-08 17:10:39",0,2014-10-8
+279,"Zombie Killer Squad",ZKSQ,,"Hank Stepleton","PickAxe Productions",0,0,,291416,0,1,"2014-10-13 16:52:10",0,2014-10-13
+280,"Chrysler 200 - ""Sweden""",SWED,,,,0,0,,291425,0,1,"2014-10-15 17:48:03",0,2014-10-15
+281,"SONY VAIO",SONY,,,,0,0,,291417,0,1,"2014-10-20 18:03:51",0,2014-10-20
+282,"Arthur Test",ATES,"Panchito Perez","Pepe Rodarte","Digital Dominio",0,0,,0,0,0,"2014-10-27 17:14:03",0,2014-10-27
+283,NewProject,new,,,,0,0,,0,0,1,"2014-10-30 12:06:26",0,2014-10-30
+284,Deadpool,POOL,,"Annemarie Griggs","20th Century FOX",0,0,,0,0,1,"2014-11-20 22:00:15",0,2014-11-20
+285,"The Eel",TEEL,"Roberto Bentivegna","Kevin Walsh","K Period Media",0,0,,0,0,1,"2014-11-28 16:44:39",0,2014-11-28
+286,Ram,RAMC,"Jeffrey Darling","Álvaro Hernández","Believe Media",0,0,,0,0,1,"2014-12-04 18:27:15",0,2014-12-4

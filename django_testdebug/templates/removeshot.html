@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+	<form action="/shot_options/delete_shot/" method="post">{% csrf_token %}
+		<p><label for='shotid'>Shot ID: </label>
+		<select name='shotid' id='shotid'>
+			{% for i in shot_obj %}
+				<option value='{{i.shotid}}'>{{i.shotname}}</option>
+			{% endfor %}
+		</select></p>
+		<input type='submit' value='Delete Shot'/>
+	</form>
+	<p>Click <a href="/shot_options/">here</a> to return to Shots operating options</p>
+
+{% endblock %}

@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+	<form action="/shot_options/assign_Image_To_shot/" method="post">{% csrf_token %}
+		<p><label for='assetid'>Asset ID: </label>
+		<select name='assetid' id='assetid'>
+			{% for i in asse_obj %}
+				<option value='{{i.assetid}}'>{{i.assetname}}</option>
+			{% endfor %}
+		</select></p>
+		<p><label for='shotid'>Shot ID: </label>
+		<select name='shotid' id='shotid'>
+			{% for i in shot_obj %}
+				<option value='{{i.shotid}}'>{{i.shotname}}</option>
+			{% endfor %}
+		</select></p>
+		<input type='submit' value='Assig Image to Shot'/>
+	</form>
+	<p>Click <a href="/shot_options/">here</a> to return to Shots operating options</p>
+
+{% endblock %}

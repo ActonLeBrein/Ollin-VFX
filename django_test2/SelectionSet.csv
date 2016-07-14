@@ -1,0 +1,387 @@
+SelectionSetID,SelectionSetName,ProjectID
+1,test,3
+7,"Stereo 30Jun",78
+8,"DPX 30JUN",78
+15,"Taxi Cab Seq",128
+16,QuaSeq,128
+17,Harvard,128
+18,Aud,128
+20,extras,78
+21,"foldy letmein",110
+22,Screening073010,128
+23,"Shots Raul",110
+24,Armory,78
+25,"FA Sequence",78
+26,"FA Sequence",78
+27,"Shots Activos",110
+28,"nuevos shots EC",78
+29,ActiveShots,110
+30,"Ela Sequence",78
+31,"fws Sequence",78
+32,"EOL Sequence",78
+33,"PR Sequence",78
+34,"SA Sequence",78
+36,BF_v01,78
+37,"REEL 3",130
+45,"EC POLARIZATION 11 SHOTS",78
+46,"PR Polarization",78
+50,"Eric Review 08.23.10",78
+51,"PR NEW SHOTS 08/30/10",78
+52,"PR POLARIZATION/GLOWS 083110",78
+57,"Eric Review 020910",78
+58,,110
+59,,110
+60,"PRESUPUESTO 1 09/03/10",110
+61,PRESUPUESTO1,110
+62,"BID ROBIN",110
+63,"Bid robin 09/08/10",110
+64,REP1,110
+65,REP2,110
+66,,110
+68,CO3,78
+69,"AR C3",78
+70,"PR C3",78
+71,EC03,78
+72,ECTracking03,78
+73,"ARPOL C04",78
+74,"ARCOSM C04",78
+76,"BF Glow Enhance Damian",78
+77,extrasCO8,78
+78,C08,78
+79,EOLSeqAll,78
+80,ECSeqOK092310,78
+81,"BF Working shots",78
+82,BFAllShots102710,78
+83,"BF FOLDI ",78
+84,"EC Activos",78
+85,"EC Non VFX",78
+86,"PR activos",78
+87,"BF FOLDI 09/29",78
+88,"EC SEQ FOLDI",78
+89,"EC NONVFX FOLDI",78
+90,"PR NONVFX FOLDI",78
+91,"PR FOLDI",78
+92,"Joe 03.10",78
+93,"PR Non VFX",78
+94,"contactSheet test",78
+95,bfCS,78
+100,"Overages A",78
+101,"Overages B",78
+102,"Overages C",78
+103,"PRGLOWS 101110",78
+104,"PR Polarization 101210",78
+105,"Contact sheet PR inside",78
+109,"EC Contact Sheet",78
+110,All,78
+111,"BF Contact Sheet",78
+112,"Shot Status Final",78
+113,,78
+114,"Color Correction 27oct",78
+115,"Delivered 27 oct",78
+117,"EL MatchColor ",78
+118,"REEL5 102810",130
+119,"BF Omit",78
+120,BF111310,78
+121,"bfoverages 111310",78
+122,"PR BID KYM 111510",78
+123,"PRKym Polarization 111510 ",78
+124,"PrKym Polar 111510",78
+125,"NEW OMITS TO DD 111610",78
+126,"Polar Kym No charge",78
+127,"OMITS 120610",130
+129,"Reel5 12/06/10",130
+130,"Bid v002",138
+131,"New Shots 12/20/10",130
+132,"OMITS 12/20/10",130
+133,"OMITS 12/21/10",130
+134,"Bid v003 12/22/10",138
+135,QualityCheck,130
+136,"New Shots Bid 01/17/11",130
+137,"Plate Reconst. Bid 01/17/11",130
+138,Etiquetas,138
+139,prueba,130
+140,"OMITS 02/16/11",130
+141,"omits 02/18/11",130
+142,"New Bid 02/18/11",130
+143,"New Bid 02/24/11",130
+144,"MissingFrame Ousource",130
+145,"New Bid 03/01/11",130
+146,"Activos POC - 3mar",138
+147,"New Work 03/02/11",138
+148,"COTIZACION ESTI",130
+149,"No OMIT/Asset",130
+150,"No OMIT/Asset",130
+151,"NO OMIT ASSET",130
+152,"NO OMIT ASSET",130
+153,"No omit",130
+154,"No OMIT/Asset",130
+155,"NO OMIT ASSET",130
+156,"No omitt",130
+157,"NO OMIT",130
+158,RF-CAMBIOS,138
+159,,138
+160,,138
+161,C0#2,138
+165,"CO Abril v3",130
+166,"CO Red Tail Color",130
+167,"CO Abril v4",130
+168,"CO NEW WORK O52311",130
+171,Sin_OM_FINALS_ILMFINALS,130
+172,Activos,130
+173,Activos,130
+174,"SHOTS A",147
+175,"Juggernaut c/assets",147
+176,Assets_shp,147
+177,ShipGraveyard/Asset,147
+180,"Wreck Site / assets",147
+184,"City Goes Dark / Assets",147
+186,"San Diego Streets / assets",147
+187,"Arashis Fight/asset",147
+188,"Review Arashis Death/Asset",147
+189,"Kronauer Fight/asset",147
+190,"Zorro repairs arm / asset",147
+192,"Who is Zorro / Asset",147
+193,Chaos/Asset,147
+195,"Final Duel / asset",147
+197,"City Rebuild / asset",147
+198,"Zorro Leaves / assets",147
+199,"Kais Dome / Asset",147
+200,"Craig Contemplates/Assets",147
+201,"Kai Selling/Assets",147
+202,"Umbilico Chase/Assets",147
+203,"Intro Umbilico/Assets",147
+204,"ALL SHOTS",147
+206,"Cotizacion Numeros",151
+207,"Cotizacion Monitores 1",151
+208,"Cotizacion Monitores 2",151
+209,CO1,149
+211,"New Shots 10.11.11",151
+212,"New Shots 10/12/11",151
+213,"Trolley Seq",155
+214,"New Shots 10.14.11",151
+217,"batch 06 Salander",151
+218,Batch7,151
+222,"Batch 9",151
+223,"New Bid 10/26/11",130
+225,"Batch 8 102711",151
+226,TestGollas,151
+227,"Batch 9 102811",151
+228,"Batch 09 10/29/11",151
+229,"Blood 10/28/11",151
+231,"Change Order October wood to brick",130
+232,"october 2011",130
+233,11/01/11,151
+234,"Painmt Out Monitor Element 11/01/11",151
+235,,130
+238,"New Work 110211",151
+239,"New Work 11.04.11",151
+240,"New work 11.09.11",151
+242,"Batch 10 11.09.2011",151
+243,"Trailer Shots",145
+244,111118,151
+245,"BatchFinal 11.22.11",151
+246,"Batch Final Corrected",151
+249,"Bid 121611 A",145
+250,testGollas01,151
+251,Gollas02,151
+252,Bidv001,165
+253,"All Delivered",151
+254,"Bid 122111",165
+255,"Bid 12211 v002",165
+256,"bid 122211",145
+257,"BluRay 01/13/12",151
+259,"batch 02",145
+260,"Bid 01.30.12",155
+261,"New shots 02.03.12",145
+263,"Full 72 shots 02.0311 A",145
+264,"Omits 02.03.11 A",145
+266,"Bid Batch 02.08.12",155
+268,"Batch 02.20.12",155
+269,"Total Animation Shots",170
+270,"Batch 1 03.01.12",174
+271,"Bid v001 03.02.12",175
+274,"Bid v002 03.06.12",174
+275,"Total Shots and Assets 03.07.12",170
+276,"FRIZZ 03/07/12",145
+277,,176
+278,"Flora bid 03.14.12",178
+279,"Bid v001",179
+280,"Bid 03.22.12",180
+281,"bid Breakdown 10 03.23.12",145
+282,"bid Breakdown8 03.23.12",145
+283,"sec TS y PC",145
+284,"seq TS yPC",145
+286,"Bid v001 .32612",176
+287,"Bid 032712",182
+288,"Bid v003 03.29.12",174
+289,"Bid 03.30.12",174
+290,allshotsok,155
+291,"batch 042012",174
+292,"Batch 1 04.23.12",163
+293,gollas,163
+294,"Batch 1 05.04.12",163
+295,"Batch 1 05.04.12",163
+296,"Batch 1 05.04.12",163
+297,"Batch 05.04.12",163
+298,"Batch 05.04.12",163
+299,"Batch 05.04.12",163
+300,"Batch 1 05.15.16",186
+301,Assets,186
+302,"batch blu ray",184
+303,"Batch mundial y final",186
+304,"Batch 05.31.12",179
+305,"TO3 062112",179
+306,"TO3 w Assets 062112",179
+307,"OB seq",179
+308,"SE seq 062112",179
+309,"SE seq 062712",179
+310,"Initial Batch 070212",190
+311,"Batch 2 071712",190
+312,"CO 1 071712",190
+313,"CO1 v002 071712",190
+315,"Omitted v001 071712",190
+316,"Batch Ep2 072412",190
+317,"Batch 3 Split Screens Ep1 y 2 072712",190
+318,"Ep1 Split Screens 073012",190
+319,"Ep2 Screen Split 073012",190
+321,"Batch WF 0703012",179
+322,"Batch WF 073112",179
+323,"Batch Seq. MT 080212",179
+324,"Batch Seq. FT 080212",179
+325,Primer_TurnOver_20120810,174
+326,"Batch Re bid Frames Change 081012",179
+327,"Turnover 2 082012",174
+329,"Screens Ep #3 082712",190
+330,"MAX bid v003",195
+331,"Max bid v003 082812",195
+332,"Max bid v003 082812",195
+333,"Screens Ep4 082930",190
+334,Bid_FireScape,190
+335,"Fire Escape v002 09/03/12",190
+336,"Background Matte Ep4",190
+337,"Turnover 5 CF, IL, JW, RC",179
+338,"Screens Ep #3 082712 v002",190
+339,"weekend 092112",190
+340,"Weekend v002 092112",190
+341,"Turnover 6 MT seq 100212",179
+342,"Tilden Car 100812",190
+343,"status 101512",190
+344,"Ep 06 - CNN Stage",190
+345,"Contract Seq 102412",179
+346,"Galloway Hotel 102512",190
+347,"Memorial Service Ep3 20121101",190
+348,"Memorial Service Ep3 110612",190
+349,"Slugline Offices 112012",190
+350,"Trailer shots 112312",174
+351,TestGollo,174
+352,"Screens Ep5 112612",190
+353,"Episode 5 & 6 20121130",190
+354,"Episode 6 20121203",190
+355,"CNN Screens Ep 6 20121206",190
+356,"Drive Scene Ep10 120912",190
+357,"Razor Sequence Ep5 120912",190
+358,"Photos of Zoe Ep 5 120912",190
+359,"TOTAL VFX SHOTS",174
+360,"Episode 13 121912",190
+361,"Bundle Easy",203
+362,"Bundel Medium",203
+363,"Desert Chase 122612",203
+364,"Greco Yard 122612",203
+365,"Stockyard 122612",203
+366,"Batch 1 122812",203
+367,"Stig's Apartment Night 010213",203
+368,"Stig's Apartment Day 010213",203
+369,"Deb's house",203
+370,"T bone",203
+373,DesertChase_Omits_1Asset,203
+374,"Total VFX shots NO ASSETS",174
+375,"Bid 20130130",174
+376,HRCheck,174
+377,HRCHECKFinals,174
+380,"Primer Batch Entregado a Labo",174
+381,"Primera Revision HR Rafa Lara",174
+382,"First look 022013",174
+383,,174
+384,"High Res check 022013",174
+385,"HighRes check 022013 v002",174
+386,"for discussion 022013",174
+388,"Segundo Batch Entregado a Labo",174
+389,"Segunda Revision HR Rafa Lara",174
+390,"rollo#01 revisión feb 20",174
+391,"rollo#02 feb 20",174
+392,"rollo #03 feb 20",174
+393,"rollo #04 feb 20",174
+394,"rollo #05 feb 20",174
+395,"rollo 06 feb 20",174
+396,"rollo 07 feb 20",174
+412,"Febrero 22",174
+413,"Marzo 01",174
+416,"Tercer Bacth Entregado a Labo",174
+417,"cambios 22",174
+418,"Omits 022613",174
+419,"Omits pesos 022613",174
+420,"Screening 20130227",174
+421,"New Shot 022813",174
+422,"Condor nest 022813",179
+423,"7 batch",174
+424,Janelle,203
+425,Trailer,203
+426,Windshield,203
+427,"client review",203
+428,"Client Review 20130312",203
+430,"des trailer",203
+437,OVFX,203
+438,"MAYO OLLIN",174
+439,"MAYO OLLIN",174
+440,"MAYO OLLIN",174
+441,"MAYO OLLIN",174
+442,"MAYO OLLIN",174
+443,"MAYO OLLIN",174
+444,"Missing Notes 02",203
+445,"missing notes 02",203
+446,des,203
+447,"Total shots 051413",211
+449,select,219
+450,Select,219
+451,"1° Delivery LABO 20130815",219
+461,"2° Delivery LABO 20130902",219
+462,Screening,219
+465,"3° Delivery LABO 20130920",219
+466,Delivery,223
+467,"No stabilization 20131231",239
+468,"no stab good 20131231",239
+469,muahaha,239
+470,muahaha,239
+492,nuevalista-morales-backup,239
+493,"Batch Morales 20140102",239
+494,sel201,223
+495,drive11,223
+496,HDDelivery_011514,223
+497,"Batch Final VFX v04 20140128",239
+498,CUC_Batch_01_20140130,232
+499,"Batch 020514",239
+500,"parte 1",232
+501,"shots de ollin",232
+502,"Batch based on QT v03 040714",239
+504,"Batch Revisión v005 020714",239
+505,"Batch Revisión v005 020714",239
+506,"Batch Revisión v005 020714",239
+508,"1 Bacth para LABO 20140211",232
+509,"2 Batch Labo 20140212",232
+510,"3 Batch para labo 20140213",232
+511,"4 Batch para labo 20140214",232
+513,"5 Batch para Labo 20140215",232
+514,"6 batch para labo 201402151",232
+515,"Batch 01 20140303",244
+516,miSeleccionEspecal,232
+517,julian,239
+518,Julian,239
+519,Final_DELIVERY,239
+520,Final_Delivery_20140428,239
+527,TOTALS,211
+528,"17 mayo",211
+529,"24 mayo",211
+530,test2,3
+531,VISI_092314,210
+532,BOASame,266
+533,test,223
